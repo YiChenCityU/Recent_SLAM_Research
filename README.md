@@ -87,6 +87,55 @@
 
 #### 1. MatchBench: An Evaluation of Feature Matchers 
 
+## 视觉激光融合 Fusion of visual and laser 
+
+#### 3. Laser-visual-inertial odometry and mapping with high robustness and low drift1
+
+#### 2. ROBUST LOOP CLOSURES FOR SCENE RECONSTRUCTION BY COMBINING ODOMETRY AND VISUAL CORRESPONDENCES （RGBD+odometry 做回环检测）https://www.youtube.com/watch?v=peXrP374MVI https://github.com/zlaskar/Robust-Loop-Closures
+
+#### 1.Scale Correct Monocular Visual Odometry Using a LiDAR Altimeter
+
+## 三维重建 3D reconstruction 
+
+#### 5.Object Pose Estimation from Monocular Image using Multi-View Keypoint Correspondence
+
+#### 4.Depth Super-Resolution Meets Uncalibrated Photometric Stereo (低分辨率depth+不同光照下，同一视角高分辨率RBG => 高分辨率深度图)
+
+#### 3. Robust 3D Surface Reconstruction in Real-Time with Localization Sensor
+
+#### 2. EchoFusion: Tracking and Reconstruction of Objects in 4D Freehand Ultrasound Imaging without External Trackers
+
+#### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
+
+## 深度学习（DL）+SLAM
+ 
+#### 7. Fusion++: Volumetric Object-Level SLAM
+
+#### 6. UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning github:https://github.com/drmaj/UnDeepVO
+
+#### 5. Learning-based Image Enhancement for Visual Odometry in Challenging HDR Environments
+
+#### 4. Graph-Based Place Recognition in Image Sequences with CNN Features
+
+#### 3. VSO: Visual Semantic Odometry
+
+#### 2. Real-time Dense Monocular SLAM with Online Adapted Depth Prediction Network 
+
+#### 1. DeepTAM: Deep Tracking and Mapping 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
