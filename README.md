@@ -1,5 +1,6 @@
 # Recent_SLAM_Research
-时刻跟踪SLAM前沿动态 （2017-2018）
+跟踪SLAM前沿动态 （2017-2018），包括纯视觉SLAM，三维重建，基础数学工具，导航路径规划，深度学习SLAM，激光与视觉融合等类别。
+
 ## Visual SLAM 
 #### 30. DOVO: Mixed Visual Odometry Based on Direct Method and Orb Feature: 通过特征点个数判断用直接法与光流法。交替使用
 
