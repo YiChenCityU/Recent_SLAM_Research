@@ -62,6 +62,34 @@
 #### 1. Absolute Orientation and Localization Estimation from an Omnidirectional Image 
 
 
+## 基础工具 Basic tools 
+
+#### 11. An Improved RANSAC Algorithm for Simultaneous Localization and Mapping
+
+#### 10. Baidu Apollo Auto-Calibration System - An Industry-Level Data-Driven and Learning based Vehicle Longitude Dynamic Calibrating Algorithm
+
+#### 9.RES-Q: Robust Outlier Detection Algorithm for Fundamental Matrix Estimation
+
+#### 8.Fast and robust local feature extraction for 3D reconstruction
+
+#### 7.Matrix Difference in Pose-Graph Optimization https://gitlab.com/srrg-software/srrg_g2o_chordal_plugin 
+
+#### 6. Nonlinear Distortion Calibration of an Optical Flow Sensor for Monocular Visual Odometry
+
+#### 5. Five-point algorithm: an efficient cloud-based FPGA implementation
+
+#### 4. SC-RANSAC: Spatial consistency on RANSAC 
+
+#### 3.Towards A Deep Insight into Landmark-based Visual Place Recognition: Methodology and Practice 
+
+#### 2. In Defense of Relative Multi-View Geometry
+
+#### 1. MatchBench: An Evaluation of Feature Matchers 
+
+
+
+
+
 
 
 
