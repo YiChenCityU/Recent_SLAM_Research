@@ -1,7 +1,7 @@
 # Recent_SLAM_Research
 时刻跟踪SLAM前沿动态 （2017-2018）
 ## Visual SLAM 
-###30. DOVO: Mixed Visual Odometry Based on Direct Method and Orb Feature: 通过特征点个数判断用直接法与光流法。交替使用
+### 30. DOVO: Mixed Visual Odometry Based on Direct Method and Orb Feature: 通过特征点个数判断用直接法与光流法。交替使用
 
 ###29. UFSM_VO: STEREO ODOMETRY BASED ON UNIFORMLY FEATURE SELECTION AND STRICTLY CORRESPONDENCE MATCHING： 创新度一般
 
