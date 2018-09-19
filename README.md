@@ -2,7 +2,15 @@
 【回馈社区】跟踪SLAM前沿动态 （2017-2018），精选paper包括纯视觉SLAM，三维重建，基础数学工具，导航路径规划，深度学习SLAM，激光与视觉融合等类别。
 
 ## Visual SLAM
-#### 31 2018-09-10-Monocular Object and Plane SLAM in Structured Environments. 约束中加入识别的物体与平面
+----------ECCV 2018【都无代码，关于SLAM的不多】----------
+#### 37. 2018-09-14-[VSO: Visual Semantic Odometry](http://openaccess.thecvf.com/content_ECCV_2018/papers/Konstantinos-Nektarios_Lianos_VSO_Visual_Semantic_ECCV_2018_paper.pdf) 题目越短，文章越牛逼？
+#### 36. 2018-09-14-Direct Sparse Odometry with Rolling Shutter 同样是Cremers出品，看题目就知道了
+#### 35. 2018-09-14-Modeling Varying Camera-IMU Time Offset in Optimization-Based Visual-Inertial Odometry 科大沈老师门生根叔出品，解决了卷帘快门问题，加速IMU预积分，以及使初始化更鲁棒，AR界梦寐以求的算法，可惜没代码
+#### 34. 2018-09-14-Deep Virtual Stereo Odometry:Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry  Cremers出品，用单目深度估计+DSO 
+#### 33. 2018-09-14-Good Line Cutting: towards Accurate Pose Tracking of Line-assisted VO/VSLAM 对于线特征提取线内信息最多的一段做SLAM，声称对低纹理，运动模糊鲁邦
+#### 32. 2018-09-14-Linear RGB-D SLAM for Planar Environments 卡尔曼滤波估计位姿与平面特征 
+----------ECCV 2018 ----------
+#### 31. 2018-09-10-Monocular Object and Plane SLAM in Structured Environments. 约束中加入识别的物体与平面
 #### 30. DOVO: Mixed Visual Odometry Based on Direct Method and Orb Feature: 通过特征点个数判断用直接法与光流法。交替使用
 
 #### 29. UFSM_VO: STEREO ODOMETRY BASED ON UNIFORMLY FEATURE SELECTION AND STRICTLY CORRESPONDENCE MATCHING： 创新度一般
