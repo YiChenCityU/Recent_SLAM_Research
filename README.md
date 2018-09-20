@@ -2,6 +2,15 @@
 【回馈社区】跟踪SLAM前沿动态 （2017-2018），精选paper包括纯视觉SLAM，三维重建，基础数学工具，导航路径规划，深度学习SLAM，激光与视觉融合等类别。
 
 ## Visual SLAM
+#### 53. [ICRA 2018] [Online Initialization and Automatic Camera-IMU Extrinsic Calibration for Monocular Visual-Inertial SLAM](https://ieeexplore.ieee.org/document/8460206/) 单目IMU自动标定，老铁知道比VINS好在哪里么
+#### 52. [ICRA 2018] [Semi-Dense Visual-Inertial Odometry and Mapping for Quadrotors with SWAP Constraints](https://ieeexplore.ieee.org/document/8463163/)
+#### 51. [ICRA 2018] [Assigning Visual Words to Places for Loop Closure Detection](https://sci-hub.tw/https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8461146) 使用GNG clustering algorithm
+#### 50. [ICRA 2018] [Online Safe Trajectory Generation for Quadrotors Using Fast Marching Method and Bernstein Basis Polynomial](https://ieeexplore.ieee.org/document/8462878/) 沈老师连续两篇路径规划
+#### 49. [ICRA 2018] [Trajectory Replanning for Quadrotors Using Kinodynamic Search and Elastic Optimization](https://sci-hub.tw/https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8463188)
+#### 48. [ICRA 2018] [Feature-constrained Active Visual SLAM for Mobile Robot Navigation](https://sci-hub.tw/https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8460721)路径规划时候考虑特征点数量,[代码在此](https://github.com/XinkeAE/Active-ORB-SLAM2)
+#### 47. [ICRA 2018] [A Monocular SLAM System Leveraging Structural Regularity in Manhattan World](https://sci-hub.tw/https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8463165)[原理与code](http://cvrs.whu.edu.cn/projects/Struct-PL-SLAM/)
+#### 46. [ICRA 2018] [Monocular Visual Odometry Scale Recovery using Geometrical Constraint](http://sci-hub.tw/https://ieeexplore.ieee.org/document/8462902)
+#### 45. [ICRA 2018] [Detection and Resolution of Motion Conflict in Visual Inertial Odometry](https://sci-hub.tw/https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8460870) 解决视觉与IMU估计值之间冲突问题
 ----------ECCV 2018【都无代码，可惜】----------
 #### 44. 2018-09-14-[Realtime Time Synchronized Event-based Stereo](http://openaccess.thecvf.com/content_ECCV_2018/papers/Alex_Zhu_Realtime_Time_Synchronized_ECCV_2018_paper.pdf) 双目事件相机，第一家吧
 #### 43. 2018-09-14-[Stereo relative pose from line and point feature triplets](http://openaccess.thecvf.com/content_ECCV_2018/papers/Alexander_Vakhitov_Stereo_relative_pose_ECCV_2018_paper.pdf) 点线结合，但是匹配的是三帧图像
