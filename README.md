@@ -14,7 +14,7 @@
 #### 36. 2018-09-14-[Direct Sparse Odometry with Rolling Shutter](http://openaccess.thecvf.com/content_ECCV_2018/papers/David_Schubert_Direct_Sparse_Odometry_ECCV_2018_paper.pdf) 同样是Cremers出品，看题目就知道了
 #### 35. 2018-09-14-[Modeling Varying Camera-IMU Time Offset in Optimization-Based Visual-Inertial Odometry](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yonggen_Ling_Modeling_Varying_Camera-IMU_ECCV_2018_paper.pdf) 科大沈老师门生根叔出品，解决了卷帘快门问题，加速IMU预积分，以及使初始化更鲁棒，AR界梦寐以求的算法，可惜没代码
 #### 34. 2018-09-14-[Deep Virtual Stereo Odometry:Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](http://openaccess.thecvf.com/content_ECCV_2018/papers/Nan_Yang_Deep_Virtual_Stereo_ECCV_2018_paper.pdf)  Cremers出品，用单目深度估计+DSO 
-#### 33. 2018-09-14-[Good Line Cutting: towards Accurate Pose Tracking of Line-assisted VO/VSLAM](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yipu_Zhao_Good_Line_Cutting_ECCV_2018_paper.pdf) 对于线特征提取线内信息最多的一段做SLAM，声称对低纹理，运动模糊鲁邦
+#### 33. 2018-09-14-[Good Line Cutting: towards Accurate Pose Tracking of Line-assisted VO/VSLAM](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yipu_Zhao_Good_Line_Cutting_ECCV_2018_paper.pdf) 对于线特征提取线内信息最多的一段做SLAM，声称对低纹理，运动模糊鲁棒
 #### 32. 2018-09-14-[Linear RGB-D SLAM for Planar Environments](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pyojin_Kim_Linear_RGB-D_SLAM_ECCV_2018_paper.pdf) 卡尔曼滤波估计位姿与平面特征 
 ----------ECCV 2018 ----------
 #### 31. 2018-09-10-Monocular Object and Plane SLAM in Structured Environments. 约束中加入识别的物体与平面
@@ -112,7 +112,7 @@
 #### 1.Scale Correct Monocular Visual Odometry Using a LiDAR Altimeter
 
 ## 三维重建 3D reconstruction 
-
+#### 6.2018-09-15-[Real-time High-accuracy Three-Dimensional Reconstruction with Consumer RGB-D Cameras](http://sci-hub.tw/10.1145/3182157)加入了uncertaintyaware,and local-to-global RGB-D bundle adjustment strategy 
 #### 5.Object Pose Estimation from Monocular Image using Multi-View Keypoint Correspondence
 
 #### 4.Depth Super-Resolution Meets Uncalibrated Photometric Stereo (低分辨率depth+不同光照下，同一视角高分辨率RBG => 高分辨率深度图)
