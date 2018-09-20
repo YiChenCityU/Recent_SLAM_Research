@@ -8,7 +8,7 @@
 #### 50. [ICRA 2018] [Online Safe Trajectory Generation for Quadrotors Using Fast Marching Method and Bernstein Basis Polynomial](https://ieeexplore.ieee.org/document/8462878/) 沈老师连续两篇路径规划
 #### 49. [ICRA 2018] [Trajectory Replanning for Quadrotors Using Kinodynamic Search and Elastic Optimization](https://sci-hub.tw/https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8463188)
 #### 48. [ICRA 2018] [Feature-constrained Active Visual SLAM for Mobile Robot Navigation](https://sci-hub.tw/https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8460721)路径规划时候考虑特征点数量,[代码在此](https://github.com/XinkeAE/Active-ORB-SLAM2)
-#### 47. [ICRA 2018] [A Monocular SLAM System Leveraging Structural Regularity in Manhattan World](https://sci-hub.tw/https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8463165)[原理与code](http://cvrs.whu.edu.cn/projects/Struct-PL-SLAM/)
+#### 47. [ICRA 2018] [A Monocular SLAM System Leveraging Structural Regularity in Manhattan World](https://sci-hub.tw/https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8463165)国内慢慢也有实验室开源了[原理与code](http://cvrs.whu.edu.cn/projects/Struct-PL-SLAM/)
 #### 46. [ICRA 2018] [Monocular Visual Odometry Scale Recovery using Geometrical Constraint](http://sci-hub.tw/https://ieeexplore.ieee.org/document/8462902)
 #### 45. [ICRA 2018] [Detection and Resolution of Motion Conflict in Visual Inertial Odometry](https://sci-hub.tw/https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8460870) 解决视觉与IMU估计值之间冲突问题
 ----------ECCV 2018【都无代码，可惜】----------
