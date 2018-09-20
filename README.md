@@ -2,6 +2,15 @@
 【回馈社区】跟踪SLAM前沿动态 （2017-2018），精选paper包括纯视觉SLAM，三维重建，基础数学工具，导航路径规划，深度学习SLAM，激光与视觉融合等类别。
 
 ## Visual SLAM
+#### 61. [CVPR 2018] [Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction](https://arxiv.org/pdf/1803.03893.pdf) Ian Reid出品，[代码在此](https://github.com/Huangying-Zhan/Depth-VO-Feat)。
+#### 60. [CVPR 2018] [InLoc: Indoor Visual Localization with Dense Matching and View Synthesis](https://arxiv.org/pdf/1803.10368v2.pdf) 已知3Dmap做定位
+#### 59. [CVPR 2018] [Polarimetric Dense Monocular SLAM](https://www.cs.sfu.ca/~pingtan/Papers/cvpr18_pdms.pdf) 偏振光传感器SLAM，[传感器原理](http://thinklucid.cn/tech-briefs/polarization-explained-sony-polarized-sensor/)
+#### 58. [CVPR 2018] [Semantic Visual Localization](https://arxiv.org/pdf/1712.05773.pdf)
+#### 57. [CVPR 2018] [CodeSLAM — Learning a Compact, Optimisable Representation for Dense Visual SLAM](https://arxiv.org/pdf/1804.00874v1.pdf)
+#### 56. [CVPR 2018] [Fast Monte-Carlo Localization on Aerial Vehicles usingApproximate Continuous Belief Representations](https://arxiv.org/pdf/1712.05507v3.pdf) 粒子滤波viusal+IMU
+#### 55. [CVPR 2018] [ICE-BA: Incremental, Consistent and Efficient Bundle Adjustment for
+Visual-Inertial SLAM](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_ICE-BA_Incremental_Consistent_CVPR_2018_paper.pdf)新的优化库
+#### 54. [CVPR 2018] [Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions](https://arxiv.org/pdf/1707.09092v3.pdf) 针对于场景变化较大时，例如四季变换的SLAM数据集
 #### 53. [ICRA 2018] [Online Initialization and Automatic Camera-IMU Extrinsic Calibration for Monocular Visual-Inertial SLAM](https://ieeexplore.ieee.org/document/8460206/) 单目IMU自动标定，老铁知道比VINS好在哪里么
 #### 52. [ICRA 2018] [Semi-Dense Visual-Inertial Odometry and Mapping for Quadrotors with SWAP Constraints](https://ieeexplore.ieee.org/document/8463163/)
 #### 51. [ICRA 2018] [Assigning Visual Words to Places for Loop Closure Detection](https://sci-hub.tw/https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8461146) 使用GNG clustering algorithm
