@@ -19,7 +19,7 @@
 #### 47. [ICRA 2018] [A Monocular SLAM System Leveraging Structural Regularity in Manhattan World](https://sci-hub.tw/https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8463165)国内慢慢也有实验室开源了[原理与code](http://cvrs.whu.edu.cn/projects/Struct-PL-SLAM/)
 #### 46. [ICRA 2018] [Monocular Visual Odometry Scale Recovery using Geometrical Constraint](http://sci-hub.tw/https://ieeexplore.ieee.org/document/8462902)
 #### 45. [ICRA 2018] [Detection and Resolution of Motion Conflict in Visual Inertial Odometry](https://sci-hub.tw/https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8460870) 解决视觉与IMU估计值之间冲突问题
-----------ECCV 2018【都无代码，可惜】----------
+#### ----------ECCV 2018【都无代码，可惜】----------
 #### 44. 2018-09-14-[Realtime Time Synchronized Event-based Stereo](http://openaccess.thecvf.com/content_ECCV_2018/papers/Alex_Zhu_Realtime_Time_Synchronized_ECCV_2018_paper.pdf) 双目事件相机，第一家吧
 #### 43. 2018-09-14-[Stereo relative pose from line and point feature triplets](http://openaccess.thecvf.com/content_ECCV_2018/papers/Alexander_Vakhitov_Stereo_relative_pose_ECCV_2018_paper.pdf) 点线结合，但是匹配的是三帧图像
 #### 42. 2018-09-14-[Fast and Accurate Camera Covariance Computation for Large 3D Reconstruction](http://openaccess.thecvf.com/content_ECCV_2018/papers/Michal_Polic_Fast_and_Precise_ECCV_2018_paper.pdf) 以数学为切入点，难懂
@@ -33,7 +33,7 @@
 #### 34. 2018-09-14-[Deep Virtual Stereo Odometry:Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](http://openaccess.thecvf.com/content_ECCV_2018/papers/Nan_Yang_Deep_Virtual_Stereo_ECCV_2018_paper.pdf)  Cremers出品，用单目深度估计+DSO 
 #### 33. 2018-09-14-[Good Line Cutting: towards Accurate Pose Tracking of Line-assisted VO/VSLAM](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yipu_Zhao_Good_Line_Cutting_ECCV_2018_paper.pdf) 对于线特征提取线内信息最多的一段做SLAM，声称对低纹理，运动模糊鲁棒
 #### 32. 2018-09-14-[Linear RGB-D SLAM for Planar Environments](http://openaccess.thecvf.com/content_ECCV_2018/papers/Pyojin_Kim_Linear_RGB-D_SLAM_ECCV_2018_paper.pdf) 卡尔曼滤波估计位姿与平面特征 
-----------ECCV 2018 ----------
+#### ----------ECCV 2018 ----------
 #### 31. 2018-09-10-Monocular Object and Plane SLAM in Structured Environments. 约束中加入识别的物体与平面
 #### 30. DOVO: Mixed Visual Odometry Based on Direct Method and Orb Feature: 通过特征点个数判断用直接法与光流法。交替使用
 
