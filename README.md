@@ -8,8 +8,7 @@
 #### 58. [CVPR 2018] [Semantic Visual Localization](https://arxiv.org/pdf/1712.05773.pdf)
 #### 57. [CVPR 2018] [CodeSLAM — Learning a Compact, Optimisable Representation for Dense Visual SLAM](https://arxiv.org/pdf/1804.00874v1.pdf)
 #### 56. [CVPR 2018] [Fast Monte-Carlo Localization on Aerial Vehicles usingApproximate Continuous Belief Representations](https://arxiv.org/pdf/1712.05507v3.pdf) 粒子滤波viusal+IMU
-#### 55. [CVPR 2018] [ICE-BA: Incremental, Consistent and Efficient Bundle Adjustment for
-Visual-Inertial SLAM](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_ICE-BA_Incremental_Consistent_CVPR_2018_paper.pdf)新的优化库
+#### 55. [CVPR 2018] [ICE-BA: Incremental, Consistent and Efficient Bundle Adjustment for Visual-Inertial SLAM](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_ICE-BA_Incremental_Consistent_CVPR_2018_paper.pdf)新的优化库
 #### 54. [CVPR 2018] [Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions](https://arxiv.org/pdf/1707.09092v3.pdf) 针对于场景变化较大时，例如四季变换的SLAM数据集
 #### 53. [ICRA 2018] [Online Initialization and Automatic Camera-IMU Extrinsic Calibration for Monocular Visual-Inertial SLAM](https://ieeexplore.ieee.org/document/8460206/) 单目IMU自动标定，老铁知道比VINS好在哪里么
 #### 52. [ICRA 2018] [Semi-Dense Visual-Inertial Odometry and Mapping for Quadrotors with SWAP Constraints](https://ieeexplore.ieee.org/document/8463163/)
