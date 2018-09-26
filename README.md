@@ -1,5 +1,10 @@
 # Recent_SLAM_Research
 【回馈社区】跟踪SLAM前沿动态 （2017-2018），技术更新太快，开启paper暴走模式，精选paper包括纯视觉SLAM，三维重建，基础数学工具，导航路径规划，深度学习SLAM，激光与视觉融合等类别。
+# 预警！！这是广告位
+
+### 1.如果你是HR，欢迎开issue贴上招聘广告
+### 2.如果你是攻城狮，欢迎开issue求职
+### 3.机器人独角兽企业，长期招聘算法工程师，有意微信sinnature
 
 ## Visual SLAM
 #### 61. [CVPR 2018] [Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction](https://arxiv.org/pdf/1803.03893.pdf) Ian Reid出品，[代码在此](https://github.com/Huangying-Zhan/Depth-VO-Feat)。
