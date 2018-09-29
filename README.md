@@ -7,6 +7,15 @@
 ### 3.机器人独角兽企业，长期招聘算法工程师，有意微信sinnature
 
 ## Visual SLAM
+#### 70. 2018-09-28-[Visual Multimodal Odometry: Robust Visual Odometry in Harsh Environments](https://ieeexplore.ieee.org/abstract/document/8468653)
+#### 69. 2018-09-28-[Real-time Graph-Based 3D Reconstruction of Sparse Feature Environments for Mobile Robot Applications](https://ieeexplore.ieee.org/abstract/document/8468658)
+#### 68. 2018-09-26-[Linear SLAM: Linearising the SLAM Problems using Submap Joining ](https://arxiv.org/pdf/1809.06967.pdf) 创建大地图，有代码在openslam上，但是没找到
+#### 67. 2018-09-26-[Gaze Selection for Enhanced Visual Odometry During Navigation](http://www.cim.mcgill.ca/~mrl/pubs/travism/travis_manderson_crv2018.pdf) 控制机器人“眼球”看向特征点多的地方
+#### 66. 2018-09-26-[GPU-accelerated feature tracking for 3D reconstruction](http://sci-hub.tw/http://www.sciencedirect.com/science/article/pii/S003039921831096X) GPU 加速
+#### 65. 2018-09-25-[Navion: A 2mW Fully Integrated Real-Time Visual-Inertial Odometry Accelerator for Autonomous Navigation of Nano Drones](https://arxiv.org/pdf/1809.05780.pdf) 能耗更小的VIO系统
+#### 64. 2018-09-25-[Project AutoVision: Localization and 3D Scene Perception for an Autonomous Vehicle with a Multi-Camera System](https://arxiv.org/pdf/1809.05477.pdf)
+#### 63. 2018-09-17-[Efficient 2D-3D Matching for Multi-Camera Visual Localization](https://arxiv.org/pdf/1809.06445.pdf) 已有地图时，做定位.
+#### 62. 2018-09-17-[DSVO: Direct Stereo Visual Odometry](https://irvlab.dl.umn.edu/sites/g/files/pua3056/f/dsvo_paper.pdf)没有双目的matching，另一个摄像头的作用是优化尺度,[代码在此](https://github.com/jiawei-mo/dsvo).
 #### 61. [CVPR 2018] [Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction](https://arxiv.org/pdf/1803.03893.pdf) Ian Reid出品，[代码在此](https://github.com/Huangying-Zhan/Depth-VO-Feat)。
 #### 60. [CVPR 2018] [InLoc: Indoor Visual Localization with Dense Matching and View Synthesis](https://arxiv.org/pdf/1803.10368v2.pdf) 已知3Dmap做定位
 #### 59. [CVPR 2018] [Polarimetric Dense Monocular SLAM](https://www.cs.sfu.ca/~pingtan/Papers/cvpr18_pdms.pdf) 偏振光传感器SLAM，[传感器原理](http://thinklucid.cn/tech-briefs/polarization-explained-sony-polarized-sensor/)
@@ -102,6 +111,9 @@
 
 
 ## 基础工具 Basic tools 
+#### 14. 2018-09-25-[A Versatile Method for Depth Data Error Estimation in RGB-D Sensors](http://scholar.google.com.hk/scholar_url?url=http://www.mdpi.com/1424-8220/18/9/3122/pdf&hl=zh-CN&sa=X&d=12129107753992395518&scisig=AAGBfm0q9zuCD6ER7bvEAxqrxPkqLMWukw&nossl=1&oi=scholaralrt&hist=3Pwx2kMAAAAJ:9829349442900101321:AAGBfm3Ah2enR6Y-2I_2pUfaBiohQzvJcw) 判断RGBD深度信息准确性的方法
+#### 13. 2018-09-25-[Lambda Twist: An Accurate Fast Robust Perspective Three Point (P3P) Solver.](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mikael_Persson_Lambda_Twist_An_ECCV_2018_paper.pdf) 更快更准的P3P方法，[代码](https://github.com/midjji/lambdatwist-p3p)
+#### 12. 2018-09-18-[Adding Cues to Binary Feature Descriptors for Visual Place Recognition](https://arxiv.org/pdf/1809.06690.pdf)
 
 #### 11. An Improved RANSAC Algorithm for Simultaneous Localization and Mapping
 
@@ -134,6 +146,7 @@
 #### 1.Scale Correct Monocular Visual Odometry Using a LiDAR Altimeter
 
 ## 三维重建 3D reconstruction 
+#### 7.2018-09-17-[Building Dense Reflectance Maps of Indoor Environments using an RGB-D Camera](http://ais.informatik.uni-freiburg.de/publications/papers/krawez18iros.pdf) 去除光源条件对重建的影响.
 #### 6.2018-09-15-[Real-time High-accuracy Three-Dimensional Reconstruction with Consumer RGB-D Cameras](http://sci-hub.tw/10.1145/3182157)加入了uncertaintyaware,and local-to-global RGB-D bundle adjustment strategy 
 #### 5.Object Pose Estimation from Monocular Image using Multi-View Keypoint Correspondence
 
@@ -146,6 +159,9 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
+#### 11. 2018-09-26-[An Orientation Factor for Object-Oriented SLAM](https://arxiv.org/pdf/1809.06977.pdf) 
+#### 10. 2018-09-25 [A Variational Observation Model of 3D Object for Probabilistic Semantic SLAM](https://arxiv.org/pdf/1809.05225.pdf)
+#### 9. 2018-09-25 [GANVO: Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks](https://arxiv.org/pdf/1809.05786.pdf)
 #### 8. 2018-07-25 Deep Virtual Stereo Odometry: Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry.TUM DL+DSO大作
  
 #### 7. Fusion++: Volumetric Object-Level SLAM
@@ -161,17 +177,6 @@
 #### 2. Real-time Dense Monocular SLAM with Online Adapted Depth Prediction Network 
 
 #### 1. DeepTAM: Deep Tracking and Mapping 
-
-
-
-
-
-
-
-
-
-
-
 
 
 
