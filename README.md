@@ -161,6 +161,7 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
+#### 15. 2018-10-08-[Learning to Fly by MySelf:A Self-Supervised CNN-based Approach for Autonomous Navigation](http://cas.ee.ic.ac.uk/people/alk15/files/IROS_2018_drone_nav.pdf)
 #### 14. 2018-10-08-[Semi-dense Stereo Matching using Dual CNNs](https://arxiv.org/pdf/1810.01369.pdf)深度估计
 #### 13. 2018-10-08-[Deep Learning Based Semantic Labelling of 3D Point Cloudin Visual SLAM ](http://iopscience.iop.org/article/10.1088/1757-899X/428/1/012023/pdf) SLAM 加上点云标签[代码在此](https://github.com/qixuxiang/orb-slam2_with_semantic_label)
 #### 12. 2018-10-06-[CNN-SVO: Improving the Mapping in Semi-Direct Visual OdometryUsing Single-Image Depth Prediction](https://arxiv.org/pdf/1810.01011.pdf) 用CNN 减少深度估计误差 [代码在此](https://arxiv.org/pdf/1810.01011.pdf)
