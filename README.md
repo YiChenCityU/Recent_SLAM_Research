@@ -7,6 +7,7 @@
 ### 3.机器人独角兽企业，长期招聘算法工程师，有意微信sinnature
 
 ## Visual SLAM
+#### 72. 2018-10-09-[Illumination Robust Monocular Direct Visual Odometry for Outdoor Environment Mapping](https://hal.archives-ouvertes.fr/hal-01876700/document) 增强室外光照鲁棒性
 #### 71. 2018-10-08-[Review of Wheeled Mobile Robots’ Navigation Problems and Application Prospects in Agriculture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8456505) 路径规划review
 #### 70. 2018-09-28-[Visual Multimodal Odometry: Robust Visual Odometry in Harsh Environments](https://ieeexplore.ieee.org/abstract/document/8468653)
 #### 69. 2018-09-28-[Real-time Graph-Based 3D Reconstruction of Sparse Feature Environments for Mobile Robot Applications](https://ieeexplore.ieee.org/abstract/document/8468658)
@@ -110,6 +111,8 @@
 
 #### 1. Absolute Orientation and Localization Estimation from an Omnidirectional Image 
 
+## 路径规划导航 
+#### 1. 2018-10-08-[Path Planning for Mobile Agents Using a Genetic Algorithm with a Direction Guided Factor](https://www.mdpi.com/2079-9292/7/10/212/htm)
 
 ## 基础工具 Basic tools 
 #### 17. 2018-10-08-[An improved SIFT algorithm based on adaptive fractional differential](http://sci-hub.tw/10.1007/s12652-018-1055-1) 
@@ -163,6 +166,8 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
+#### 18. 2018-10-09-[DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments](https://arxiv.org/pdf/1809.08379.pdf) 
+#### 17. 2018-10-09-[Real-Time Monocular Object-Model Aware Sparse SLAM](https://arxiv.org/pdf/1809.09149.pdf) Ian Reid
 #### 16. 2018-10-08-[Efficient Constellation-Based Map-Merging for Semantic SLAM](https://arxiv.org/pdf/1809.09646.pdf)
 #### 15. 2018-10-08-[Learning to Fly by MySelf:A Self-Supervised CNN-based Approach for Autonomous Navigation](http://cas.ee.ic.ac.uk/people/alk15/files/IROS_2018_drone_nav.pdf)
 #### 14. 2018-10-08-[Semi-dense Stereo Matching using Dual CNNs](https://arxiv.org/pdf/1810.01369.pdf)深度估计
