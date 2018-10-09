@@ -89,7 +89,7 @@
 
 #### 12. A General Framework for Flexible Multi-Cue Photometric Point Cloud Registration : https://gitlab.com/srrg-software/srrg_mpr
 
-#### 11. ProSLAM: Graph SLAM from a Programmer's Perspective: 改变数据结构，计算资源更少https://gitlab.com/srrg-software/srrg_proslam/tree/master
+#### 11. [ProSLAM: Graph SLAM from a Programmer's Perspective](https://arxiv.org/pdf/1709.04377.pdf): 改变数据结构，计算资源更少https://gitlab.com/srrg-software/srrg_proslam/tree/master
 
 #### 10. DS-PTAM: Distributed Stereo Parallel Tracking and Mapping SLAM System
 
