@@ -6,6 +6,8 @@
 ### 2.如果你是攻城狮，欢迎开issue求职
 ### 3.机器人独角兽企业，长期招聘算法工程师，有意微信sinnature
 
+## SLAM 能力图 
+
 ## Visual SLAM
 #### 72. 2018-10-09-[Illumination Robust Monocular Direct Visual Odometry for Outdoor Environment Mapping](https://hal.archives-ouvertes.fr/hal-01876700/document) 增强室外光照鲁棒性
 #### 71. 2018-10-08-[Review of Wheeled Mobile Robots’ Navigation Problems and Application Prospects in Agriculture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8456505) 路径规划review
