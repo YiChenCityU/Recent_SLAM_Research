@@ -13,6 +13,8 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 74. 2018-10-11-[SE(2)-Constrained Visual Inertial Fusion for Ground Vehicles](https://ieeexplore.ieee.org/abstract/document/8478293/authors#authors) 贡献：This paper proposed a new visual inertial fusion framework for ground vehicles, based on an SE(2)-constrained pose parameterization.
+#### 73. 2018-10-11-[A Structureless Approach for Visual Odometry](https://ywseo.github.io/files/structureless-approach-vo-iv-18.pdf) 三点改进： 1) the complexity of our solution is lower than those of the state-of-the-art methods, 2) no extra matrix operations required to eliminate map points, 3) no need guesses on map points’ initial locations.
 #### 72. 2018-10-09-[Illumination Robust Monocular Direct Visual Odometry for Outdoor Environment Mapping](https://hal.archives-ouvertes.fr/hal-01876700/document) 增强室外光照鲁棒性
 #### 71. 2018-10-08-[Review of Wheeled Mobile Robots’ Navigation Problems and Application Prospects in Agriculture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8456505) 路径规划review
 #### 70. 2018-09-28-[Visual Multimodal Odometry: Robust Visual Odometry in Harsh Environments](https://ieeexplore.ieee.org/abstract/document/8468653)
