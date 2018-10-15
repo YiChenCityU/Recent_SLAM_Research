@@ -13,6 +13,8 @@
 ### 战斗吧
 
 ## Visual SLAM
+
+#### 75. 2018-10-15-[Direct Depth SLAM: Sparse Geometric Feature Enhanced Direct Depth SLAM System for Low-Texture Environments](https://www.mdpi.com/1424-8220/18/10/3339/htm) 只用深度图的SLAM
 #### 74. 2018-10-11-[SE(2)-Constrained Visual Inertial Fusion for Ground Vehicles](https://ieeexplore.ieee.org/abstract/document/8478293/authors#authors) 贡献：This paper proposed a new visual inertial fusion framework for ground vehicles, based on an SE(2)-constrained pose parameterization.
 #### 73. 2018-10-11-[A Structureless Approach for Visual Odometry](https://ywseo.github.io/files/structureless-approach-vo-iv-18.pdf) 三点改进： 1) the complexity of our solution is lower than those of the state-of-the-art methods, 2) no extra matrix operations required to eliminate map points, 3) no need guesses on map points’ initial locations.
 #### 72. 2018-10-09-[Illumination Robust Monocular Direct Visual Odometry for Outdoor Environment Mapping](https://hal.archives-ouvertes.fr/hal-01876700/document) 增强室外光照鲁棒性
@@ -174,6 +176,7 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
+#### 19. 2018-10-15-[Learning to Solve Nonlinear Least Squares for Dense Tracking and Mapping](https://www.doc.ic.ac.uk/~sleutene/publications/Learning_to_Solve__ECCV_camera_ready.pdf) Andrew J. Davison 的 learned optimizer
 #### 18. 2018-10-09-[DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments](https://arxiv.org/pdf/1809.08379.pdf) 
 #### 17. 2018-10-09-[Real-Time Monocular Object-Model Aware Sparse SLAM](https://arxiv.org/pdf/1809.09149.pdf) Ian Reid
 #### 16. 2018-10-08-[Efficient Constellation-Based Map-Merging for Semantic SLAM](https://arxiv.org/pdf/1809.09646.pdf)
