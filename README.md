@@ -13,7 +13,7 @@
 ### 战斗吧
 
 ## Visual SLAM
-
+#### 76. 2018-10-15-[Analysis of the Impact of Field of View on WideAngle Cameras in SLAM](http://www.diva-portal.org/smash/get/diva2:1253260/FULLTEXT01.pdf) 一篇分析视场角对SLAM影响的硕士论文
 #### 75. 2018-10-15-[Direct Depth SLAM: Sparse Geometric Feature Enhanced Direct Depth SLAM System for Low-Texture Environments](https://www.mdpi.com/1424-8220/18/10/3339/htm) 只用深度图的SLAM
 #### 74. 2018-10-11-[SE(2)-Constrained Visual Inertial Fusion for Ground Vehicles](https://ieeexplore.ieee.org/abstract/document/8478293/authors#authors) 贡献：This paper proposed a new visual inertial fusion framework for ground vehicles, based on an SE(2)-constrained pose parameterization.
 #### 73. 2018-10-11-[A Structureless Approach for Visual Odometry](https://ywseo.github.io/files/structureless-approach-vo-iv-18.pdf) 三点改进： 1) the complexity of our solution is lower than those of the state-of-the-art methods, 2) no extra matrix operations required to eliminate map points, 3) no need guesses on map points’ initial locations.
