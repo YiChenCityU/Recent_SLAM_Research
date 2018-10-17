@@ -13,6 +13,8 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 78. 2018-10-17-[RGB-D Inertial Odometry for Indoor Robot via Keyframe-based Nonlinear Optimization](https://ieeexplore.ieee.org/abstract/document/8484687)
+#### 77. 2018-10-17-[A Combined RGB and Depth Descriptor for SLAM with Humanoids](https://www.hrl.uni-bonn.de/papers/sheikh18iros.pdf) 结合RGB与深度的描述子，[代码还未公布](https://github.com/ferasha/DLab)
 #### 76. 2018-10-15-[Analysis of the Impact of Field of View on WideAngle Cameras in SLAM](http://www.diva-portal.org/smash/get/diva2:1253260/FULLTEXT01.pdf) 一篇分析视场角对SLAM影响的硕士论文
 #### 75. 2018-10-15-[Direct Depth SLAM: Sparse Geometric Feature Enhanced Direct Depth SLAM System for Low-Texture Environments](https://www.mdpi.com/1424-8220/18/10/3339/htm) 只用深度图的SLAM
 #### 74. 2018-10-11-[SE(2)-Constrained Visual Inertial Fusion for Ground Vehicles](https://ieeexplore.ieee.org/abstract/document/8478293/authors#authors) 贡献：This paper proposed a new visual inertial fusion framework for ground vehicles, based on an SE(2)-constrained pose parameterization.
@@ -176,6 +178,7 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
+#### 20. 2018-10-17-[Semantic-only Visual Odometry based on dense class-level segmentation](https://hal.archives-ouvertes.fr/hal-01874544/document)
 #### 19. 2018-10-15-[Learning to Solve Nonlinear Least Squares for Dense Tracking and Mapping](https://www.doc.ic.ac.uk/~sleutene/publications/Learning_to_Solve__ECCV_camera_ready.pdf) Andrew J. Davison 的 learned optimizer
 #### 18. 2018-10-09-[DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments](https://arxiv.org/pdf/1809.08379.pdf) 
 #### 17. 2018-10-09-[Real-Time Monocular Object-Model Aware Sparse SLAM](https://arxiv.org/pdf/1809.09149.pdf) Ian Reid
