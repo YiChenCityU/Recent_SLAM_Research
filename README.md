@@ -165,6 +165,7 @@
 #### 1.Scale Correct Monocular Visual Odometry Using a LiDAR Altimeter
 
 ## 三维重建 3D reconstruction 
+#### 8.2018-10-19-[BundleFusion: Real-time Globally Consistent 3D Reconstruction using On-the-fly Surface Re-integration](https://arxiv.org/pdf/1604.01093.pdf)[深度学习+三维重建，有代码](https://github.com/niessner/BundleFusion)
 #### 7.2018-09-17-[Building Dense Reflectance Maps of Indoor Environments using an RGB-D Camera](http://ais.informatik.uni-freiburg.de/publications/papers/krawez18iros.pdf) 去除光源条件对重建的影响.
 #### 6.2018-09-15-[Real-time High-accuracy Three-Dimensional Reconstruction with Consumer RGB-D Cameras](http://sci-hub.tw/10.1145/3182157)加入了uncertaintyaware,and local-to-global RGB-D bundle adjustment strategy 
 #### 5.Object Pose Estimation from Monocular Image using Multi-View Keypoint Correspondence
@@ -178,6 +179,9 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
+#### 23. 2018-10-19-[Scene Coordinate Regression with Angle-Based Reprojection Loss for Camera Relocalization](https://arxiv.org/pdf/1808.04999.pdf)同下，合在一起读，可以加强理解
+#### 22. 2018-10-19-[DSAC - Differentiable RANSAC for Camera Localization](http://www.nowozin.net/sebastian/papers/brachmann2017dsac.pdf) 深度学习重定位，[代码](https://github.com/cvlab-dresden/DSAC)
+#### 21. 2018-10-19-[PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization](https://arxiv.org/pdf/1505.07427.pdf) 深度学习重定位，[代码](https://github.com/alexgkendall/caffe-posenet)
 #### 20. 2018-10-17-[Semantic-only Visual Odometry based on dense class-level segmentation](https://hal.archives-ouvertes.fr/hal-01874544/document)
 #### 19. 2018-10-15-[Learning to Solve Nonlinear Least Squares for Dense Tracking and Mapping](https://www.doc.ic.ac.uk/~sleutene/publications/Learning_to_Solve__ECCV_camera_ready.pdf) Andrew J. Davison 的 learned optimizer
 #### 18. 2018-10-09-[DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments](https://arxiv.org/pdf/1809.08379.pdf) 
