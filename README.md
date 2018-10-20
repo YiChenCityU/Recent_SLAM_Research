@@ -13,6 +13,9 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 81. 2018-10-20-[Multi-scale Direct Sparse Visual Odometry for Large-Scale Natural Environment](https://ieeexplore.ieee.org/abstract/document/8490959) 把不同远近的pixel分开来用
+#### 80. 2018-10-20-[Combining 2D to 2D and 3D to 2D Point Correspondences for Stereo Visual Odometry](http://www.scitepress.org/Papers/2018/66236/66236.pdf)
+#### 79. 2018-10-20-[StructVIO : Visual-inertial Odometry with Structural Regularity of Man-made Environments](https://arxiv.org/pdf/1810.06796.pdf) 加line特征
 #### 78. 2018-10-17-[RGB-D Inertial Odometry for Indoor Robot via Keyframe-based Nonlinear Optimization](https://ieeexplore.ieee.org/abstract/document/8484687)
 #### 77. 2018-10-17-[A Combined RGB and Depth Descriptor for SLAM with Humanoids](https://www.hrl.uni-bonn.de/papers/sheikh18iros.pdf) 结合RGB与深度的描述子，[代码还未公布](https://github.com/ferasha/DLab)
 #### 76. 2018-10-15-[Analysis of the Impact of Field of View on WideAngle Cameras in SLAM](http://www.diva-portal.org/smash/get/diva2:1253260/FULLTEXT01.pdf) 一篇分析视场角对SLAM影响的硕士论文
@@ -127,6 +130,8 @@
 #### 1. 2018-10-08-[Path Planning for Mobile Agents Using a Genetic Algorithm with a Direction Guided Factor](https://www.mdpi.com/2079-9292/7/10/212/htm)
 
 ## 基础工具 Basic tools 
+#### 19. 2018-10-20-[Accurate Sparse Feature Regression Forest Learning for Real-Time Camera Relocalization](https://ieeexplore.ieee.org/abstract/document/8491017) 机器学习与特征点的混合方法做重定位
+#### 18. 2018-10-20-[Four- and Seven-Point Relative Camera Pose from Oriented Features](https://ieeexplore.ieee.org/abstract/document/8490972) 利用特征点方向信息计算相对位姿
 #### 17. 2018-10-08-[An improved SIFT algorithm based on adaptive fractional differential](http://sci-hub.tw/10.1007/s12652-018-1055-1) 
 #### 16. 2018-10-08-[A Tutorial on Quantitative Trajectory Evaluationfor Visual(-Inertial) Odometry](http://rpg.ifi.uzh.ch/docs/IROS18_Zhang.pdf) SLAM 误差专门评测方法，终于有大佬说清楚了。[代码在此](https://github.com/uzh-rpg/rpg_trajectory_evaluation)
 #### 15. 2018-10-08-[A Review of Solutions for Perspective-n-Point Problem in Camera Pose Estimation](http://iopscience.iop.org/article/10.1088/1742-6596/1087/5/052009/pdf) PnP 方法对比
@@ -179,6 +184,7 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
+#### 24. 2018-10-20-[Reactive Obstacle Avoidance of Monocular Quadrotors with Online Adapted Depth Prediction Network](https://www.sciencedirect.com/science/article/pii/S0925231218312074)线上自适应CNN估计深度
 #### 23. 2018-10-19-[Scene Coordinate Regression with Angle-Based Reprojection Loss for Camera Relocalization](https://arxiv.org/pdf/1808.04999.pdf)同下，合在一起读，可以加强理解
 #### 22. 2018-10-19-[DSAC - Differentiable RANSAC for Camera Localization](http://www.nowozin.net/sebastian/papers/brachmann2017dsac.pdf) 深度学习重定位，[代码](https://github.com/cvlab-dresden/DSAC)
 #### 21. 2018-10-19-[PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization](https://arxiv.org/pdf/1505.07427.pdf) 深度学习重定位，[代码](https://github.com/alexgkendall/caffe-posenet)
