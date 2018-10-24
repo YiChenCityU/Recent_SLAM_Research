@@ -13,6 +13,7 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 82. 2018-10-24-[Distributed stereo vision‐based 6D localization and mapping for multi‐robot teams](https://onlinelibrary.wiley.com/doi/pdf/10.1002/rob.21812) 
 #### 81. 2018-10-20-[Multi-scale Direct Sparse Visual Odometry for Large-Scale Natural Environment](https://ieeexplore.ieee.org/abstract/document/8490959) 把不同远近的pixel分开来用
 #### 80. 2018-10-20-[Combining 2D to 2D and 3D to 2D Point Correspondences for Stereo Visual Odometry](http://www.scitepress.org/Papers/2018/66236/66236.pdf)
 #### 79. 2018-10-20-[StructVIO : Visual-inertial Odometry with Structural Regularity of Man-made Environments](https://arxiv.org/pdf/1810.06796.pdf) 加line特征
@@ -127,6 +128,7 @@
 #### 1. Absolute Orientation and Localization Estimation from an Omnidirectional Image 
 
 ## 路径规划导航 
+#### 2. 2018-10-24-[Global UGV Path Planning on Point Cloud Maps Created by UAV ](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8492584)
 #### 1. 2018-10-08-[Path Planning for Mobile Agents Using a Genetic Algorithm with a Direction Guided Factor](https://www.mdpi.com/2079-9292/7/10/212/htm)
 
 ## 基础工具 Basic tools 
