@@ -13,6 +13,9 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 85. 2018-10-29-[Mobile Robot Localisation and Navigation Using LEGO NXT and Ultrasonic Sensor](https://arxiv.org/pdf/1810.08816.pdf)
+#### 84. 2018-10-29-[RaD-VIO: Rangefinder-aided Downward Visual-Inertial Odometry](https://arxiv.org/pdf/1810.08704.pdf) 卡尔曼不死
+#### 83. 2018-10-29-[Dynamic objects elimination in SLAM based on image fusion](http://sci-hub.tw/https://linkinghub.elsevier.com/retrieve/pii/S0167865518308523) 去除动态物体
 #### 82. 2018-10-24-[Distributed stereo vision‐based 6D localization and mapping for multi‐robot teams](https://onlinelibrary.wiley.com/doi/pdf/10.1002/rob.21812) 
 #### 81. 2018-10-20-[Multi-scale Direct Sparse Visual Odometry for Large-Scale Natural Environment](https://ieeexplore.ieee.org/abstract/document/8490959) 把不同远近的pixel分开来用
 #### 80. 2018-10-20-[Combining 2D to 2D and 3D to 2D Point Correspondences for Stereo Visual Odometry](http://www.scitepress.org/Papers/2018/66236/66236.pdf)
