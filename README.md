@@ -13,6 +13,8 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 87. 2018-11-06-[Autonomous flight with robust visual odometry under dynamic lighting conditions](http://sci-hub.tw/10.1007/s10514-018-9816-4)很少见到韩国人做的SLAM，好像基本不开源，这个光照鲁棒性方法就无从验证了。
+#### 86. 2018-11-06-[RTAB‐Map as an open‐source lidar and visual simultaneous localization and mapping library for large‐scale and long‐term online operation](http://sci-hub.tw/10.1002/rob.21831) RTAB-MAP有更新，增加laser odom。
 #### 85. 2018-10-29-[Mobile Robot Localisation and Navigation Using LEGO NXT and Ultrasonic Sensor](https://arxiv.org/pdf/1810.08816.pdf) 仅仅是好玩
 #### 84. 2018-10-29-[RaD-VIO: Rangefinder-aided Downward Visual-Inertial Odometry](https://arxiv.org/pdf/1810.08704.pdf) 卡尔曼不死
 #### 83. 2018-10-29-[Dynamic objects elimination in SLAM based on image fusion](http://sci-hub.tw/https://linkinghub.elsevier.com/retrieve/pii/S0167865518308523) 去除动态物体
@@ -189,6 +191,9 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
+#### 27. 2018-11-06-[Semantic Mapping with Simultaneous Object Detection and Localization](https://arxiv.org/pdf/1810.11525.pdf)
+#### 26. 2018-11-06-[Real-Time RGB-D Camera Pose Estimation in Novel Scenes using a Relocalisation Cascade](https://arxiv.org/pdf/1810.12163.pdf)[随机森林做重定位](https://github.com/torrvision/spaint)
+#### 25. 2018-11-06-[Anytime Stereo Image Depth Estimation on Mobile Devices](https://arxiv.org/pdf/1810.11408.pdf) [代码](https://github.com/mileyan/AnyNet)
 #### 24. 2018-10-20-[Reactive Obstacle Avoidance of Monocular Quadrotors with Online Adapted Depth Prediction Network](https://www.sciencedirect.com/science/article/pii/S0925231218312074)线上自适应CNN估计深度
 #### 23. 2018-10-19-[Scene Coordinate Regression with Angle-Based Reprojection Loss for Camera Relocalization](https://arxiv.org/pdf/1808.04999.pdf)同下，合在一起读，可以加强理解
 #### 22. 2018-10-19-[DSAC - Differentiable RANSAC for Camera Localization](http://www.nowozin.net/sebastian/papers/brachmann2017dsac.pdf) 深度学习重定位，[代码](https://github.com/cvlab-dresden/DSAC)
