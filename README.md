@@ -13,6 +13,7 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 88. 2018-11-06-[Dense RGB-D-Inertial SLAM with Map Deformations](https://www.doc.ic.ac.uk/~sleutene/publications/IROS2017_Laidlow.pdf) RGBD 与IMU融合
 #### 87. 2018-11-06-[Autonomous flight with robust visual odometry under dynamic lighting conditions](http://sci-hub.tw/10.1007/s10514-018-9816-4)很少见到韩国人做的SLAM，好像基本不开源，这个光照鲁棒性方法就无从验证了。
 #### 86. 2018-11-06-[RTAB‐Map as an open‐source lidar and visual simultaneous localization and mapping library for large‐scale and long‐term online operation](http://sci-hub.tw/10.1002/rob.21831) RTAB-MAP有更新，增加laser odom。
 #### 85. 2018-10-29-[Mobile Robot Localisation and Navigation Using LEGO NXT and Ultrasonic Sensor](https://arxiv.org/pdf/1810.08816.pdf) 仅仅是好玩
