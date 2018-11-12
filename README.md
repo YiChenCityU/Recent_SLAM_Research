@@ -13,6 +13,10 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 93. 2018-11-12-[Evaluation of Lightweight Local Descriptors for Level Ground Navigation with Monocular SLAM](http://sci-hub.tw/10.1007/978-3-030-03341-5_29)
+#### 92. 2018-11-12-[Incremental Feature Forest for Real-Time SLAM on Mobile Devices](http://sci-hub.tw/10.1007/978-3-030-03398-9_37)
+#### 91. 2018-11-12-[Structure-aware SLAM with planes and lines in man-made environmen](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0167865518308663)
+#### 90. 2018-11-12-[A review on graph optimization and algorithmic frameworks](https://hal.archives-ouvertes.fr/hal-01901499/file/LATEX1.PDF) 
 #### 89. 2018-11-06-[Non-iterative RGB-D-inertial odometry](https://arxiv.org/pdf/1710.05502.pdf)轻量型融合
 #### 88. 2018-11-06-[Dense RGB-D-Inertial SLAM with Map Deformations](https://www.doc.ic.ac.uk/~sleutene/publications/IROS2017_Laidlow.pdf) RGBD 与IMU融合
 #### 87. 2018-11-06-[Autonomous flight with robust visual odometry under dynamic lighting conditions](http://sci-hub.tw/10.1007/s10514-018-9816-4)很少见到韩国人做的SLAM，好像基本不开源，这个光照鲁棒性方法就无从验证了。
@@ -135,10 +139,13 @@
 #### 1. Absolute Orientation and Localization Estimation from an Omnidirectional Image 
 
 ## 路径规划导航 
+#### 3. 2018-11-12-[Autonomous navigation using visual sparse map](https://project.inria.fr/ppniv18/files/2018/10/paper17.pdf)
 #### 2. 2018-10-24-[Global UGV Path Planning on Point Cloud Maps Created by UAV ](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8492584)
 #### 1. 2018-10-08-[Path Planning for Mobile Agents Using a Genetic Algorithm with a Direction Guided Factor](https://www.mdpi.com/2079-9292/7/10/212/htm)
 
 ## 基础工具 Basic tools 
+#### 21. 2018-11-12-[Second-Order Semi-Global Stereo Matching Algorithm Based on Slanted Plane Iterative Optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8497046)
+#### 20. 2018-11-12-[Try to Start It! The Challenge of Reusing Code in Robotics Research](http://sci-hub.tw/10.1109/lra.2018.2878604)
 #### 19. 2018-10-20-[Accurate Sparse Feature Regression Forest Learning for Real-Time Camera Relocalization](https://ieeexplore.ieee.org/abstract/document/8491017) 机器学习与特征点的混合方法做重定位
 #### 18. 2018-10-20-[Four- and Seven-Point Relative Camera Pose from Oriented Features](https://ieeexplore.ieee.org/abstract/document/8490972) 利用特征点方向信息计算相对位姿
 #### 17. 2018-10-08-[An improved SIFT algorithm based on adaptive fractional differential](http://sci-hub.tw/10.1007/s12652-018-1055-1) 
