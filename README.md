@@ -13,7 +13,7 @@
 ### 战斗吧
 
 ## Visual SLAM
-#### 93. 2018-11-12-[Evaluation of Lightweight Local Descriptors for Level Ground Navigation with Monocular SLAM](http://sci-hub.tw/10.1007/978-3-030-03341-5_29)
+#### 93. 2018-11-12-[Evaluation of Lightweight Local Descriptors for Level Ground Navigation with Monocular SLAM](http://sci-hub.tw/10.1007/978-3-030-03341-5_29)对比不同描述子对slam影响
 #### 92. 2018-11-12-[Incremental Feature Forest for Real-Time SLAM on Mobile Devices](http://sci-hub.tw/10.1007/978-3-030-03398-9_37)
 #### 91. 2018-11-12-[Structure-aware SLAM with planes and lines in man-made environmen](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0167865518308663)
 #### 90. 2018-11-12-[A review on graph optimization and algorithmic frameworks](https://hal.archives-ouvertes.fr/hal-01901499/file/LATEX1.PDF) 
