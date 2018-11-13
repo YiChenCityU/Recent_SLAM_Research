@@ -13,6 +13,7 @@
 ### 战斗吧
 
 ## Visual SLAM
+
 #### 94. 2018-11-13-[Semi-Semantic Line-Cluster Assisted Monocular SLAM for Indoor Environments](https://arxiv.org/pdf/1811.01592.pdf)
 #### 93. 2018-11-12-[Evaluation of Lightweight Local Descriptors for Level Ground Navigation with Monocular SLAM](http://sci-hub.tw/10.1007/978-3-030-03341-5_29)对比不同描述子对slam影响
 #### 92. 2018-11-12-[Incremental Feature Forest for Real-Time SLAM on Mobile Devices](http://sci-hub.tw/10.1007/978-3-030-03398-9_37)
@@ -140,6 +141,8 @@
 #### 1. Absolute Orientation and Localization Estimation from an Omnidirectional Image 
 
 ## 路径规划导航 
+#### 5. 2018-11-13-[Safe Local Exploration for Replanning in Cluttered Unknown Environments for Micro-Aerial Vehicles](https://arxiv.org/abs/1710.00604)
+#### 4. 2018-11-13-[Sparse 3D Topological Graphs for Micro-Aerial Vehicle Planning](https://arxiv.org/abs/1803.04345)
 #### 3. 2018-11-12-[Autonomous navigation using visual sparse map](https://project.inria.fr/ppniv18/files/2018/10/paper17.pdf)
 #### 2. 2018-10-24-[Global UGV Path Planning on Point Cloud Maps Created by UAV ](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8492584)
 #### 1. 2018-10-08-[Path Planning for Mobile Agents Using a Genetic Algorithm with a Direction Guided Factor](https://www.mdpi.com/2079-9292/7/10/212/htm)
