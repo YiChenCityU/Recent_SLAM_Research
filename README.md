@@ -13,6 +13,7 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 94. 2018-11-13-[Semi-Semantic Line-Cluster Assisted Monocular SLAM for Indoor Environments](https://arxiv.org/pdf/1811.01592.pdf)
 #### 93. 2018-11-12-[Evaluation of Lightweight Local Descriptors for Level Ground Navigation with Monocular SLAM](http://sci-hub.tw/10.1007/978-3-030-03341-5_29)对比不同描述子对slam影响
 #### 92. 2018-11-12-[Incremental Feature Forest for Real-Time SLAM on Mobile Devices](http://sci-hub.tw/10.1007/978-3-030-03398-9_37)
 #### 91. 2018-11-12-[Structure-aware SLAM with planes and lines in man-made environmen](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0167865518308663)
