@@ -1,5 +1,5 @@
 # Recent_SLAM_Research
-【回馈社区】跟踪SLAM前沿动态 （2017-2018），技术更新太快，开启paper暴走模式，精选paper包括纯视觉SLAM，三维重建，基础数学工具，导航路径规划，深度学习SLAM，激光与视觉融合等类别。
+【回馈社区】跟踪SLAM前沿动态 （2018），技术更新太快，开启paper暴走模式，精选paper包括纯视觉SLAM，三维重建，基础数学工具，导航路径规划，深度学习SLAM，激光与视觉融合等类别。
 # 预警！！这是广告位
 
 ### 1.如果你是HR，欢迎开issue贴上招聘广告
@@ -13,7 +13,8 @@
 ### 战斗吧
 
 ## Visual SLAM
-
+#### 96. 2018-11-16-[Optimization-based Legged Odometry and Sensor Fusion for Legged Robot Continuous Localization](sci-hub.tw/10.1016/j.robot.2018.10.013) 足腿式机器人slam
+#### 95. 2018-11-16-[RGB-D SLAM in Dynamic Environments Using Points Correlations](https://arxiv.org/pdf/1811.03217.pdf) 解决动态物体影响
 #### 94. 2018-11-13-[Semi-Semantic Line-Cluster Assisted Monocular SLAM for Indoor Environments](https://arxiv.org/pdf/1811.01592.pdf)
 #### 93. 2018-11-12-[Evaluation of Lightweight Local Descriptors for Level Ground Navigation with Monocular SLAM](http://sci-hub.tw/10.1007/978-3-030-03341-5_29)对比不同描述子对slam影响
 #### 92. 2018-11-12-[Incremental Feature Forest for Real-Time SLAM on Mobile Devices](http://sci-hub.tw/10.1007/978-3-030-03398-9_37)
