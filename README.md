@@ -13,6 +13,7 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 98. 2018-11-18-[DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes](https://arxiv.org/pdf/1806.05620.pdf)FCN 辅助动态场景SLAM，[代码](https://github.com/BertaBescos/DynaSLAM)
 #### 97. 2018-11-18-[EMoVI-SLAM: Embedded Monocular Visual Inertial SLAM with Scale Update for Large Scale Mapping and Localization](http://sci-hub.tw/https://ieeexplore.ieee.org/document/8525794) UKF 做融合，效果比VINS好
 #### 96. 2018-11-16-[Optimization-based Legged Odometry and Sensor Fusion for Legged Robot Continuous Localization](sci-hub.tw/10.1016/j.robot.2018.10.013) 足腿式机器人slam
 #### 95. 2018-11-16-[RGB-D SLAM in Dynamic Environments Using Points Correlations](https://arxiv.org/pdf/1811.03217.pdf) 解决动态物体影响
