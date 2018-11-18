@@ -13,6 +13,7 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 97. 2018-11-18-[EMoVI-SLAM: Embedded Monocular Visual Inertial SLAM with Scale Update for Large Scale Mapping and Localization](http://sci-hub.tw/https://ieeexplore.ieee.org/document/8525794) UKF 做融合，效果比VINS好
 #### 96. 2018-11-16-[Optimization-based Legged Odometry and Sensor Fusion for Legged Robot Continuous Localization](sci-hub.tw/10.1016/j.robot.2018.10.013) 足腿式机器人slam
 #### 95. 2018-11-16-[RGB-D SLAM in Dynamic Environments Using Points Correlations](https://arxiv.org/pdf/1811.03217.pdf) 解决动态物体影响
 #### 94. 2018-11-13-[Semi-Semantic Line-Cluster Assisted Monocular SLAM for Indoor Environments](https://arxiv.org/pdf/1811.01592.pdf)
