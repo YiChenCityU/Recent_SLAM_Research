@@ -151,6 +151,7 @@
 #### 1. 2018-10-08-[Path Planning for Mobile Agents Using a Genetic Algorithm with a Direction Guided Factor](https://www.mdpi.com/2079-9292/7/10/212/htm)
 
 ## 基础工具 Basic tools 
+#### 22. 2018-11-22-[A FAST-BRISK Feature Detector with Depth Information](http://sci-hub.tw/https://www.mdpi.com/1424-8220/18/11/3908) 融合深度的特征点提取方法
 #### 21. 2018-11-12-[Second-Order Semi-Global Stereo Matching Algorithm Based on Slanted Plane Iterative Optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8497046)
 #### 20. 2018-11-12-[Try to Start It! The Challenge of Reusing Code in Robotics Research](http://sci-hub.tw/10.1109/lra.2018.2878604)
 #### 19. 2018-10-20-[Accurate Sparse Feature Regression Forest Learning for Real-Time Camera Relocalization](https://ieeexplore.ieee.org/abstract/document/8491017) 机器学习与特征点的混合方法做重定位
