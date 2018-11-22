@@ -13,6 +13,8 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 100. 2018-11-22-[Semi-independent Stereo Visual Odometry for Different Field of View Cameras](https://hal-upec-upem.archives-ouvertes.fr/hal-01912878/document) 
+#### 99. 2018-11-22-[Spherical-Model-Based SLAM on Full-View Images for Indoor Environments](https://www.mdpi.com/2076-3417/8/11/2268) 大广角视觉SLAM
 #### 98. 2018-11-18-[DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes](https://arxiv.org/pdf/1806.05620.pdf)FCN 辅助动态场景SLAM，[代码](https://github.com/BertaBescos/DynaSLAM)
 #### 97. 2018-11-18-[EMoVI-SLAM: Embedded Monocular Visual Inertial SLAM with Scale Update for Large Scale Mapping and Localization](http://sci-hub.tw/https://ieeexplore.ieee.org/document/8525794) UKF 做融合，效果比VINS好
 #### 96. 2018-11-16-[Optimization-based Legged Odometry and Sensor Fusion for Legged Robot Continuous Localization](sci-hub.tw/10.1016/j.robot.2018.10.013) 足腿式机器人slam
@@ -151,6 +153,7 @@
 #### 1. 2018-10-08-[Path Planning for Mobile Agents Using a Genetic Algorithm with a Direction Guided Factor](https://www.mdpi.com/2079-9292/7/10/212/htm)
 
 ## 基础工具 Basic tools 
+#### 23. 2018-11-22-[RLDB: Robust Local Difference Binary Descriptor with Integrated Learning-based Optimization](http://itiis.org/digital-library/manuscript/2126)
 #### 22. 2018-11-22-[A FAST-BRISK Feature Detector with Depth Information](http://sci-hub.tw/https://www.mdpi.com/1424-8220/18/11/3908) 融合深度的特征点提取方法
 #### 21. 2018-11-12-[Second-Order Semi-Global Stereo Matching Algorithm Based on Slanted Plane Iterative Optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8497046)
 #### 20. 2018-11-12-[Try to Start It! The Challenge of Reusing Code in Robotics Research](http://sci-hub.tw/10.1109/lra.2018.2878604)
