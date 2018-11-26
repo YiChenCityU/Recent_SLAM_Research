@@ -13,6 +13,8 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 102. 2018-11-26-[VINS-MKF: A Tightly-Coupled Multi-Keyframe Visual-Inertial Odometry for Accurate and Robust State Estimation](https://www.mdpi.com/1424-8220/18/11/4036)多目VINS
+#### 101. 2018-11-26-[Fast and accurate visual odometry from a monocular camera](http://sci-hub.tw/10.1007/s11704-018-6600-8)
 #### 100. 2018-11-22-[Semi-independent Stereo Visual Odometry for Different Field of View Cameras](https://hal-upec-upem.archives-ouvertes.fr/hal-01912878/document) 
 #### 99. 2018-11-22-[Spherical-Model-Based SLAM on Full-View Images for Indoor Environments](https://www.mdpi.com/2076-3417/8/11/2268) 大广角视觉SLAM
 #### 98. 2018-11-18-[DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes](https://arxiv.org/pdf/1806.05620.pdf)FCN 辅助动态场景SLAM，[代码](https://github.com/BertaBescos/DynaSLAM)
