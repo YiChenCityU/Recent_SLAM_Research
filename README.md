@@ -199,6 +199,7 @@
 #### 1.Scale Correct Monocular Visual Odometry Using a LiDAR Altimeter
 
 ## 三维重建 3D reconstruction 
+#### 9.2018-11-28-[Accurate, dense and shading-aware multi-view stereo reconstruction using metaheuritic optimization](http://sci-hub.tw/10.1007/s11042-018-6904-6)
 #### 8.2018-10-19-[BundleFusion: Real-time Globally Consistent 3D Reconstruction using On-the-fly Surface Re-integration](https://arxiv.org/pdf/1604.01093.pdf)[深度学习+三维重建，有代码](https://github.com/niessner/BundleFusion)
 #### 7.2018-09-17-[Building Dense Reflectance Maps of Indoor Environments using an RGB-D Camera](http://ais.informatik.uni-freiburg.de/publications/papers/krawez18iros.pdf) 去除光源条件对重建的影响.
 #### 6.2018-09-15-[Real-time High-accuracy Three-Dimensional Reconstruction with Consumer RGB-D Cameras](http://sci-hub.tw/10.1145/3182157)加入了uncertaintyaware,and local-to-global RGB-D bundle adjustment strategy 
