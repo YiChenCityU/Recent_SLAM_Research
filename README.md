@@ -148,6 +148,7 @@
 #### 1. Absolute Orientation and Localization Estimation from an Omnidirectional Image 
 
 ## 路径规划导航 
+#### 6. 2018-12-03-[Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients](https://arxiv.org/pdf/1811.10753.pdf) 
 #### 5. 2018-11-13-[Safe Local Exploration for Replanning in Cluttered Unknown Environments for Micro-Aerial Vehicles](https://arxiv.org/abs/1710.00604)
 #### 4. 2018-11-13-[Sparse 3D Topological Graphs for Micro-Aerial Vehicle Planning](https://arxiv.org/abs/1803.04345)
 #### 3. 2018-11-12-[Autonomous navigation using visual sparse map](https://project.inria.fr/ppniv18/files/2018/10/paper17.pdf)
@@ -214,6 +215,8 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
+#### 29. 2018-12-03-[Loop Closure Detection with RGB-D Feature Pyramid Siamese Networks](https://arxiv.org/pdf/1811.09938.pdf) 
+#### 28. 2018-12-03-[MagicVO: End-to-End Monocular Visual Odometry through Deep Bi-directional Recurrent Convolutional Neural Network](https://arxiv.org/pdf/1811.10964.pdf)端到端VO
 #### 27. 2018-11-06-[Semantic Mapping with Simultaneous Object Detection and Localization](https://arxiv.org/pdf/1810.11525.pdf)
 #### 26. 2018-11-06-[Real-Time RGB-D Camera Pose Estimation in Novel Scenes using a Relocalisation Cascade](https://arxiv.org/pdf/1810.12163.pdf)[随机森林做重定位](https://github.com/torrvision/spaint)
 #### 25. 2018-11-06-[Anytime Stereo Image Depth Estimation on Mobile Devices](https://arxiv.org/pdf/1810.11408.pdf) [代码](https://github.com/mileyan/AnyNet)
