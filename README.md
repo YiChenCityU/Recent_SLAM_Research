@@ -13,6 +13,7 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 103. 2018-12-05-[SLAM method: reconstruction and modeling of environment with moving objects using an RGBD camera](http://ceur-ws.org/Vol-2254/10000274.pdf)去除动态物体
 #### 102. 2018-11-26-[VINS-MKF: A Tightly-Coupled Multi-Keyframe Visual-Inertial Odometry for Accurate and Robust State Estimation](https://www.mdpi.com/1424-8220/18/11/4036)多目VINS
 #### 101. 2018-11-26-[Fast and accurate visual odometry from a monocular camera](http://sci-hub.tw/10.1007/s11704-018-6600-8)
 #### 100. 2018-11-22-[Semi-independent Stereo Visual Odometry for Different Field of View Cameras](https://hal-upec-upem.archives-ouvertes.fr/hal-01912878/document) 
