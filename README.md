@@ -13,6 +13,7 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 104. 2018-12-06-[Stereo Visual-Inertial SLAM With Points and Lines](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8533332) 双目ＩＭＵ加点线
 #### 103. 2018-12-05-[SLAM method: reconstruction and modeling of environment with moving objects using an RGBD camera](http://ceur-ws.org/Vol-2254/10000274.pdf)去除动态物体
 #### 102. 2018-11-26-[VINS-MKF: A Tightly-Coupled Multi-Keyframe Visual-Inertial Odometry for Accurate and Robust State Estimation](https://www.mdpi.com/1424-8220/18/11/4036)多目VINS
 #### 101. 2018-11-26-[Fast and accurate visual odometry from a monocular camera](http://sci-hub.tw/10.1007/s11704-018-6600-8)
@@ -157,6 +158,7 @@
 #### 1. 2018-10-08-[Path Planning for Mobile Agents Using a Genetic Algorithm with a Direction Guided Factor](https://www.mdpi.com/2079-9292/7/10/212/htm)
 
 ## 基础工具 Basic tools 
+#### 24. 2018-12-07-[Two-pass K Nearest Neighbor Search for Feature Tracking](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8528423) 增强的ＫＮＮ特征匹配方法
 #### 23. 2018-11-22-[RLDB: Robust Local Difference Binary Descriptor with Integrated Learning-based Optimization](http://itiis.org/digital-library/manuscript/2126)
 #### 22. 2018-11-22-[A FAST-BRISK Feature Detector with Depth Information](http://sci-hub.tw/https://www.mdpi.com/1424-8220/18/11/3908) 融合深度的特征点提取方法
 #### 21. 2018-11-12-[Second-Order Semi-Global Stereo Matching Algorithm Based on Slanted Plane Iterative Optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8497046)
@@ -216,6 +218,9 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
+
+#### 31. 2018-12-06-[Matching Features without Descriptors: Implicitly Matched Interest Points (IMIPs)](https://arxiv.org/pdf/1811.10681.pdf)Davide Scaramuzza Michael Bloesch 发表不需要描述子使用CNN就能匹配特征点方法
+#### 30. 2018-12-06-[DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds](https://arxiv.org/pdf/1811.11397.pdf)利用深度学习做激光点云匹配
 #### 29. 2018-12-03-[Loop Closure Detection with RGB-D Feature Pyramid Siamese Networks](https://arxiv.org/pdf/1811.09938.pdf) 
 #### 28. 2018-12-03-[MagicVO: End-to-End Monocular Visual Odometry through Deep Bi-directional Recurrent Convolutional Neural Network](https://arxiv.org/pdf/1811.10964.pdf)端到端VO
 #### 27. 2018-11-06-[Semantic Mapping with Simultaneous Object Detection and Localization](https://arxiv.org/pdf/1810.11525.pdf)
