@@ -13,6 +13,7 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 105. 2018-12-07-[Depth from Motion for Smartphone AR](http://delivery.acm.org/10.1145/3280000/3275041/a193-valentin.pdf?ip=203.166.220.2&id=3275041&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1544188110_8a4090e366f371eb54025ed793523da9) google 单目深度估计，效果很好
 #### 104. 2018-12-06-[Stereo Visual-Inertial SLAM With Points and Lines](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8533332) 双目ＩＭＵ加点线
 #### 103. 2018-12-05-[SLAM method: reconstruction and modeling of environment with moving objects using an RGBD camera](http://ceur-ws.org/Vol-2254/10000274.pdf)去除动态物体
 #### 102. 2018-11-26-[VINS-MKF: A Tightly-Coupled Multi-Keyframe Visual-Inertial Odometry for Accurate and Robust State Estimation](https://www.mdpi.com/1424-8220/18/11/4036)多目VINS
