@@ -13,6 +13,7 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 106. 2018-12-10-[PoseFusion: Dense RGB-D SLAM in Dynamic Human Environments](https://hal.archives-ouvertes.fr/hal-01893144/document) 解决动态人体
 #### 105. 2018-12-07-[Depth from Motion for Smartphone AR](http://delivery.acm.org/10.1145/3280000/3275041/a193-valentin.pdf?ip=203.166.220.2&id=3275041&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1544188110_8a4090e366f371eb54025ed793523da9) google 单目深度估计，效果很好
 #### 104. 2018-12-06-[Stereo Visual-Inertial SLAM With Points and Lines](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8533332) 双目ＩＭＵ加点线
 #### 103. 2018-12-05-[SLAM method: reconstruction and modeling of environment with moving objects using an RGBD camera](http://ceur-ws.org/Vol-2254/10000274.pdf)去除动态物体
@@ -159,6 +160,7 @@
 #### 1. 2018-10-08-[Path Planning for Mobile Agents Using a Genetic Algorithm with a Direction Guided Factor](https://www.mdpi.com/2079-9292/7/10/212/htm)
 
 ## 基础工具 Basic tools 
+#### 25. 2018-12-10-[An Iterative Nonlinear Filter Using Variational Bayesian Optimization](https://www.mdpi.com/1424-8220/18/12/4222)
 #### 24. 2018-12-07-[Two-pass K Nearest Neighbor Search for Feature Tracking](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8528423) 增强的ＫＮＮ特征匹配方法
 #### 23. 2018-11-22-[RLDB: Robust Local Difference Binary Descriptor with Integrated Learning-based Optimization](http://itiis.org/digital-library/manuscript/2126)
 #### 22. 2018-11-22-[A FAST-BRISK Feature Detector with Depth Information](http://sci-hub.tw/https://www.mdpi.com/1424-8220/18/11/3908) 融合深度的特征点提取方法
