@@ -221,7 +221,7 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
-
+#### 32. 2018-12-10-[BA-Net: Dense Bundle Adjustment Network](https://arxiv.org/pdf/1806.04807.pdf) 
 #### 31. 2018-12-06-[Matching Features without Descriptors: Implicitly Matched Interest Points (IMIPs)](https://arxiv.org/pdf/1811.10681.pdf)Davide Scaramuzza Michael Bloesch 发表不需要描述子使用CNN就能匹配特征点方法
 #### 30. 2018-12-06-[DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds](https://arxiv.org/pdf/1811.11397.pdf)利用深度学习做激光点云匹配
 #### 29. 2018-12-03-[Loop Closure Detection with RGB-D Feature Pyramid Siamese Networks](https://arxiv.org/pdf/1811.09938.pdf) 
