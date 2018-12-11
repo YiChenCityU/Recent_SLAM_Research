@@ -13,6 +13,9 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 109. 2018-12-11-[Flying on point clouds: Online trajectory generation and autonomous navigation for quadrotors in cluttered environments](http://sci-hub.tw/10.1002/rob.21842)
+#### 108. 2018-12-11-[CubemapSLAM: A Piecewise-Pinhole Monocular Fisheye SLAM System](https://arxiv.org/pdf/1811.12633.pdf)  鱼眼镜头slam
+#### 107. 2018-12-11-[HOOFR SLAM System: An Embedded Vision SLAM Algorithm and Its Hardware-Software Mapping-Based Intelligent Vehicles Applications](http://sci-hub.tw/10.1109/tits.2018.2881556)
 #### 106. 2018-12-10-[PoseFusion: Dense RGB-D SLAM in Dynamic Human Environments](https://hal.archives-ouvertes.fr/hal-01893144/document) 解决动态人体
 #### 105. 2018-12-07-[Depth from Motion for Smartphone AR](http://delivery.acm.org/10.1145/3280000/3275041/a193-valentin.pdf?ip=203.166.220.2&id=3275041&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1544188110_8a4090e366f371eb54025ed793523da9) google 单目深度估计，效果很好
 #### 104. 2018-12-06-[Stereo Visual-Inertial SLAM With Points and Lines](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8533332) 双目ＩＭＵ加点线
@@ -206,6 +209,7 @@
 #### 1.Scale Correct Monocular Visual Odometry Using a LiDAR Altimeter
 
 ## 三维重建 3D reconstruction 
+#### 10. 2018-12-11-[Fast and Accurate Reconstruction of Pan-Tilt RGB-D Scans via Axis Bound Registration](https://arxiv.org/pdf/1812.00240.pdf)
 #### 9.2018-11-28-[Accurate, dense and shading-aware multi-view stereo reconstruction using metaheuritic optimization](http://sci-hub.tw/10.1007/s11042-018-6904-6)
 #### 8.2018-10-19-[BundleFusion: Real-time Globally Consistent 3D Reconstruction using On-the-fly Surface Re-integration](https://arxiv.org/pdf/1604.01093.pdf)[深度学习+三维重建，有代码](https://github.com/niessner/BundleFusion)
 #### 7.2018-09-17-[Building Dense Reflectance Maps of Indoor Environments using an RGB-D Camera](http://ais.informatik.uni-freiburg.de/publications/papers/krawez18iros.pdf) 去除光源条件对重建的影响.
@@ -221,6 +225,7 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
+#### 33. 2018-12-11-[Inferring Point Clouds from Single Monocular Images by Depth Intermediation](https://arxiv.org/pdf/1812.01402.pdf)
 #### 32. 2018-12-10-[BA-Net: Dense Bundle Adjustment Network](https://arxiv.org/pdf/1806.04807.pdf) 
 #### 31. 2018-12-06-[Matching Features without Descriptors: Implicitly Matched Interest Points (IMIPs)](https://arxiv.org/pdf/1811.10681.pdf)Davide Scaramuzza Michael Bloesch 发表不需要描述子使用CNN就能匹配特征点方法
 #### 30. 2018-12-06-[DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds](https://arxiv.org/pdf/1811.11397.pdf)利用深度学习做激光点云匹配
