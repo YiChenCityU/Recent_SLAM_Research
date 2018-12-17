@@ -13,6 +13,9 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 112. 2018-12-16-[Extrinsic 6DoF Calibration of a Radar – LiDAR – Camera System Enhanced by Radar Cross Section Estimates Evaluation](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0921889018301994) 相机激光毫米波雷达外参估计
+#### 111. 2018-12-16-[Visual-Based SLAM Configurations for Cooperative Multi-UAV Systems with a Lead Agent: An Observability-Based Approach](https://www.ncbi.nlm.nih.gov/pubmed/30513949) 
+#### 110. 2018-12-16-[Robust Visual-Inertial State Estimation with Multiple Odometries and Efficient Mapping on an MAV with Ultra-Wide FOV Stereo Vision](https://elib.dlr.de/122805/1/IROS2018_multi_VO_elib.pdf) 四对双目鱼眼VIO
 #### 109. 2018-12-11-[Flying on point clouds: Online trajectory generation and autonomous navigation for quadrotors in cluttered environments](http://sci-hub.tw/10.1002/rob.21842)
 #### 108. 2018-12-11-[CubemapSLAM: A Piecewise-Pinhole Monocular Fisheye SLAM System](https://arxiv.org/pdf/1811.12633.pdf)  鱼眼镜头slam
 #### 107. 2018-12-11-[HOOFR SLAM System: An Embedded Vision SLAM Algorithm and Its Hardware-Software Mapping-Based Intelligent Vehicles Applications](http://sci-hub.tw/10.1109/tits.2018.2881556)
@@ -209,6 +212,7 @@
 #### 1.Scale Correct Monocular Visual Odometry Using a LiDAR Altimeter
 
 ## 三维重建 3D reconstruction 
+#### 11. 2018-12-16-[Mobile-based 3D Reconstruction of Building Environment ](https://repozitorium.omikk.bme.hu/bitstream/handle/10890/5798/CCC2018-136.pdf?sequence=1)
 #### 10. 2018-12-11-[Fast and Accurate Reconstruction of Pan-Tilt RGB-D Scans via Axis Bound Registration](https://arxiv.org/pdf/1812.00240.pdf)
 #### 9.2018-11-28-[Accurate, dense and shading-aware multi-view stereo reconstruction using metaheuritic optimization](http://sci-hub.tw/10.1007/s11042-018-6904-6)
 #### 8.2018-10-19-[BundleFusion: Real-time Globally Consistent 3D Reconstruction using On-the-fly Surface Re-integration](https://arxiv.org/pdf/1604.01093.pdf)[深度学习+三维重建，有代码](https://github.com/niessner/BundleFusion)
