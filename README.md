@@ -15,7 +15,7 @@
 ## Visual SLAM
 #### 112. 2018-12-16-[Extrinsic 6DoF Calibration of a Radar – LiDAR – Camera System Enhanced by Radar Cross Section Estimates Evaluation](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0921889018301994) 相机激光毫米波雷达外参估计
 #### 111. 2018-12-16-[Visual-Based SLAM Configurations for Cooperative Multi-UAV Systems with a Lead Agent: An Observability-Based Approach](https://www.ncbi.nlm.nih.gov/pubmed/30513949) 
-#### 110. 2018-12-16-[Robust Visual-Inertial State Estimation with Multiple Odometries and Efficient Mapping on an MAV with Ultra-Wide FOV Stereo Vision](https://elib.dlr.de/122805/1/IROS2018_multi_VO_elib.pdf) 四对双目鱼眼VIO
+#### 110. 2018-12-16-[Robust Visual-Inertial State Estimation with Multiple Odometries and Efficient Mapping on an MAV with Ultra-Wide FOV Stereo Vision](https://elib.dlr.de/122805/1/IROS2018_multi_VO_elib.pdf) 鱼眼相机产生的四对虚拟双目VIO
 #### 109. 2018-12-11-[Flying on point clouds: Online trajectory generation and autonomous navigation for quadrotors in cluttered environments](http://sci-hub.tw/10.1002/rob.21842)
 #### 108. 2018-12-11-[CubemapSLAM: A Piecewise-Pinhole Monocular Fisheye SLAM System](https://arxiv.org/pdf/1811.12633.pdf)  鱼眼镜头slam
 #### 107. 2018-12-11-[HOOFR SLAM System: An Embedded Vision SLAM Algorithm and Its Hardware-Software Mapping-Based Intelligent Vehicles Applications](http://sci-hub.tw/10.1109/tits.2018.2881556)
