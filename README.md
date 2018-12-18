@@ -13,6 +13,9 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 115. 2018-12-18-[Image-based Navigation using Visual Features and Map](https://arxiv.org/pdf/1812.03795.pdf)ETH formulate the map construction and self-localizationproblems as convex quadratic and second-order cone programs,respectively
+#### 114. 2018-12-18-[From Coarse to Fine: Robust Hierarchical Localization at Large Scale](https://arxiv.org/pdf/1812.03506.pdf) HF-Net, a hierarchical localization approach based on a monolithic CNN that simultaneously predicts local features and global descriptors foraccurate 6-DoF localization
+#### 113. 2018-12-18-[A Complete System for Vision-Based Micro-Aerial Vehicle Mapping, Planning, and Flight in Cluttered Environments](https://arxiv.org/pdf/1812.03892.pdf) ETH Siegwart 完整的视觉定位导航方案
 #### 112. 2018-12-16-[Extrinsic 6DoF Calibration of a Radar – LiDAR – Camera System Enhanced by Radar Cross Section Estimates Evaluation](https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0921889018301994) 相机激光毫米波雷达外参估计
 #### 111. 2018-12-16-[Visual-Based SLAM Configurations for Cooperative Multi-UAV Systems with a Lead Agent: An Observability-Based Approach](https://www.ncbi.nlm.nih.gov/pubmed/30513949) 
 #### 110. 2018-12-16-[Robust Visual-Inertial State Estimation with Multiple Odometries and Efficient Mapping on an MAV with Ultra-Wide FOV Stereo Vision](https://elib.dlr.de/122805/1/IROS2018_multi_VO_elib.pdf) 鱼眼相机产生的四对虚拟双目VIO
@@ -212,6 +215,9 @@
 #### 1.Scale Correct Monocular Visual Odometry Using a LiDAR Altimeter
 
 ## 三维重建 3D reconstruction 
+#### 14. 2018-12-18-[PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image](https://arxiv.org/pdf/1812.04072.pdf) 
+#### 13. 2018-12-18-[SeFM: A Sequential Feature Point Matching Algorithm for Object 3D Reconstruction](https://arxiv.org/pdf/1812.02925.pdf) 
+#### 12. 2018-12-18-[REAL-TIME INDOOR SCENE RECONSTRUCTION WITH RGBD AND INERTIA INPUT](https://arxiv.org/pdf/1812.03015.pdf) 
 #### 11. 2018-12-16-[Mobile-based 3D Reconstruction of Building Environment ](https://repozitorium.omikk.bme.hu/bitstream/handle/10890/5798/CCC2018-136.pdf?sequence=1)
 #### 10. 2018-12-11-[Fast and Accurate Reconstruction of Pan-Tilt RGB-D Scans via Axis Bound Registration](https://arxiv.org/pdf/1812.00240.pdf)
 #### 9.2018-11-28-[Accurate, dense and shading-aware multi-view stereo reconstruction using metaheuritic optimization](http://sci-hub.tw/10.1007/s11042-018-6904-6)
@@ -229,6 +235,8 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
+#### 35. 2018-12-18-[Unsupervised Learning of Monocular Depth Estimation with Bundle Adjustment, Super-Resolution and Clip Loss](https://arxiv.org/pdf/1812.03368.pdf) CMU Michael Kaess高清深度图恢复
+#### 34. 2018-12-18-[Self-Improving Visual Odometry](https://arxiv.org/pdf/1812.03245.pdf) magic leap出品，可以线上训练网络，自我提升vo性能，厉害了！
 #### 33. 2018-12-11-[Inferring Point Clouds from Single Monocular Images by Depth Intermediation](https://arxiv.org/pdf/1812.01402.pdf)
 #### 32. 2018-12-10-[BA-Net: Dense Bundle Adjustment Network](https://arxiv.org/pdf/1806.04807.pdf) 
 #### 31. 2018-12-06-[Matching Features without Descriptors: Implicitly Matched Interest Points (IMIPs)](https://arxiv.org/pdf/1811.10681.pdf)Davide Scaramuzza Michael Bloesch 发表不需要描述子使用CNN就能匹配特征点方法
