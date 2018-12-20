@@ -8,6 +8,7 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 116. 2018-12-20-[DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments](https://arxiv.org/pdf/1809.08379v1.pdf) 
 #### 115. 2018-12-18-[Image-based Navigation using Visual Features and Map](https://arxiv.org/pdf/1812.03795.pdf)ETH formulate the map construction and self-localizationproblems as convex quadratic and second-order cone programs,respectively
 #### 114. 2018-12-18-[From Coarse to Fine: Robust Hierarchical Localization at Large Scale](https://arxiv.org/pdf/1812.03506.pdf) HF-Net, a hierarchical localization approach based on a monolithic CNN that simultaneously predicts local features and global descriptors foraccurate 6-DoF localization
 #### 113. 2018-12-18-[A Complete System for Vision-Based Micro-Aerial Vehicle Mapping, Planning, and Flight in Cluttered Environments](https://arxiv.org/pdf/1812.03892.pdf) ETH Siegwart 完整的视觉定位导航方案
@@ -164,6 +165,7 @@
 #### 1. 2018-10-08-[Path Planning for Mobile Agents Using a Genetic Algorithm with a Direction Guided Factor](https://www.mdpi.com/2079-9292/7/10/212/htm)
 
 ## 基础工具 Basic tools 
+#### 26. 2018-12-20-[An Extrinsic Calibration Method for Binocular Cameras and Swing 2D Laser Rangefinder](file:///home/eason/Downloads/An%20Extrinsic%20Calibration%20Method%20for%20Binocular%20Cameras%20and%20Swing%202D%20Laser%20Rangefinder.pdf) 相机与旋转2D激光标定
 #### 25. 2018-12-10-[An Iterative Nonlinear Filter Using Variational Bayesian Optimization](https://www.mdpi.com/1424-8220/18/12/4222)
 #### 24. 2018-12-07-[Two-pass K Nearest Neighbor Search for Feature Tracking](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8528423) 增强的ＫＮＮ特征匹配方法
 #### 23. 2018-11-22-[RLDB: Robust Local Difference Binary Descriptor with Integrated Learning-based Optimization](http://itiis.org/digital-library/manuscript/2126)
