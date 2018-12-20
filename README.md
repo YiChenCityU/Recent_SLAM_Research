@@ -8,6 +8,9 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 119. 2018-12-20-[Real-time 3D scene reconstruction and localization with surface optimization](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8556661)
+#### 118. 2018-12-20-[A fast initialization method of Visual-Inertial Odometry based on monocular camera ](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8559929/)
+#### 117. 2018-12-20-[A Weighing Euler Pre-integration Method in the Visual-Inertial Odometry](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8559725)
 #### 116. 2018-12-20-[DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments](https://arxiv.org/pdf/1809.08379v1.pdf) 
 #### 115. 2018-12-18-[Image-based Navigation using Visual Features and Map](https://arxiv.org/pdf/1812.03795.pdf)ETH formulate the map construction and self-localizationproblems as convex quadratic and second-order cone programs,respectively
 #### 114. 2018-12-18-[From Coarse to Fine: Robust Hierarchical Localization at Large Scale](https://arxiv.org/pdf/1812.03506.pdf) HF-Net, a hierarchical localization approach based on a monolithic CNN that simultaneously predicts local features and global descriptors foraccurate 6-DoF localization
