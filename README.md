@@ -235,6 +235,10 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
+#### 39. 2018-12-28-[3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans](https://arxiv.org/pdf/1812.07003.pdf)RGBD 分割
+#### 38. 2018-12-28-[Deep Global-Relative Networks for End-to-End 6-DoF Visual ocalization and Odometry](https://arxiv.org/pdf/1812.07869.pdf)端到端VO
+#### 37. 2018-12-28-[MID-Fusion: Octree-based Object-Level Multi-Instance Dynamic SLAM](https://arxiv.org/pdf/1812.07976.pdf)分割出动态物体 ，Andrew Davison
+#### 36. 2018-12-28-[SfMLearner++: Learning Monocular Depth & Ego-Motion using Meaningful Geometric Constraints](https://arxiv.org/pdf/1812.08370.pdf) sfmLearner加强版，加入了对极约束，减少参数和模型大小
 #### 35. 2018-12-18-[Unsupervised Learning of Monocular Depth Estimation with Bundle Adjustment, Super-Resolution and Clip Loss](https://arxiv.org/pdf/1812.03368.pdf) CMU Michael Kaess高清深度图恢复
 #### 34. 2018-12-18-[Self-Improving Visual Odometry](https://arxiv.org/pdf/1812.03245.pdf) magic leap出品，可以线上训练网络，自我提升vo性能，厉害了！
 #### 33. 2018-12-11-[Inferring Point Clouds from Single Monocular Images by Depth Intermediation](https://arxiv.org/pdf/1812.01402.pdf)
