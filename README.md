@@ -168,6 +168,7 @@
 #### 1. 2018-10-08-[Path Planning for Mobile Agents Using a Genetic Algorithm with a Direction Guided Factor](https://www.mdpi.com/2079-9292/7/10/212/htm)
 
 ## 基础工具 Basic tools 
+#### 27. 2018-12-27-[Impact of light on augmented reality](https://liu.diva-portal.org/smash/get/diva2:1272321/FULLTEXT01.pdf) 光照对AR影响
 #### 26. 2018-12-20-[An Extrinsic Calibration Method for Binocular Cameras and Swing 2D Laser Rangefinder](file:///home/eason/Downloads/An%20Extrinsic%20Calibration%20Method%20for%20Binocular%20Cameras%20and%20Swing%202D%20Laser%20Rangefinder.pdf) 相机与旋转2D激光标定
 #### 25. 2018-12-10-[An Iterative Nonlinear Filter Using Variational Bayesian Optimization](https://www.mdpi.com/1424-8220/18/12/4222)
 #### 24. 2018-12-07-[Two-pass K Nearest Neighbor Search for Feature Tracking](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8528423) 增强的ＫＮＮ特征匹配方法
