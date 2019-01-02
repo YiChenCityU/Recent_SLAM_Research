@@ -8,6 +8,8 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 121. 2018-12-28-[Patch-based Stereo Direct Visual Odometry Robust to Illumination Changes](https://sci-hub.tw/https://link.springer.com/article/10.1007/s12555-018-0199-2) 光照鲁棒性
+#### 120. 2018-12-28-[Observability Analysis and Performance Evaluation of EKF-based Visual-inertial Odometry with Online Intrinsic Camera Parameter Calibration](https://sci-hub.tw/10.1109/jsen.2018.2886764) 
 #### 119. 2018-12-20-[Real-time 3D scene reconstruction and localization with surface optimization](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8556661)
 #### 118. 2018-12-20-[A fast initialization method of Visual-Inertial Odometry based on monocular camera ](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8559929/)
 #### 117. 2018-12-20-[A Weighing Euler Pre-integration Method in the Visual-Inertial Odometry](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8559725)
@@ -160,6 +162,9 @@
 #### 1. Absolute Orientation and Localization Estimation from an Omnidirectional Image 
 
 ## 路径规划导航 
+#### 9. 2018-12-28-[A Minimum-energy Trajectory Tracking Controller for Four-wheeled Omni-directional Mobile Robot](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8581387)
+#### 8. 2018-12-28-[An improved Frontier-Based Approach for Autonomous Exploration](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8581245)自探索
+#### 7. 2018-12-28-[Autonomous Indoor Exploration Via Polygon Map Construction and Graph-Based SLAM Using Directional Endpoint Features](https://sci-hub.tw/10.1109/tase.2018.2883587)
 #### 6. 2018-12-03-[Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients](https://arxiv.org/pdf/1811.10753.pdf) 
 #### 5. 2018-11-13-[Safe Local Exploration for Replanning in Cluttered Unknown Environments for Micro-Aerial Vehicles](https://arxiv.org/abs/1710.00604)
 #### 4. 2018-11-13-[Sparse 3D Topological Graphs for Micro-Aerial Vehicle Planning](https://arxiv.org/abs/1803.04345)
@@ -216,6 +221,7 @@
 #### 1.Scale Correct Monocular Visual Odometry Using a LiDAR Altimeter
 
 ## 三维重建 3D reconstruction 
+#### 15. 2018-12-28-[Three Dimensional Reconstruction of Botanical Trees with Simulatable Geometry](https://arxiv.org/pdf/1812.08849.pdf)
 #### 14. 2018-12-18-[PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image](https://arxiv.org/pdf/1812.04072.pdf) 
 #### 13. 2018-12-18-[SeFM: A Sequential Feature Point Matching Algorithm for Object 3D Reconstruction](https://arxiv.org/pdf/1812.02925.pdf) 
 #### 12. 2018-12-18-[REAL-TIME INDOOR SCENE RECONSTRUCTION WITH RGBD AND INERTIA INPUT](https://arxiv.org/pdf/1812.03015.pdf) 
@@ -236,6 +242,8 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
+#### 41. 2018-12-28-[Learning to Fuse Multiscale Features for Visual Place Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8585013) 回环检测
+#### 40. 2018-12-28-[Simultaneous Localization and Mapping in the Epoch of Semantics: A Survey](https://sci-hub.tw/10.1007/s12555-018-0130-x) 语义SLAM综述
 #### 39. 2018-12-28-[3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans](https://arxiv.org/pdf/1812.07003.pdf)RGBD 分割
 #### 38. 2018-12-28-[Deep Global-Relative Networks for End-to-End 6-DoF Visual ocalization and Odometry](https://arxiv.org/pdf/1812.07869.pdf)端到端VO
 #### 37. 2018-12-28-[MID-Fusion: Octree-based Object-Level Multi-Instance Dynamic SLAM](https://arxiv.org/pdf/1812.07976.pdf)分割出动态物体 ，Andrew Davison
