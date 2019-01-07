@@ -8,6 +8,9 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 124. 2018-12-29-[Visual-Inertial Fusion for Indoor Autonomous Navigation of a Quadrotor Using ORB-SLAM](https://sci-hub.tw/10.1109/lars/sbr/wre.2018.00028) EKF ORB+IMU
+#### 123. 2018-12-29-[Online Inertial-Aided Monocular Camera Self-Calibration](https://sci-hub.tw/doi/10.1109/lars/sbr/wre.2018.00027) 相机自标定
+#### 122. 2018-12-29-[Simultaneous Localization and Mapping of Mobile Robot Based on Image Enhancement](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8586745) 增强光照鲁棒性
 #### 121. 2018-12-28-[Patch-based Stereo Direct Visual Odometry Robust to Illumination Changes](https://sci-hub.tw/https://link.springer.com/article/10.1007/s12555-018-0199-2) 光照鲁棒性
 #### 120. 2018-12-28-[Observability Analysis and Performance Evaluation of EKF-based Visual-inertial Odometry with Online Intrinsic Camera Parameter Calibration](https://sci-hub.tw/10.1109/jsen.2018.2886764) 
 #### 119. 2018-12-20-[Real-time 3D scene reconstruction and localization with surface optimization](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8556661)
@@ -222,6 +225,7 @@
 #### 1.Scale Correct Monocular Visual Odometry Using a LiDAR Altimeter
 
 ## 三维重建 3D reconstruction 
+#### 16. 2018-12-29-[Plant 3D reconstruction based on LiDAR and multi-view sequence images ](http://ijpaa.org/index.php/ijpaa/article/view/7/8)视觉激光融合三维重建
 #### 15. 2018-12-28-[Three Dimensional Reconstruction of Botanical Trees with Simulatable Geometry](https://arxiv.org/pdf/1812.08849.pdf)
 #### 14. 2018-12-18-[PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image](https://arxiv.org/pdf/1812.04072.pdf) 
 #### 13. 2018-12-18-[SeFM: A Sequential Feature Point Matching Algorithm for Object 3D Reconstruction](https://arxiv.org/pdf/1812.02925.pdf) 
@@ -243,6 +247,9 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
+#### 44. 2018-12-29-[Learning to Prevent Monocular SLAM Failure using Reinforcement Learning](https://arxiv.org/pdf/1812.09647.pdf)
+#### 43. 2018-12-29-[Autonomous Mobile Robot Visual SLAM Based on Improved CNN Method](https://sci-hub.tw/10.1088/1757-899x/466/1/012114)
+#### 42. 2018-12-29-[A Unified Framework for Mutual Improvement of SLAM and Semantic Segmentation](https://arxiv.org/pdf/1812.10016.pdf) 
 #### 41. 2018-12-28-[Learning to Fuse Multiscale Features for Visual Place Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8585013) 回环检测
 #### 40. 2018-12-28-[Simultaneous Localization and Mapping in the Epoch of Semantics: A Survey](https://sci-hub.tw/10.1007/s12555-018-0130-x) 语义SLAM综述
 #### 39. 2018-12-28-[3D-SIS: 3D Semantic Instance Segmentation of RGB-D Scans](https://arxiv.org/pdf/1812.07003.pdf)RGBD 分割
