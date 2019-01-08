@@ -8,6 +8,8 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 126. 2018-12-30-[Fast Visual Odometry Based Sparse Geometric Constraint for RGB-D Camera](https://www.jstage.jst.go.jp/article/transinf/E102.D/1/E102.D_2018EDL8119/_pdf) 比ORB快两倍
+#### 125. 2018-12-30-[Development of Nano UAV Platform for Navigation in GPS-Denied Environment Using Snapdragon](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8592913) 
 #### 124. 2018-12-29-[Visual-Inertial Fusion for Indoor Autonomous Navigation of a Quadrotor Using ORB-SLAM](https://sci-hub.tw/10.1109/lars/sbr/wre.2018.00028) EKF ORB+IMU
 #### 123. 2018-12-29-[Online Inertial-Aided Monocular Camera Self-Calibration](https://sci-hub.tw/doi/10.1109/lars/sbr/wre.2018.00027) 相机自标定
 #### 122. 2018-12-29-[Simultaneous Localization and Mapping of Mobile Robot Based on Image Enhancement](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8586745) 增强光照鲁棒性
@@ -165,6 +167,9 @@
 #### 1. Absolute Orientation and Localization Estimation from an Omnidirectional Image 
 
 ## 路径规划导航 
+#### 12. 2018-12-30-[Robust Path Planning Against Pose Errors for Mobile Robots in Rough Terrain](https://books.google.com.hk/books?hl=zh-CN&lr=&id=CfCBDwAAQBAJ&oi=fnd&pg=PA27&ots=bYW86VmdDw&sig=DhuUT06SJF39dQHrhxsSnoNLZe4&redir_esc=y#v=onepage&q&f=false) 机器人位姿有误差时候规划路径
+#### 11. 2018-12-30-[A Navigation Framework for Mobile Robots with 3D LiDAR and Monocular Camera](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8591329/)
+#### 10. 2018-12-30-[Flight Path Planning of Multiple UAVs for Robust Localization near Infrastructure Facilities*](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8592710) 多机路径规划
 #### 9. 2018-12-28-[A Minimum-energy Trajectory Tracking Controller for Four-wheeled Omni-directional Mobile Robot](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8581387)
 #### 8. 2018-12-28-[An improved Frontier-Based Approach for Autonomous Exploration](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8581245)自探索
 #### 7. 2018-12-28-[Autonomous Indoor Exploration Via Polygon Map Construction and Graph-Based SLAM Using Directional Endpoint Features](https://sci-hub.tw/10.1109/tase.2018.2883587)
@@ -176,6 +181,7 @@
 #### 1. 2018-10-08-[Path Planning for Mobile Agents Using a Genetic Algorithm with a Direction Guided Factor](https://www.mdpi.com/2079-9292/7/10/212/htm)
 
 ## 基础工具 Basic tools 
+#### 29. 2018-12-30-[Calibration of Heterogeneous Sensor Systems](https://arxiv.org/pdf/1812.11445.pdf) 各种传感器之间标定
 #### 28. 2018-12-29-[Viewpoint-tolerant Place Recognition combining 2D and 3D information for UAV navigation](https://www.research-collection.ethz.ch/handle/20.500.11850/308619) 回环检测 
 #### 27. 2018-12-27-[Impact of light on augmented reality](https://liu.diva-portal.org/smash/get/diva2:1272321/FULLTEXT01.pdf) 光照对AR影响
 #### 26. 2018-12-20-[An Extrinsic Calibration Method for Binocular Cameras and Swing 2D Laser Rangefinder](file:///home/eason/Downloads/An%20Extrinsic%20Calibration%20Method%20for%20Binocular%20Cameras%20and%20Swing%202D%20Laser%20Rangefinder.pdf) 相机与旋转2D激光标定
@@ -225,6 +231,7 @@
 #### 1.Scale Correct Monocular Visual Odometry Using a LiDAR Altimeter
 
 ## 三维重建 3D reconstruction 
+#### 17. 2018-12-30-[Low-Cost and Efficient Indoor 3D Reconstruction through Annotated Hierarchical Structure-from-Motion](https://www.mdpi.com/2072-4292/11/1/58)
 #### 16. 2018-12-29-[Plant 3D reconstruction based on LiDAR and multi-view sequence images ](http://ijpaa.org/index.php/ijpaa/article/view/7/8)视觉激光融合三维重建
 #### 15. 2018-12-28-[Three Dimensional Reconstruction of Botanical Trees with Simulatable Geometry](https://arxiv.org/pdf/1812.08849.pdf)
 #### 14. 2018-12-18-[PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image](https://arxiv.org/pdf/1812.04072.pdf) 
@@ -247,6 +254,7 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
+#### 45. 2018-12-30-[Epipolar Geometry based Learning of Multi-view Depth and Ego-Motion from Monocular Sequences](https://arxiv.org/pdf/1812.11922.pdf) 
 #### 44. 2018-12-29-[Learning to Prevent Monocular SLAM Failure using Reinforcement Learning](https://arxiv.org/pdf/1812.09647.pdf)
 #### 43. 2018-12-29-[Autonomous Mobile Robot Visual SLAM Based on Improved CNN Method](https://sci-hub.tw/10.1088/1757-899x/466/1/012114)
 #### 42. 2018-12-29-[A Unified Framework for Mutual Improvement of SLAM and Semantic Segmentation](https://arxiv.org/pdf/1812.10016.pdf) 
