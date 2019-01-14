@@ -181,6 +181,7 @@
 #### 1. 2018-10-08-[Path Planning for Mobile Agents Using a Genetic Algorithm with a Direction Guided Factor](https://www.mdpi.com/2079-9292/7/10/212/htm)
 
 ## 基础工具 Basic tools 
+#### 30. 2018-12-31-[Accurate Intrinsic and Extrinsic Calibration of RGB-D Cameras with GP-based Depth Correction](https://sci-hub.tw/10.1109/jsen.2018.2889805) RGBD 标定
 #### 29. 2018-12-30-[Calibration of Heterogeneous Sensor Systems](https://arxiv.org/pdf/1812.11445.pdf) 各种传感器之间标定
 #### 28. 2018-12-29-[Viewpoint-tolerant Place Recognition combining 2D and 3D information for UAV navigation](https://www.research-collection.ethz.ch/handle/20.500.11850/308619) 回环检测 
 #### 27. 2018-12-27-[Impact of light on augmented reality](https://liu.diva-portal.org/smash/get/diva2:1272321/FULLTEXT01.pdf) 光照对AR影响
