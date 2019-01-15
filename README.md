@@ -8,6 +8,7 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 127. 2018-12-31-[RGBiD-SLAM for Accurate Real-time Localisation and 3D Mapping](https://arxiv.org/pdf/1807.08271.pdf)[code](https://github.com/dangut/RGBiD-SLAM)
 #### 126. 2018-12-30-[Fast Visual Odometry Based Sparse Geometric Constraint for RGB-D Camera](https://www.jstage.jst.go.jp/article/transinf/E102.D/1/E102.D_2018EDL8119/_pdf) 比ORB快两倍
 #### 125. 2018-12-30-[Development of Nano UAV Platform for Navigation in GPS-Denied Environment Using Snapdragon](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8592913) 
 #### 124. 2018-12-29-[Visual-Inertial Fusion for Indoor Autonomous Navigation of a Quadrotor Using ORB-SLAM](https://sci-hub.tw/10.1109/lars/sbr/wre.2018.00028) EKF ORB+IMU
@@ -181,6 +182,7 @@
 #### 1. 2018-10-08-[Path Planning for Mobile Agents Using a Genetic Algorithm with a Direction Guided Factor](https://www.mdpi.com/2079-9292/7/10/212/htm)
 
 ## 基础工具 Basic tools 
+#### 31. 2018-12-31-[Robust Intrinsic and Extrinsic Calibration of RGB-D Cameras](https://arxiv.org/pdf/1701.05748.pdf)[code](https://github.com/iaslab-unipd/rgbd_calibration)
 #### 30. 2018-12-31-[Accurate Intrinsic and Extrinsic Calibration of RGB-D Cameras with GP-based Depth Correction](https://sci-hub.tw/10.1109/jsen.2018.2889805) RGBD 标定
 #### 29. 2018-12-30-[Calibration of Heterogeneous Sensor Systems](https://arxiv.org/pdf/1812.11445.pdf) 各种传感器之间标定
 #### 28. 2018-12-29-[Viewpoint-tolerant Place Recognition combining 2D and 3D information for UAV navigation](https://www.research-collection.ethz.ch/handle/20.500.11850/308619) 回环检测 
