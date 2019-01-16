@@ -8,6 +8,11 @@
 ### 战斗吧
 
 ## Visual SLAM
+#### 132. 2018-12-31-[Adaptive Baseline Monocular Dense Mapping with Inter-frame Depth Propagation](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8593936/)
+#### 131. 2018-12-31-[Probabilistic Dense Reconstruction from a Moving Camera](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8593618/)
+#### 130. 2018-12-31-[Quadtree-Accelerated Real-Time Monocular Dense Mapping](https://ieeexplore.ieee.org/abstract/document/8594101)
+#### 129. 2018-12-31-[Good Feature Selection for Least Squares Pose Optimization in VO/VSLAM](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8593641/)
+#### 128. 2018-12-31-[A Novel Relative Camera Motion Estimation Algorithm with Applications to Visual Odometry](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8603292)
 #### 127. 2018-12-31-[RGBiD-SLAM for Accurate Real-time Localisation and 3D Mapping](https://arxiv.org/pdf/1807.08271.pdf)      [code](https://github.com/dangut/RGBiD-SLAM)
 #### 126. 2018-12-30-[Fast Visual Odometry Based Sparse Geometric Constraint for RGB-D Camera](https://www.jstage.jst.go.jp/article/transinf/E102.D/1/E102.D_2018EDL8119/_pdf) 比ORB快两倍
 #### 125. 2018-12-30-[Development of Nano UAV Platform for Navigation in GPS-Denied Environment Using Snapdragon](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8592913) 
@@ -257,6 +262,7 @@
 #### 1. PSDF Fusion: Probabilistic Signed Distance Function for On-the-fly 3D Data Fusion and Scene Reconstruction
 
 ## 深度学习（DL）+SLAM
+#### 46. 2018-12-31-[Semantic Monocular SLAM for Highly Dynamic Environments](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8593828/)
 #### 45. 2018-12-30-[Epipolar Geometry based Learning of Multi-view Depth and Ego-Motion from Monocular Sequences](https://arxiv.org/pdf/1812.11922.pdf) 
 #### 44. 2018-12-29-[Learning to Prevent Monocular SLAM Failure using Reinforcement Learning](https://arxiv.org/pdf/1812.09647.pdf)
 #### 43. 2018-12-29-[Autonomous Mobile Robot Visual SLAM Based on Improved CNN Method](https://sci-hub.tw/10.1088/1757-899x/466/1/012114)
