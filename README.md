@@ -29,6 +29,7 @@
 
 ### Auto driving
 
+#### 2. 2019-01-25-[Sensor fusion for localization of automated vehicles](https://d-nb.info/1173898506/34) 德国Bonn大学自动驾驶多传感器融合博士论文
 #### 1. 2019-01-24-[Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf)
 
 ### Path Planning 
