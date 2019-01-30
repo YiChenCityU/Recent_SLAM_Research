@@ -8,6 +8,9 @@
 
 ### VSLAM
 
+#### 12. 2019-01-30-[Multi-objective Mapping and Path Planning using Visual SLAM and Object Detection](https://uwspace.uwaterloo.ca/bitstream/handle/10012/14386/Woo_Ami.pdf?sequence=3&isAllowed=y) 一篇硕士论文
+#### 11. 2019-01-30-[Extrinsic Calibration of Lidar and Camera with Polygon](https://ram-lab.com/papers/2018/liao_robio2018.pdf) 利用已知多边形板子获得激光与视觉传感器外参，出自港科大刘明老师
+#### 10. 2019-01-30-[Robust Photogeometric Localization over Time for Map-Centric Loop Closure](https://arxiv.org/pdf/1901.07660.pdf)解决map-centric slam回环问题
 #### 9. 2019-01-25-[A Novel Method for Extrinsic Calibration of Multiple RGB-D Cameras Using Descriptor-Based Patterns](https://www.mdpi.com/1424-8220/19/2/349/htm) 多个RGBD相机外参标定
 #### 8. 2019-01-25-[SLAM of Robot based on the Fusion of Vision and LIDAR](https://sci-hub.tw/10.1109/cbs.2018.8612212)RGBD 与lidar 融合，好像只是处理逻辑关系判断，没有深度融合
 #### 7. 2019-01-25-[ADAPTIVE FILTERING FOR VISION-AIDED INERTIAL NAVIGATION](https://smartech.gatech.edu/bitstream/handle/1853/60806/LEE-DISSERTATION-2018.pdf?sequence=1&isAllowed=y) 佐治亚理工博士论文，关于自适应卡尔曼滤波
