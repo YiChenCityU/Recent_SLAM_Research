@@ -7,6 +7,8 @@
 
 
 ### VSLAM
+#### 16. 2019-02-18-[UcoSLAM: Simultaneous Localization and Mapping by Fusion of KeyPoints and Squared Planar Markers](https://arxiv.org/pdf/1902.03729.pdf)融合视觉与二维码标签SLAM，[代码](https://sourceforge.net/projects/ucoslam/)
+#### 15. 2019-02-14-[Visual SLAM: Why Bundle Adjust?](https://arxiv.org/pdf/1902.03747.pdf)Ian Reid的改进版BA
 #### 14. 2019-02-14-[A real-time visual-inertial mapping and localization method by fusing unstable GPS](https://ieeexplore.ieee.org/abstract/document/8630513) 根据GPS信号可信度调整优化方法
 #### 13. 2019-02-14-[Comparison and Analysis of Feature Method and Direct Method in Visual SLAM Technology for Social Robots](https://ieeexplore.ieee.org/abstract/document/8630714)对比直接法与特征点法
 #### 12. 2019-01-30-[Multi-objective Mapping and Path Planning using Visual SLAM and Object Detection](https://uwspace.uwaterloo.ca/bitstream/handle/10012/14386/Woo_Ami.pdf?sequence=3&isAllowed=y) 一篇硕士论文
@@ -30,6 +32,7 @@
 #### 1. 2019-01-22-[DF-SLAM: A Deep-Learning Enhanced Visual SLAM System based on Deep Local Features](https://arxiv.org/pdf/1901.07223.pdf)
 
 ### 3D Reconstruction
+#### 4. 2019-02-18-[Improving 3D reconstruction via RGB-D camera registration and shading-based surface refinement](file:///home/eason/Downloads/Thesis_final_submit.pdf)南阳理工邓腾博士论文
 #### 3. 2019-02-13-[Comparative analysis of properties of LiDAR-based point clouds versus camerabased point clouds for 3D reconstruction using SLAM algorithms](http://scholar.google.com/scholar_url?url=https://www.doria.fi/bitstream/handle/10024/167410/bistrom_benjamin.pdf%3Fsequence%3D2&hl=de&sa=X&d=12452230042616813822&scisig=AAGBfm38puu_H5N8Tp62YkqQwuvZUVNXOw&nossl=1&oi=scholaralrt&hist=3Pwx2kMAAAAJ:13453396895897446987:AAGBfm2VmZLsOGwX0LAQ1scLkl9E22zpBQ)激光点云与RGBD点云对比
 #### 2. 2019-01-12-[Real-time Monocular Dense Mapping of Small Scenes with ORB Features](https://sci-hub.tw/https://ieeexplore.ieee.org/document/8610747) 单目ORB SLAM重建 
 #### 1. 2019-01-12-[NRMVS: Non-Rigid Multi-View Stereo](https://arxiv.org/pdf/1901.03910.pdf) 根据不同视角RGB图像对变形物体三维重建
@@ -40,12 +43,14 @@
 #### 1. 2019-01-24-[Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf)
 
 ### Path Planning 
+#### 5. 2019-02-18-[Efficient Autonomous Exploration Planning of Large Scale 3D-Environments](https://www.ida.liu.se/divisions/aiics/publications/RAL-2019-Efficient-Autonomous-Exploration.pdf). Frontier Exploration planning (FEP) 与 Receding Horizon Next-Best-View planning (RH-NBVP)方法融合做自主探索
 #### 4. 2019-02-15-[Motion Planning for Micro Aerial Vehicles](https://sci-hub.tw/http://search.proquest.com/openview/3ddcfedc312ef40732797bfbc416ed59/1?pq-origsite=gscholar&cbl=18750&diss=y)宾大liu sikang博士论文，导师Kumar
 #### 3. 2019-02-14-[A Novel GRU-RNN Network Model for Dynamic Path Planning of Mobile Robot](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8625490) 全名Gated Recurrent Unit-Recurrent Neural Network (GRU-RNN) 
 #### 2. 2019-02-13-[Improving the Hybrid A* method for a non-holonomic wheeled robot](https://journals.sagepub.com/doi/full/10.1177/1729881419826857)增强混合A星算法
 #### 1. 2019-01-25-[Planning Algorithms for Multi-Robot Active Perception](http://scholar.google.com/scholar_url?url=https://ses.library.usyd.edu.au/bitstream/2123/19781/3/Graeme%2520Best%2520thesis.pdf&hl=zh-CN&sa=X&d=8591620865467554452&scisig=AAGBfm3-S44J8_MVtxhXZOgRqUDfvDig7g&nossl=1&oi=scholaralrt&hist=3Pwx2kMAAAAJ:7683124594916984709:AAGBfm07xRT6Xkv3-NQLydsk2iShtnUYcA) 悉尼大学多机器人主动感知路径规划
 
 ### Others
+#### 2. 2019-02-18-[GPS/LiDAR Sensor Fusion Integrity: A Top-Down Approach](http://gracegao.ae.illinois.edu/publications/journal/2018_Navigation_GPSLidar%20integrity_Ashwin%20Kanhere.pdf) GPS 激光融合
 #### 1. 2019-01-25-[Ultra-wideband-based Navigation for Unmanned Aerial Vehicles](http://scholar.google.com.hk/scholar_url?url=https://dr.ntu.edu.sg/bitstream/handle/10220/47471/THESIS_GUO%2520KEXIN_G1400180L.pdf%3Fsequence%3D1&hl=zh-CN&sa=X&d=7665655280644322246&scisig=AAGBfm0njtXltv-cbMLcxfW5K85Ixk-XSg&nossl=1&oi=scholaralrt&hist=3Pwx2kMAAAAJ:8091854961068759592:AAGBfm2trGFRZKGhbBitzOqs-u-1ftqAhA) 南洋理工UWB定位博士论文
 
 
