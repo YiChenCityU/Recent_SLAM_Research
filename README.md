@@ -1,12 +1,17 @@
 # Recent_SLAM_Research
 【回馈社区】跟踪SLAM前沿动态(2019), [2018版](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/README_2018.md) 技术更新太快，开启paper暴走模式，精选paper包括纯视觉SLAM，三维重建，基础数学工具，导航路径规划，深度学习SLAM，激光与视觉融合等类别。如果你发现我遗漏了本年度比较优秀的论文，请开issue留言，不胜感激。
 
+### 招聘
+即将上市机器人独角兽广招SLAM算法工程师。
+欢迎wechat骚扰：sinnature
+邮箱：easonjianghk@gmail.com
 ## SLAM 能力图 
 
 <img src="https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM%E8%83%BD%E5%8A%9B%E5%9B%BE.png" width ="300" height="550" />
 
 
 ### VSLAM
+#### 17. 2019-02-21-[Robust 3D Indoor Map Building via RGB-D SLAM with Adaptive IMU Fusion on Robot](https://www.mdpi.com/1424-8220/16/10/1589/pdf) 简单直接的融合方式
 #### 16. 2019-02-18-[UcoSLAM: Simultaneous Localization and Mapping by Fusion of KeyPoints and Squared Planar Markers](https://arxiv.org/pdf/1902.03729.pdf)融合视觉与二维码标签SLAM，[代码](https://sourceforge.net/projects/ucoslam/)
 #### 15. 2019-02-14-[Visual SLAM: Why Bundle Adjust?](https://arxiv.org/pdf/1902.03747.pdf)Ian Reid的改进版BA
 #### 14. 2019-02-14-[A real-time visual-inertial mapping and localization method by fusing unstable GPS](https://ieeexplore.ieee.org/abstract/document/8630513) 根据GPS信号可信度调整优化方法
