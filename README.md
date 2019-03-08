@@ -11,6 +11,11 @@
 
 
 ### VSLAM
+#### 25. 2019-03-08-[ROVO: Robust Omnidirectional Visual Odometry for Wide-baseline Wide-FOV Camera Systems](https://arxiv.org/pdf/1902.11154.pdf)多目鱼眼SLAM
+#### 24. 2019-03-08-[Robust RGB-D Odometry under Depth Uncertainty for Structured Environments](https://search.proquest.com/openview/d9b6a8efb6fd8075cfe7aeed663085c7/1?pq-origsite=gscholar&cbl=2026366&diss=y) 博士论文处理RGBD深度误差
+#### 23. 2019-03-08-[Stereo Visual Inertial LiDAR Simultaneous Localization and Mapping](https://arxiv.org/pdf/1902.10741.pdf)激光在山洞容易失效，双目可以增强某些场景
+#### 22. 2019-03-08-[Double-Layer Cubature Kalman Filter for Nonlinear Estimation](https://sci-hub.tw/https://www.mdpi.com/1424-8220/19/5/986)
+#### 21. 2019-03-08-[A Vertex-to-Edge Weighted Closed-Form Method for Dense RGB-D Indoor SLAM ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8649628) 
 #### 20. 2019-02-08-[Vision Sensor Aided Navigation for Ground Vehicle Applications](https://sci-hub.tw/https://prism.ucalgary.ca/handle/1880/109478) Liu Zhenbo 博士毕业论文讲的很仔细
 #### 19. 2019-02-28-[GSLAM: A General SLAM Framework and Benchmark](https://arxiv.org/pdf/1902.07995.pdf) 兼容多种框架的框架。。。
 #### 18. 2019-02-26-[A lightweight and scalable visual‑inertial motion capture system using fducial markers](https://sci-hub.tw/10.1007/s10514-019-09834-7)二维码加IMU
@@ -33,6 +38,9 @@
 #### 1. 2019-01-09-[Factor Graphs for Flexible Inference in Robotics and Vision](https://smartech.gatech.edu/handle/1853/60646) Dellaert, Frank视频详解因子图，他也是牛逼的SKYDIO 的开发者之一
 
 ### Deep SLAM
+#### 8. 2019-03-08-[DeepLO: Geometry-Aware Deep LiDAR Odometry](https://arxiv.org/pdf/1902.10562.pdf)基于深度学习的三维激光SLAM
+#### 7. 2019-03-08-[A Generative Map for Image-based Camera Localization](https://arxiv.org/pdf/1902.11124.pdf)
+#### 6. 2019-03-08-[GCNv2: Efficient Correspondence Prediction for Real-Time SLAM](https://arxiv.org/pdf/1902.11046.pdf) 网络生成ORB特征点，融合ORBSLAM里面去。[code](https://github.com/jiexiong2016/GCNv2_SLAM)
 #### 5. 2019-02-15-[Semantic and 3D Understanding of a Scene for Robot Perception](https://sci-hub.tw/http://search.proquest.com/openview/3a5804693015d4d0b42f1e4089a02267/1?pq-origsite=gscholar&cbl=18750&diss=y) 硕士论文
 #### 4. 2019-02-14-[VUNet: Dynamic Scene View Synthesis for Traversability Estimation using an RGB Camera](https://ieeexplore.ieee.org/document/8624332)估计机器人未来可通行区域
 #### 3. 2019-02-13-[GEN-SLAM: Generative Modeling for Monocular Simultaneous Localization and Mapping](https://arxiv.org/pdf/1902.02086.pdf)
@@ -51,6 +59,7 @@
 #### 1. 2019-01-24-[Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf)
 
 ### Path Planning 
+#### 6. 2019-03-08-[Autonomous Robotic Exploration by Incremental Road Map Construction](http://eeyxsun.people.ust.hk/docs/TASE2019_autonomous.pdf)港中文港科大合作出品
 #### 5. 2019-02-18-[Efficient Autonomous Exploration Planning of Large Scale 3D-Environments](https://www.ida.liu.se/divisions/aiics/publications/RAL-2019-Efficient-Autonomous-Exploration.pdf). Frontier Exploration planning (FEP) 与 Receding Horizon Next-Best-View planning (RH-NBVP)方法融合做自主探索
 #### 4. 2019-02-15-[Motion Planning for Micro Aerial Vehicles](https://sci-hub.tw/http://search.proquest.com/openview/3ddcfedc312ef40732797bfbc416ed59/1?pq-origsite=gscholar&cbl=18750&diss=y)宾大liu sikang博士论文，导师Kumar
 #### 3. 2019-02-14-[A Novel GRU-RNN Network Model for Dynamic Path Planning of Mobile Robot](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8625490) 全名Gated Recurrent Unit-Recurrent Neural Network (GRU-RNN) 
@@ -58,6 +67,7 @@
 #### 1. 2019-01-25-[Planning Algorithms for Multi-Robot Active Perception](http://scholar.google.com/scholar_url?url=https://ses.library.usyd.edu.au/bitstream/2123/19781/3/Graeme%2520Best%2520thesis.pdf&hl=zh-CN&sa=X&d=8591620865467554452&scisig=AAGBfm3-S44J8_MVtxhXZOgRqUDfvDig7g&nossl=1&oi=scholaralrt&hist=3Pwx2kMAAAAJ:7683124594916984709:AAGBfm07xRT6Xkv3-NQLydsk2iShtnUYcA) 悉尼大学多机器人主动感知路径规划
 
 ### Others
+#### 5. 2018-03-08-[UCSD ECE276A: Sensing & Estimation in Robotics (Winter 2019)](https://natanaso.github.io/ece276a/schedule.html) UC 圣地亚哥大学机器人感知运动估计课程
 #### 4. 2018-02-25-[Robust Harris Detector Corresponding and Calculates the Projection Error Using the Modification of the Weighting Function](http://www.ijmlc.org/vol9/766-M025.pdf)多层权重函数增强本质矩阵计算准确度
 #### 3. 2019-02-25-[MC2SLAM: Real-Time Inertial Lidar Odometry Using Two-Scan Motion Compensation](https://sci-hub.tw/10.1007/978-3-030-12939-2_5) 激光IMU紧耦合方案，声称KITTI数据集top5，且放出了数据集。
 #### 2. 2019-02-18-[GPS/LiDAR Sensor Fusion Integrity: A Top-Down Approach](http://gracegao.ae.illinois.edu/publications/journal/2018_Navigation_GPSLidar%20integrity_Ashwin%20Kanhere.pdf) GPS 激光融合
