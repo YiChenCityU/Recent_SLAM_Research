@@ -11,6 +11,9 @@
 
 
 ### VSLAM
+#### 28. 2019-03-11-[Real-Time Visual Odometry Covariance Estimation or Unmanned Air Vehicle Navigation](https://arc.aiaa.org/doi/pdfplus/10.2514/1.G004000)
+#### 27. 2019-03-11-[Ground Plane based Absolute Scale Estimation for Monocular Visual Odometry](https://arxiv.org/pdf/1903.00912.pdf)单目估计尺度
+#### 26. 2019-03-11-[Incremental Visual-Inertial 3D Mesh Generation with Structural Regularities](https://www.mit.edu/~arosinol/research/struct3dmesh.html)出自MIT，在VIO中根据三角剖分加入结构化特征
 #### 25. 2019-03-08-[ROVO: Robust Omnidirectional Visual Odometry for Wide-baseline Wide-FOV Camera Systems](https://arxiv.org/pdf/1902.11154.pdf)多目鱼眼SLAM
 #### 24. 2019-03-08-[Robust RGB-D Odometry under Depth Uncertainty for Structured Environments](https://search.proquest.com/openview/d9b6a8efb6fd8075cfe7aeed663085c7/1?pq-origsite=gscholar&cbl=2026366&diss=y) 博士论文处理RGBD深度误差
 #### 23. 2019-03-08-[Stereo Visual Inertial LiDAR Simultaneous Localization and Mapping](https://arxiv.org/pdf/1902.10741.pdf)激光在山洞容易失效，双目可以增强某些场景
