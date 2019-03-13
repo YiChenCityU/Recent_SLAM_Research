@@ -11,6 +11,9 @@
 
 
 ### VSLAM
+#### 31. 2019-03-13-[Nonparametric Statistical and Clustering Based RGB-D Dense Visual Odometry in a Dynamic Environment](https://sci-hub.tw/https://link.springer.com/article/10.1007/s13319-019-0220-4)多帧残差模型处理动态物体
+#### 30. 2019-03-13-[3D Reconstruction and Texture Optimization Using a Sparse Set of RGB-D Cameras](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8658571/)
+#### 29. 2019-03-13-[EGO-SLAM: A Robust Monocular SLAM for Egocentric Videos](https://www.cse.iitd.ac.in/~chetan/papers/wacv19-egoslam.pdf)
 #### 28. 2019-03-11-[Real-Time Visual Odometry Covariance Estimation or Unmanned Air Vehicle Navigation](https://arc.aiaa.org/doi/pdfplus/10.2514/1.G004000)
 #### 27. 2019-03-11-[Ground Plane based Absolute Scale Estimation for Monocular Visual Odometry](https://arxiv.org/pdf/1903.00912.pdf)单目估计尺度
 #### 26. 2019-03-11-[Incremental Visual-Inertial 3D Mesh Generation with Structural Regularities](https://www.mit.edu/~arosinol/research/struct3dmesh.html)出自MIT，在VIO中根据三角剖分加入结构化特征
@@ -57,7 +60,9 @@
 #### 1. 2019-01-12-[NRMVS: Non-Rigid Multi-View Stereo](https://arxiv.org/pdf/1901.03910.pdf) 根据不同视角RGB图像对变形物体三维重建
 
 ### Auto driving
-
+#### 5. 2019-03-13-[Lidar-Monocular Visual Odometry with Genetic Algorithm for Parameter Optimization](https://arxiv.org/pdf/1903.02046.pdf)在线实时优化参数
+#### 4. 2019-03-13-[An Interactive LiDAR to Camera Calibration](https://arxiv.org/pdf/1903.02122.pdf) 雷达相机外参标定
+#### 3. 2019-03-13-[A Fuzzy-Innovation-Based Adaptive Kalman Filter for Enhanced Vehicle Positioning in Dense Urban Environments](file:///home/eason/Downloads/sensors-19-01142-v2.pdf)
 #### 2. 2019-01-25-[Sensor fusion for localization of automated vehicles](https://d-nb.info/1173898506/34) 德国Bonn大学自动驾驶多传感器融合博士论文
 #### 1. 2019-01-24-[Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf)
 
