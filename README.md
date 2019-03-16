@@ -11,6 +11,8 @@
 
 
 ### VSLAM
+#### 33. 2019-03-16-[2-Entity RANSAC for robust visual localization in changing environment](https://arxiv.org/pdf/1903.03967.pdf)
+#### 32. 2019-03-16-[A Unified Formulation for Visual Odometry](https://arxiv.org/pdf/1903.04253.pdf) 综合直接法和间接法
 #### 31. 2019-03-13-[Nonparametric Statistical and Clustering Based RGB-D Dense Visual Odometry in a Dynamic Environment](https://sci-hub.tw/https://link.springer.com/article/10.1007/s13319-019-0220-4)多帧残差模型处理动态物体
 #### 30. 2019-03-13-[3D Reconstruction and Texture Optimization Using a Sparse Set of RGB-D Cameras](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8658571/)
 #### 29. 2019-03-13-[EGO-SLAM: A Robust Monocular SLAM for Egocentric Videos](https://www.cse.iitd.ac.in/~chetan/papers/wacv19-egoslam.pdf)
@@ -44,6 +46,7 @@
 #### 1. 2019-01-09-[Factor Graphs for Flexible Inference in Robotics and Vision](https://smartech.gatech.edu/handle/1853/60646) Dellaert, Frank视频详解因子图，他也是牛逼的SKYDIO 的开发者之一
 
 ### Deep SLAM
+#### 9. 2019-03-16-[Sparse Representations for Object and Ego-motion Estimation in Dynamic Scenes](https://arxiv.org/pdf/1903.03731.pdf)
 #### 8. 2019-03-08-[DeepLO: Geometry-Aware Deep LiDAR Odometry](https://arxiv.org/pdf/1902.10562.pdf)基于深度学习的三维激光SLAM
 #### 7. 2019-03-08-[A Generative Map for Image-based Camera Localization](https://arxiv.org/pdf/1902.11124.pdf)
 #### 6. 2019-03-08-[GCNv2: Efficient Correspondence Prediction for Real-Time SLAM](https://arxiv.org/pdf/1902.11046.pdf) 网络生成ORB特征点，融合ORBSLAM里面去。[code](https://github.com/jiexiong2016/GCNv2_SLAM)
