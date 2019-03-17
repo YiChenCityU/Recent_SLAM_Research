@@ -57,7 +57,7 @@
 #### 1. 2019-01-22-[DF-SLAM: A Deep-Learning Enhanced Visual SLAM System based on Deep Local Features](https://arxiv.org/pdf/1901.07223.pdf)
 
 ### 3D Reconstruction
-#### 4. 2019-02-18-[Improving 3D reconstruction via RGB-D camera registration and shading-based surface refinement](file:///home/eason/Downloads/Thesis_final_submit.pdf)南阳理工邓腾博士论文
+#### 4. 2019-02-18-[Improving 3D reconstruction via RGB-D camera registration and shading-based surface refinement](file:///home/eason/Downloads/Thesis_final_submit.pdf)南洋理工邓腾博士论文
 #### 3. 2019-02-13-[Comparative analysis of properties of LiDAR-based point clouds versus camerabased point clouds for 3D reconstruction using SLAM algorithms](http://scholar.google.com/scholar_url?url=https://www.doria.fi/bitstream/handle/10024/167410/bistrom_benjamin.pdf%3Fsequence%3D2&hl=de&sa=X&d=12452230042616813822&scisig=AAGBfm38puu_H5N8Tp62YkqQwuvZUVNXOw&nossl=1&oi=scholaralrt&hist=3Pwx2kMAAAAJ:13453396895897446987:AAGBfm2VmZLsOGwX0LAQ1scLkl9E22zpBQ)激光点云与RGBD点云对比
 #### 2. 2019-01-12-[Real-time Monocular Dense Mapping of Small Scenes with ORB Features](https://sci-hub.tw/https://ieeexplore.ieee.org/document/8610747) 单目ORB SLAM重建 
 #### 1. 2019-01-12-[NRMVS: Non-Rigid Multi-View Stereo](https://arxiv.org/pdf/1901.03910.pdf) 根据不同视角RGB图像对变形物体三维重建
