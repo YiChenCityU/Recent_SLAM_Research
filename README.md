@@ -11,6 +11,7 @@
 
 
 ### VSLAM
+#### 41. 2019-03-29-[Learning 3D Semantic Reconstruction on Octrees](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/332863/1/Wang_Xiaojuan.pdf)ETH wang xiaojuan三维语义重建硕士论文
 #### 40. 2019-03-29-[An Efficient Schmidt-EKF for 3D Visual-Inertial SLAM](https://arxiv.org/pdf/1903.08636.pdf)
 #### 39. 2019-03-29-[Levelling the Playing Field: A Comprehensive Comparison of Visual Place Recognition Approaches under Changing Conditions](https://arxiv.org/pdf/1903.09107.pdf)关于回环检测的综述
 #### 38. 2019-03-29-[Wheelchair robot navigation in different weather conditions using deep learning and evolved neural controller](https://www.emeraldinsight.com/doi/abs/10.1108/IR-08-2018-0176)
