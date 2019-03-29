@@ -11,6 +11,10 @@
 
 
 ### VSLAM
+#### 40. 2019-03-29-[An Efficient Schmidt-EKF for 3D Visual-Inertial SLAM](https://arxiv.org/pdf/1903.08636.pdf)
+#### 39. 2019-03-29-[Levelling the Playing Field: A Comprehensive Comparison of Visual Place Recognition Approaches under Changing Conditions](https://arxiv.org/pdf/1903.09107.pdf)关于回环检测的综述
+#### 38. 2019-03-29-[Wheelchair robot navigation in different weather conditions using deep learning and evolved neural controller](https://www.emeraldinsight.com/doi/abs/10.1108/IR-08-2018-0176)
+#### 37. 2019-03-29-[Pragma-Oriented Parallelization of the Direct Sparse Odometry SLAM Algorithm](https://ieeexplore.ieee.org/abstract/document/8671561)
 #### 36. 2019-03-25-[FMD Stereo SLAM: Fusing MVG and Direct Formulation Towards Accurate and Fast Stereo SLAM](https://www.researchgate.net/publication/281217090_Stereo_Parallel_Tracking_and_Mapping_for_robot_localization) 
 #### 35. 2019-03-21-[Spatiotemporal Decoupling Based LiDARCamera Calibration under Arbitrary Configurations](https://arxiv.org/pdf/1903.06141.pdf)
 #### 34. 2019-03-21-[An Accurate Localization Scheme for Mobile Robots Using Optical Flow in Dynamic Environments](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8664893/)
