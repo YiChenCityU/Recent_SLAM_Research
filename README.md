@@ -11,7 +11,28 @@
 
 
 ### VSLAM
-#### 20. 2019-02-08-[Vision Sensor Aided Navigation for Ground Vehicle Applications](https://sci-hub.tw/https://prism.ucalgary.ca/handle/1880/109478) Liu Zhenbo 博士毕业论文讲的很仔细
+#### 41. 2019-03-29-[Learning 3D Semantic Reconstruction on Octrees](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/332863/1/Wang_Xiaojuan.pdf)ETH wang xiaojuan三维语义重建硕士论文
+#### 40. 2019-03-29-[An Efficient Schmidt-EKF for 3D Visual-Inertial SLAM](https://arxiv.org/pdf/1903.08636.pdf)
+#### 39. 2019-03-29-[Levelling the Playing Field: A Comprehensive Comparison of Visual Place Recognition Approaches under Changing Conditions](https://arxiv.org/pdf/1903.09107.pdf)关于回环检测的综述
+#### 38. 2019-03-29-[Wheelchair robot navigation in different weather conditions using deep learning and evolved neural controller](https://www.emeraldinsight.com/doi/abs/10.1108/IR-08-2018-0176)
+#### 37. 2019-03-29-[Pragma-Oriented Parallelization of the Direct Sparse Odometry SLAM Algorithm](https://ieeexplore.ieee.org/abstract/document/8671561)
+#### 36. 2019-03-25-[FMD Stereo SLAM: Fusing MVG and Direct Formulation Towards Accurate and Fast Stereo SLAM](https://www.researchgate.net/publication/281217090_Stereo_Parallel_Tracking_and_Mapping_for_robot_localization) 
+#### 35. 2019-03-21-[Spatiotemporal Decoupling Based LiDARCamera Calibration under Arbitrary Configurations](https://arxiv.org/pdf/1903.06141.pdf)
+#### 34. 2019-03-21-[An Accurate Localization Scheme for Mobile Robots Using Optical Flow in Dynamic Environments](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8664893/)
+#### 33. 2019-03-16-[2-Entity RANSAC for robust visual localization in changing environment](https://arxiv.org/pdf/1903.03967.pdf)
+#### 32. 2019-03-16-[A Unified Formulation for Visual Odometry](https://arxiv.org/pdf/1903.04253.pdf) 综合直接法和间接法
+#### 31. 2019-03-13-[Nonparametric Statistical and Clustering Based RGB-D Dense Visual Odometry in a Dynamic Environment](https://sci-hub.tw/https://link.springer.com/article/10.1007/s13319-019-0220-4)多帧残差模型处理动态物体
+#### 30. 2019-03-13-[3D Reconstruction and Texture Optimization Using a Sparse Set of RGB-D Cameras](https://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/8658571/)
+#### 29. 2019-03-13-[EGO-SLAM: A Robust Monocular SLAM for Egocentric Videos](https://www.cse.iitd.ac.in/~chetan/papers/wacv19-egoslam.pdf)
+#### 28. 2019-03-11-[Real-Time Visual Odometry Covariance Estimation or Unmanned Air Vehicle Navigation](https://arc.aiaa.org/doi/pdfplus/10.2514/1.G004000)
+#### 27. 2019-03-11-[Ground Plane based Absolute Scale Estimation for Monocular Visual Odometry](https://arxiv.org/pdf/1903.00912.pdf)单目估计尺度
+#### 26. 2019-03-11-[Incremental Visual-Inertial 3D Mesh Generation with Structural Regularities](https://www.mit.edu/~arosinol/research/struct3dmesh.html)出自MIT，在VIO中根据三角剖分加入结构化特征
+#### 25. 2019-03-08-[ROVO: Robust Omnidirectional Visual Odometry for Wide-baseline Wide-FOV Camera Systems](https://arxiv.org/pdf/1902.11154.pdf)多目鱼眼SLAM
+#### 24. 2019-03-08-[Robust RGB-D Odometry under Depth Uncertainty for Structured Environments](https://search.proquest.com/openview/d9b6a8efb6fd8075cfe7aeed663085c7/1?pq-origsite=gscholar&cbl=2026366&diss=y) 博士论文处理RGBD深度误差
+#### 23. 2019-03-08-[Stereo Visual Inertial LiDAR Simultaneous Localization and Mapping](https://arxiv.org/pdf/1902.10741.pdf)激光在山洞容易失效，双目可以增强某些场景
+#### 22. 2019-03-08-[Double-Layer Cubature Kalman Filter for Nonlinear Estimation](https://sci-hub.tw/https://www.mdpi.com/1424-8220/19/5/986)
+#### 21. 2019-03-08-[A Vertex-to-Edge Weighted Closed-Form Method for Dense RGB-D Indoor SLAM ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8649628) 
+#### 20. 2019-02-28-[Vision Sensor Aided Navigation for Ground Vehicle Applications](https://sci-hub.tw/https://prism.ucalgary.ca/handle/1880/109478) Liu Zhenbo 博士毕业论文讲的很仔细
 #### 19. 2019-02-28-[GSLAM: A General SLAM Framework and Benchmark](https://arxiv.org/pdf/1902.07995.pdf) 兼容多种框架的框架。。。
 #### 18. 2019-02-26-[A lightweight and scalable visual‑inertial motion capture system using fducial markers](https://sci-hub.tw/10.1007/s10514-019-09834-7)二维码加IMU
 #### 17. 2019-02-21-[Robust 3D Indoor Map Building via RGB-D SLAM with Adaptive IMU Fusion on Robot](https://www.mdpi.com/1424-8220/16/10/1589/pdf) 简单直接的融合方式
@@ -33,6 +54,11 @@
 #### 1. 2019-01-09-[Factor Graphs for Flexible Inference in Robotics and Vision](https://smartech.gatech.edu/handle/1853/60646) Dellaert, Frank视频详解因子图，他也是牛逼的SKYDIO 的开发者之一
 
 ### Deep SLAM
+#### 10. 2019-03-25-[Pose Graph Optimization for Unsupervised Monocular Visual Odometry](https://arxiv.org/pdf/1903.06315.pdf)
+#### 9. 2019-03-16-[Sparse Representations for Object and Ego-motion Estimation in Dynamic Scenes](https://arxiv.org/pdf/1903.03731.pdf)
+#### 8. 2019-03-08-[DeepLO: Geometry-Aware Deep LiDAR Odometry](https://arxiv.org/pdf/1902.10562.pdf)基于深度学习的三维激光SLAM
+#### 7. 2019-03-08-[A Generative Map for Image-based Camera Localization](https://arxiv.org/pdf/1902.11124.pdf)
+#### 6. 2019-03-08-[GCNv2: Efficient Correspondence Prediction for Real-Time SLAM](https://arxiv.org/pdf/1902.11046.pdf) 网络生成ORB特征点，融合ORBSLAM里面去。[code](https://github.com/jiexiong2016/GCNv2_SLAM)
 #### 5. 2019-02-15-[Semantic and 3D Understanding of a Scene for Robot Perception](https://sci-hub.tw/http://search.proquest.com/openview/3a5804693015d4d0b42f1e4089a02267/1?pq-origsite=gscholar&cbl=18750&diss=y) 硕士论文
 #### 4. 2019-02-14-[VUNet: Dynamic Scene View Synthesis for Traversability Estimation using an RGB Camera](https://ieeexplore.ieee.org/document/8624332)估计机器人未来可通行区域
 #### 3. 2019-02-13-[GEN-SLAM: Generative Modeling for Monocular Simultaneous Localization and Mapping](https://arxiv.org/pdf/1902.02086.pdf)
@@ -40,17 +66,21 @@
 #### 1. 2019-01-22-[DF-SLAM: A Deep-Learning Enhanced Visual SLAM System based on Deep Local Features](https://arxiv.org/pdf/1901.07223.pdf)
 
 ### 3D Reconstruction
+#### 5. 2019-03-25-[Robust and affordable localization and mapping for 3D reconstruction. Application to architecture and construction](http://uvadoc.uva.es/bitstream/10324/35078/1/Tesis1482-190314.pdf)
 #### 4. 2019-02-18-[Improving 3D reconstruction via RGB-D camera registration and shading-based surface refinement](file:///home/eason/Downloads/Thesis_final_submit.pdf)南阳理工邓腾博士论文
 #### 3. 2019-02-13-[Comparative analysis of properties of LiDAR-based point clouds versus camerabased point clouds for 3D reconstruction using SLAM algorithms](http://scholar.google.com/scholar_url?url=https://www.doria.fi/bitstream/handle/10024/167410/bistrom_benjamin.pdf%3Fsequence%3D2&hl=de&sa=X&d=12452230042616813822&scisig=AAGBfm38puu_H5N8Tp62YkqQwuvZUVNXOw&nossl=1&oi=scholaralrt&hist=3Pwx2kMAAAAJ:13453396895897446987:AAGBfm2VmZLsOGwX0LAQ1scLkl9E22zpBQ)激光点云与RGBD点云对比
 #### 2. 2019-01-12-[Real-time Monocular Dense Mapping of Small Scenes with ORB Features](https://sci-hub.tw/https://ieeexplore.ieee.org/document/8610747) 单目ORB SLAM重建 
 #### 1. 2019-01-12-[NRMVS: Non-Rigid Multi-View Stereo](https://arxiv.org/pdf/1901.03910.pdf) 根据不同视角RGB图像对变形物体三维重建
 
 ### Auto driving
-
+#### 5. 2019-03-13-[Lidar-Monocular Visual Odometry with Genetic Algorithm for Parameter Optimization](https://arxiv.org/pdf/1903.02046.pdf)在线实时优化参数
+#### 4. 2019-03-13-[An Interactive LiDAR to Camera Calibration](https://arxiv.org/pdf/1903.02122.pdf) 雷达相机外参标定
+#### 3. 2019-03-13-[A Fuzzy-Innovation-Based Adaptive Kalman Filter for Enhanced Vehicle Positioning in Dense Urban Environments](file:///home/eason/Downloads/sensors-19-01142-v2.pdf)
 #### 2. 2019-01-25-[Sensor fusion for localization of automated vehicles](https://d-nb.info/1173898506/34) 德国Bonn大学自动驾驶多传感器融合博士论文
 #### 1. 2019-01-24-[Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf)
 
 ### Path Planning 
+#### 6. 2019-03-08-[Autonomous Robotic Exploration by Incremental Road Map Construction](http://eeyxsun.people.ust.hk/docs/TASE2019_autonomous.pdf)港中文港科大合作出品
 #### 5. 2019-02-18-[Efficient Autonomous Exploration Planning of Large Scale 3D-Environments](https://www.ida.liu.se/divisions/aiics/publications/RAL-2019-Efficient-Autonomous-Exploration.pdf). Frontier Exploration planning (FEP) 与 Receding Horizon Next-Best-View planning (RH-NBVP)方法融合做自主探索
 #### 4. 2019-02-15-[Motion Planning for Micro Aerial Vehicles](https://sci-hub.tw/http://search.proquest.com/openview/3ddcfedc312ef40732797bfbc416ed59/1?pq-origsite=gscholar&cbl=18750&diss=y)宾大liu sikang博士论文，导师Kumar
 #### 3. 2019-02-14-[A Novel GRU-RNN Network Model for Dynamic Path Planning of Mobile Robot](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8625490) 全名Gated Recurrent Unit-Recurrent Neural Network (GRU-RNN) 
@@ -58,6 +88,8 @@
 #### 1. 2019-01-25-[Planning Algorithms for Multi-Robot Active Perception](http://scholar.google.com/scholar_url?url=https://ses.library.usyd.edu.au/bitstream/2123/19781/3/Graeme%2520Best%2520thesis.pdf&hl=zh-CN&sa=X&d=8591620865467554452&scisig=AAGBfm3-S44J8_MVtxhXZOgRqUDfvDig7g&nossl=1&oi=scholaralrt&hist=3Pwx2kMAAAAJ:7683124594916984709:AAGBfm07xRT6Xkv3-NQLydsk2iShtnUYcA) 悉尼大学多机器人主动感知路径规划
 
 ### Others
+#### 6. 2019-03-25-[Distributed Kalman-filtering: Distributed optimization viewpoint](https://arxiv.org/pdf/1903.07807.pdf)
+#### 5. 2018-03-08-[UCSD ECE276A: Sensing & Estimation in Robotics (Winter 2019)](https://natanaso.github.io/ece276a/schedule.html) UC 圣地亚哥大学机器人感知运动估计课程
 #### 4. 2018-02-25-[Robust Harris Detector Corresponding and Calculates the Projection Error Using the Modification of the Weighting Function](http://www.ijmlc.org/vol9/766-M025.pdf)多层权重函数增强本质矩阵计算准确度
 #### 3. 2019-02-25-[MC2SLAM: Real-Time Inertial Lidar Odometry Using Two-Scan Motion Compensation](https://sci-hub.tw/10.1007/978-3-030-12939-2_5) 激光IMU紧耦合方案，声称KITTI数据集top5，且放出了数据集。
 #### 2. 2019-02-18-[GPS/LiDAR Sensor Fusion Integrity: A Top-Down Approach](http://gracegao.ae.illinois.edu/publications/journal/2018_Navigation_GPSLidar%20integrity_Ashwin%20Kanhere.pdf) GPS 激光融合
