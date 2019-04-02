@@ -11,6 +11,8 @@
 
 
 ### VSLAM
+#### 43. 2019-04-02-[KO-Fusion: Dense Visual SLAM with Tightly-Coupled Kinematic and Odometric Tracking](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/dyson-robotics-lab/chouseago_etal_icra2019.pdf)Dyson 和 Imprial college 研发的RGBD融合底盘dense slam
+#### 42. 2019-04-02-[SlamCraft: Dense Planar RGB Monocular SLAM](https://www.researchgate.net/publication/331832804_SlamCraft_Dense_Planar_RGB_Monocular_SLAM)
 #### 41. 2019-03-29-[Learning 3D Semantic Reconstruction on Octrees](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/332863/1/Wang_Xiaojuan.pdf)ETH wang xiaojuan三维语义重建硕士论文
 #### 40. 2019-03-29-[An Efficient Schmidt-EKF for 3D Visual-Inertial SLAM](https://arxiv.org/pdf/1903.08636.pdf)
 #### 39. 2019-03-29-[Levelling the Playing Field: A Comprehensive Comparison of Visual Place Recognition Approaches under Changing Conditions](https://arxiv.org/pdf/1903.09107.pdf)关于回环检测的综述
@@ -54,6 +56,7 @@
 #### 1. 2019-01-09-[Factor Graphs for Flexible Inference in Robotics and Vision](https://smartech.gatech.edu/handle/1853/60646) Dellaert, Frank视频详解因子图，他也是牛逼的SKYDIO 的开发者之一
 
 ### Deep SLAM
+#### 11. 2019-04-02-[Unsupervised Learning of Accurate Camera Pose and Depth From Video Sequences With Kalman Filter](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8666111) 
 #### 10. 2019-03-25-[Pose Graph Optimization for Unsupervised Monocular Visual Odometry](https://arxiv.org/pdf/1903.06315.pdf)
 #### 9. 2019-03-16-[Sparse Representations for Object and Ego-motion Estimation in Dynamic Scenes](https://arxiv.org/pdf/1903.03731.pdf)
 #### 8. 2019-03-08-[DeepLO: Geometry-Aware Deep LiDAR Odometry](https://arxiv.org/pdf/1902.10562.pdf)基于深度学习的三维激光SLAM
@@ -66,6 +69,7 @@
 #### 1. 2019-01-22-[DF-SLAM: A Deep-Learning Enhanced Visual SLAM System based on Deep Local Features](https://arxiv.org/pdf/1901.07223.pdf)
 
 ### 3D Reconstruction
+#### 6. 2019-04-02-[TAPA-MVS: Textureless-Aware PAtchMatch Multi-View Stereo](https://arxiv.org/pdf/1903.10929.pdf)
 #### 5. 2019-03-25-[Robust and affordable localization and mapping for 3D reconstruction. Application to architecture and construction](http://uvadoc.uva.es/bitstream/10324/35078/1/Tesis1482-190314.pdf)
 #### 4. 2019-02-18-[Improving 3D reconstruction via RGB-D camera registration and shading-based surface refinement](file:///home/eason/Downloads/Thesis_final_submit.pdf)南阳理工邓腾博士论文
 #### 3. 2019-02-13-[Comparative analysis of properties of LiDAR-based point clouds versus camerabased point clouds for 3D reconstruction using SLAM algorithms](http://scholar.google.com/scholar_url?url=https://www.doria.fi/bitstream/handle/10024/167410/bistrom_benjamin.pdf%3Fsequence%3D2&hl=de&sa=X&d=12452230042616813822&scisig=AAGBfm38puu_H5N8Tp62YkqQwuvZUVNXOw&nossl=1&oi=scholaralrt&hist=3Pwx2kMAAAAJ:13453396895897446987:AAGBfm2VmZLsOGwX0LAQ1scLkl9E22zpBQ)激光点云与RGBD点云对比
