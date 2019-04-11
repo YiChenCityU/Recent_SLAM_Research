@@ -11,6 +11,8 @@
 
 
 ### VSLAM
+#### 45. 2019-04-11-[Stereo camera visual odometry for moving urban environments](https://content.iospress.com/articles/integrated-computer-aided-engineering/ica190598) 
+#### 44. 2019-04-11-[Online IMU Self-Calibration for Visual-Inertial Systems](https://www.mdpi.com/1424-8220/19/7/1624)
 #### 43. 2019-04-02-[KO-Fusion: Dense Visual SLAM with Tightly-Coupled Kinematic and Odometric Tracking](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/dyson-robotics-lab/chouseago_etal_icra2019.pdf)Dyson 和 Imprial college 研发的RGBD融合底盘dense slam
 #### 42. 2019-04-02-[SlamCraft: Dense Planar RGB Monocular SLAM](https://www.researchgate.net/publication/331832804_SlamCraft_Dense_Planar_RGB_Monocular_SLAM)
 #### 41. 2019-03-29-[Learning 3D Semantic Reconstruction on Octrees](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/332863/1/Wang_Xiaojuan.pdf)ETH wang xiaojuan三维语义重建硕士论文
@@ -56,6 +58,7 @@
 #### 1. 2019-01-09-[Factor Graphs for Flexible Inference in Robotics and Vision](https://smartech.gatech.edu/handle/1853/60646) Dellaert, Frank视频详解因子图，他也是牛逼的SKYDIO 的开发者之一
 
 ### Deep SLAM
+#### 12. 2019-04-11-[Beyond Tracking:Selecting Memory and Refining Poses for Deep Visual Odometry](https://arxiv.org/pdf/1904.01892.pdf) 商汤北大合作
 #### 11. 2019-04-02-[Unsupervised Learning of Accurate Camera Pose and Depth From Video Sequences With Kalman Filter](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8666111) 
 #### 10. 2019-03-25-[Pose Graph Optimization for Unsupervised Monocular Visual Odometry](https://arxiv.org/pdf/1903.06315.pdf)
 #### 9. 2019-03-16-[Sparse Representations for Object and Ego-motion Estimation in Dynamic Scenes](https://arxiv.org/pdf/1903.03731.pdf)
