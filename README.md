@@ -87,6 +87,7 @@
 #### 1. 2019-01-24-[Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf)
 
 ### Path Planning 
+#### 7. 2019-04-15-[Online Trajectory Generation of a MAV for Chasing a Moving Target in 3D Dense Environments](https://arxiv.org/pdf/1904.03421.pdf)
 #### 6. 2019-03-08-[Autonomous Robotic Exploration by Incremental Road Map Construction](http://eeyxsun.people.ust.hk/docs/TASE2019_autonomous.pdf)港中文港科大合作出品
 #### 5. 2019-02-18-[Efficient Autonomous Exploration Planning of Large Scale 3D-Environments](https://www.ida.liu.se/divisions/aiics/publications/RAL-2019-Efficient-Autonomous-Exploration.pdf). Frontier Exploration planning (FEP) 与 Receding Horizon Next-Best-View planning (RH-NBVP)方法融合做自主探索
 #### 4. 2019-02-15-[Motion Planning for Micro Aerial Vehicles](https://sci-hub.tw/http://search.proquest.com/openview/3ddcfedc312ef40732797bfbc416ed59/1?pq-origsite=gscholar&cbl=18750&diss=y)宾大liu sikang博士论文，导师Kumar
