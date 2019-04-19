@@ -60,6 +60,7 @@
 #### 1. 2019-01-09-[Factor Graphs for Flexible Inference in Robotics and Vision](https://smartech.gatech.edu/handle/1853/60646) Dellaert, Frank视频详解因子图，他也是牛逼的SKYDIO 的开发者之一
 
 ### Deep SLAM
+#### 15. 2019-04-19-[Semantic Nearest Neighbor Fields for Monocular Edge Visual-Odometry](https://arxiv.org/pdf/1904.00738.pdf)带有语义信息的几何边融入到VO中
 #### 14. 2019-04-17-[VISUAL LOCALIZATION USING SPARSE SEMANTIC 3D MAP](https://arxiv.org/pdf/1904.03803.pdf)
 #### 13. 2019-04-17-[Discovering and Leveraging Deep Multimodal Structure for Reliable Robot Perception and Localization](https://www.researchgate.net/profile/Abhinav_Valada/publication/331247138_Discovering_and_leveraging_deep_multimodal_structure_for_reliable_robot_perception_and_localization/links/5c7d5679299bf1268d3903d5/Discovering-and-leveraging-deep-multimodal-structure-for-reliable-robot-perception-and-localization.pdf)  Wolfram Burgard 学生博士论文,主要讲述分割网络以及在SLAM中的应用
 #### 12. 2019-04-11-[Beyond Tracking:Selecting Memory and Refining Poses for Deep Visual Odometry](https://arxiv.org/pdf/1904.01892.pdf) 商汤北大合作
@@ -91,6 +92,7 @@
 #### 1. 2019-01-24-[Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf)
 
 ### Path Planning 
+#### 9. 2019-04-19-[Confidence random tree-based algorithm for mobile robot path planning considering the path length and safety](http://scholar.google.com.hk/scholar_url?url=https://journals.sagepub.com/doi/pdf/10.1177/1729881419838179&hl=zh-CN&sa=X&d=10415875195647299755&scisig=AAGBfm2HyeooIJxniSvIoXqUnJVBbOgqrg&nossl=1&oi=scholaralrt&hist=3Pwx2kMAAAAJ:13322782094633563195:AAGBfm3BsU2dft4hdsGEGWT6jrVBOBGCUA)
 #### 8. 2019-04-19-[Safe, Aggressive Quadrotor Flight via Reachability-based Trajectory Design](https://arxiv.org/pdf/1904.05728.pdf)更激进且安全的路径规划
 #### 7. 2019-04-15-[Online Trajectory Generation of a MAV for Chasing a Moving Target in 3D Dense Environments](https://arxiv.org/pdf/1904.03421.pdf)
 #### 6. 2019-03-08-[Autonomous Robotic Exploration by Incremental Road Map Construction](http://eeyxsun.people.ust.hk/docs/TASE2019_autonomous.pdf)港中文港科大合作出品
