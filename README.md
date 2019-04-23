@@ -11,6 +11,13 @@
 
 
 ### VSLAM
+#### 54. 2019-04-23-[An Improved Hector SLAM Algorithm based on Information Fusion for Mobile Robot](https://ieeexplore.ieee.org/abstract/document/8691198)
+#### 53. 2019-04-23-[Robust RGB-D Visual Odometry Based on the Line Intersection Structure Feature in Low-Textured Scenes](https://ieeexplore.ieee.org/abstract/document/8691213)
+#### 52. 2019-04-23-[Object Recognition and Simultaneous Indoor Localization Algorithm with Stereo Camera](https://ieeexplore.ieee.org/abstract/document/8691211)
+#### 51. 2019-04-23-[Learning Whole-Image Descriptors for Real-time Loop Detection and Kidnap Recovery under Large Viewpoint Difference](https://arxiv.org/pdf/1904.06962.pdf) 港科大弱监督(NetVLAD)下的重定位恢复
+#### 50. 2019-04-23-[Visual-Inertial Mapping with Non-Linear Factor Recovery](https://arxiv.org/pdf/1904.06504.pdf)
+#### 49. 2019-04-23-[Direct Sparse Mapping](https://arxiv.org/pdf/1904.06577.pdf) 带有回环检测的稀疏直接法
+#### 48. 2019-04-23-[Gyroscope-aided Relative Pose Estimation for Rolling Shutter Cameras](https://arxiv.org/pdf/1904.06770.pdf) 使用IMU解决卷帘快门图像问题
 #### 47. 2019-04-17-[Adaptive SLAM with synthetic stereo dataset generation for real-time dense 3D reconstruction](https://hal.archives-ouvertes.fr/hal-02086843/document)提出在直线行走时降低图像帧率,节省计算资源以及减少误差
 #### 46. 2019-04-17-[Robust Legged Robot State Estimation Using Factor Graph Optimization](https://arxiv.org/pdf/1904.03048.pdf) Anymal 四足机器人定位算法
 #### 45. 2019-04-11-[Stereo camera visual odometry for moving urban environments](https://content.iospress.com/articles/integrated-computer-aided-engineering/ica190598) 
@@ -60,6 +67,9 @@
 #### 1. 2019-01-09-[Factor Graphs for Flexible Inference in Robotics and Vision](https://smartech.gatech.edu/handle/1853/60646) Dellaert, Frank视频详解因子图，他也是牛逼的SKYDIO 的开发者之一
 
 ### Deep SLAM
+#### 18. 2019-04-23-[AI-IMU Dead-Reckoning](https://arxiv.org/pdf/1904.06064.pdf)只利用IMU做航迹推算,使用了卡尔曼滤波和神经网络
+#### 17. 2019-04-23-[Localizing Discriminative Visual Landmarks for Place Recognition](https://arxiv.org/pdf/1904.06635.pdf)回环检测
+#### 16. 2019-04-23-[Recurrent Neural Network for (Un-)supervised Learning of Monocular Video Visual Odometry and Depth](https://arxiv.org/pdf/1904.07087.pdf) 
 #### 15. 2019-04-19-[Semantic Nearest Neighbor Fields for Monocular Edge Visual-Odometry](https://arxiv.org/pdf/1904.00738.pdf)带有语义信息的几何边融入到VO中
 #### 14. 2019-04-17-[VISUAL LOCALIZATION USING SPARSE SEMANTIC 3D MAP](https://arxiv.org/pdf/1904.03803.pdf)
 #### 13. 2019-04-17-[Discovering and Leveraging Deep Multimodal Structure for Reliable Robot Perception and Localization](https://www.researchgate.net/profile/Abhinav_Valada/publication/331247138_Discovering_and_leveraging_deep_multimodal_structure_for_reliable_robot_perception_and_localization/links/5c7d5679299bf1268d3903d5/Discovering-and-leveraging-deep-multimodal-structure-for-reliable-robot-perception-and-localization.pdf)  Wolfram Burgard 学生博士论文,主要讲述分割网络以及在SLAM中的应用
@@ -85,6 +95,7 @@
 #### 1. 2019-01-12-[NRMVS: Non-Rigid Multi-View Stereo](https://arxiv.org/pdf/1901.03910.pdf) 根据不同视角RGB图像对变形物体三维重建
 
 ### Auto driving
+#### 6. 2019-04-23-[Tightly Coupled 3D Lidar Inertial Odometry and Mapping](https://arxiv.org/pdf/1904.06993.pdf)港科大lidar融合IMU建图
 #### 5. 2019-03-13-[Lidar-Monocular Visual Odometry with Genetic Algorithm for Parameter Optimization](https://arxiv.org/pdf/1903.02046.pdf)在线实时优化参数
 #### 4. 2019-03-13-[An Interactive LiDAR to Camera Calibration](https://arxiv.org/pdf/1903.02122.pdf) 雷达相机外参标定
 #### 3. 2019-03-13-[A Fuzzy-Innovation-Based Adaptive Kalman Filter for Enhanced Vehicle Positioning in Dense Urban Environments](file:///home/eason/Downloads/sensors-19-01142-v2.pdf)
@@ -92,6 +103,7 @@
 #### 1. 2019-01-24-[Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf)
 
 ### Path Planning 
+#### 10. 2019-04-23-[A new optimization-driven path planning method with probabilistic completeness for wheeled mobile robots](https://journals.sagepub.com/doi/full/10.1177/0020294019836127)
 #### 9. 2019-04-19-[Confidence random tree-based algorithm for mobile robot path planning considering the path length and safety](http://scholar.google.com.hk/scholar_url?url=https://journals.sagepub.com/doi/pdf/10.1177/1729881419838179&hl=zh-CN&sa=X&d=10415875195647299755&scisig=AAGBfm2HyeooIJxniSvIoXqUnJVBbOgqrg&nossl=1&oi=scholaralrt&hist=3Pwx2kMAAAAJ:13322782094633563195:AAGBfm3BsU2dft4hdsGEGWT6jrVBOBGCUA)
 #### 8. 2019-04-19-[Safe, Aggressive Quadrotor Flight via Reachability-based Trajectory Design](https://arxiv.org/pdf/1904.05728.pdf)更激进且安全的路径规划
 #### 7. 2019-04-15-[Online Trajectory Generation of a MAV for Chasing a Moving Target in 3D Dense Environments](https://arxiv.org/pdf/1904.03421.pdf)
