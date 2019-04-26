@@ -11,6 +11,8 @@
 
 
 ### VSLAM
+
+#### 55. 2019-04-26-[Are State-of-the-art Visual Place Recognition Techniques any Good for Aerial Robotics?](https://arxiv.org/pdf/1904.07967.pdf) 关于回环检测的综述
 #### 54. 2019-04-23-[An Improved Hector SLAM Algorithm based on Information Fusion for Mobile Robot](https://ieeexplore.ieee.org/abstract/document/8691198)
 #### 53. 2019-04-23-[Robust RGB-D Visual Odometry Based on the Line Intersection Structure Feature in Low-Textured Scenes](https://ieeexplore.ieee.org/abstract/document/8691213)
 #### 52. 2019-04-23-[Object Recognition and Simultaneous Indoor Localization Algorithm with Stereo Camera](https://ieeexplore.ieee.org/abstract/document/8691211)
@@ -67,6 +69,8 @@
 #### 1. 2019-01-09-[Factor Graphs for Flexible Inference in Robotics and Vision](https://smartech.gatech.edu/handle/1853/60646) Dellaert, Frank视频详解因子图，他也是牛逼的SKYDIO 的开发者之一
 
 ### Deep SLAM
+#### 20. 2019-04-26-[Deep Sensor Fusion between 2D Laser Scanner and IMU for Mobile Robot Localization](https://ieeexplore.ieee.org/abstract/document/8689068)
+#### 19. 2019-04-26-[LO-Net: Deep Real-time Lidar Odometry](https://arxiv.org/pdf/1904.08242.pdf)
 #### 18. 2019-04-23-[AI-IMU Dead-Reckoning](https://arxiv.org/pdf/1904.06064.pdf)只利用IMU做航迹推算,使用了卡尔曼滤波和神经网络
 #### 17. 2019-04-23-[Localizing Discriminative Visual Landmarks for Place Recognition](https://arxiv.org/pdf/1904.06635.pdf)回环检测
 #### 16. 2019-04-23-[Recurrent Neural Network for (Un-)supervised Learning of Monocular Video Visual Odometry and Depth](https://arxiv.org/pdf/1904.07087.pdf) 
@@ -103,6 +107,7 @@
 #### 1. 2019-01-24-[Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf)
 
 ### Path Planning 
+#### 11. 2019-04-26-[Deep Local Trajectory Replanning and Control for Robot Navigation](http://iliad.stanford.edu/pdfs/publications/pokle2019deep.pdf)
 #### 10. 2019-04-23-[A new optimization-driven path planning method with probabilistic completeness for wheeled mobile robots](https://journals.sagepub.com/doi/full/10.1177/0020294019836127)
 #### 9. 2019-04-19-[Confidence random tree-based algorithm for mobile robot path planning considering the path length and safety](http://scholar.google.com.hk/scholar_url?url=https://journals.sagepub.com/doi/pdf/10.1177/1729881419838179&hl=zh-CN&sa=X&d=10415875195647299755&scisig=AAGBfm2HyeooIJxniSvIoXqUnJVBbOgqrg&nossl=1&oi=scholaralrt&hist=3Pwx2kMAAAAJ:13322782094633563195:AAGBfm3BsU2dft4hdsGEGWT6jrVBOBGCUA)
 #### 8. 2019-04-19-[Safe, Aggressive Quadrotor Flight via Reachability-based Trajectory Design](https://arxiv.org/pdf/1904.05728.pdf)更激进且安全的路径规划
