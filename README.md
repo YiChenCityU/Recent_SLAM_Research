@@ -11,7 +11,7 @@
 
 
 ### VSLAM
-#### 58. 2019-05-05-[https://www.researchgate.net/profile/Stylianos_Piperakis3/publication/332686387_Humanoid_Robot_Dense_RGB-D_SLAM_for_Embedded_Devices/links/5cc341654585156cd7b4518e/Humanoid-Robot-Dense-RGB-D-SLAM-for-Embedded-Devices.pdf](Humanoid Robot Dense RGB-D SLAM for Embedded Devices*) 使用RGBD+IMU+Encoder做Nao机器人状态估计
+#### 58. 2019-05-05-[Humanoid Robot Dense RGB-D SLAM for Embedded Devices*](https://www.researchgate.net/profile/Stylianos_Piperakis3/publication/332686387_Humanoid_Robot_Dense_RGB-D_SLAM_for_Embedded_Devices/links/5cc341654585156cd7b4518e/Humanoid-Robot-Dense-RGB-D-SLAM-for-Embedded-Devices.pdf) 使用RGBD+IMU+Encoder做Nao机器人状态估计
 #### 57. 2019-04-29-[Structure Aware SLAM using Quadrics and Planes](https://www.researchgate.net/profile/Yasir_Latif/publication/324745171_Towards_Semantic_SLAM_Points_Planes_and_Objects/links/5caaa871a6fdcca26d065630/Towards-Semantic-SLAM-Points-Planes-and-Objects.pdf)
 #### 56. 2019-04-29-[VITAMIN-E: VIsual Tracking And MappINg with Extremely Dense Feature Points](https://arxiv.org/pdf/1904.10324.pdf) 很鲁棒的单目三维重建
 #### 55. 2019-04-26-[Are State-of-the-art Visual Place Recognition Techniques any Good for Aerial Robotics?](https://arxiv.org/pdf/1904.07967.pdf) 关于回环检测的综述
