@@ -11,6 +11,7 @@
 
 
 ### VSLAM
+
 #### 58. 2019-05-05-[Humanoid Robot Dense RGB-D SLAM for Embedded Devices*](https://www.researchgate.net/profile/Stylianos_Piperakis3/publication/332686387_Humanoid_Robot_Dense_RGB-D_SLAM_for_Embedded_Devices/links/5cc341654585156cd7b4518e/Humanoid-Robot-Dense-RGB-D-SLAM-for-Embedded-Devices.pdf) 使用RGBD+IMU+Encoder做Nao机器人状态估计
 #### 57. 2019-04-29-[Structure Aware SLAM using Quadrics and Planes](https://www.researchgate.net/profile/Yasir_Latif/publication/324745171_Towards_Semantic_SLAM_Points_Planes_and_Objects/links/5caaa871a6fdcca26d065630/Towards-Semantic-SLAM-Points-Planes-and-Objects.pdf)
 #### 56. 2019-04-29-[VITAMIN-E: VIsual Tracking And MappINg with Extremely Dense Feature Points](https://arxiv.org/pdf/1904.10324.pdf) 很鲁棒的单目三维重建
@@ -71,6 +72,8 @@
 #### 1. 2019-01-09-[Factor Graphs for Flexible Inference in Robotics and Vision](https://smartech.gatech.edu/handle/1853/60646) Dellaert, Frank视频详解因子图，他也是牛逼的SKYDIO 的开发者之一
 
 ### Deep SLAM
+#### 22. 2019-05-09-[EM-Fusion: Dynamic Object-Level SLAM with Probabilistic Data Association](https://arxiv.org/pdf/1904.11781.pdf)处理动态物体三维重建
+#### 21. 2019-05-09[GN-Net: The Gauss-Newton Loss for Deep Direct SLAM](https://arxiv.org/pdf/1904.11932.pdf)Daniel Cremers 所作,在帧间tracking时replace the image I with a feature map computed by a deep neural network.
 #### 20. 2019-04-26-[Deep Sensor Fusion between 2D Laser Scanner and IMU for Mobile Robot Localization](https://ieeexplore.ieee.org/abstract/document/8689068)
 #### 19. 2019-04-26-[LO-Net: Deep Real-time Lidar Odometry](https://arxiv.org/pdf/1904.08242.pdf)
 #### 18. 2019-04-23-[AI-IMU Dead-Reckoning](https://arxiv.org/pdf/1904.06064.pdf)只利用IMU做航迹推算,使用了卡尔曼滤波和神经网络
@@ -101,6 +104,9 @@
 #### 1. 2019-01-12-[NRMVS: Non-Rigid Multi-View Stereo](https://arxiv.org/pdf/1901.03910.pdf) 根据不同视角RGB图像对变形物体三维重建
 
 ### Auto driving
+#### 9. 2019-05-09-[Automatic extrinsic calibration between a camera and a 3D Lidar using 3D point and plane correspondences](https://arxiv.org/pdf/1904.12433.pdf) 标定相机与三维激光雷达
+#### 8. 2019-05-09-[A Novel Dual-Lidar Calibration Algorithm Using Planar Surfaces](https://arxiv.org/pdf/1904.12116.pdf) 标定双激光雷达
+#### 7. 2019-05-09-[DeLiO: Decoupled LiDAR Odometry](https://arxiv.org/pdf/1904.12667.pdf) 把旋转和平移分开求解
 #### 6. 2019-04-23-[Tightly Coupled 3D Lidar Inertial Odometry and Mapping](https://arxiv.org/pdf/1904.06993.pdf)港科大lidar融合IMU建图
 #### 5. 2019-03-13-[Lidar-Monocular Visual Odometry with Genetic Algorithm for Parameter Optimization](https://arxiv.org/pdf/1903.02046.pdf)在线实时优化参数
 #### 4. 2019-03-13-[An Interactive LiDAR to Camera Calibration](https://arxiv.org/pdf/1903.02122.pdf) 雷达相机外参标定
