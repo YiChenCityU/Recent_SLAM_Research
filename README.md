@@ -11,6 +11,7 @@
 
 
 ### VSLAM
+#### 60. 2019-05-14-[Monocular Semidirect Visual Odometry for Large-scale Outdoor Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8703146)
 #### 59. 2019-05-14-[CREAK descriptor evaluation for visual odometry](http://sci-hub.tw/https://ieeexplore.ieee.org/document/8704807) CREAK 描述子测试
 #### 58. 2019-05-05-[Humanoid Robot Dense RGB-D SLAM for Embedded Devices*](https://www.researchgate.net/profile/Stylianos_Piperakis3/publication/332686387_Humanoid_Robot_Dense_RGB-D_SLAM_for_Embedded_Devices/links/5cc341654585156cd7b4518e/Humanoid-Robot-Dense-RGB-D-SLAM-for-Embedded-Devices.pdf) 使用RGBD+IMU+Encoder做Nao机器人状态估计
 #### 57. 2019-04-29-[Structure Aware SLAM using Quadrics and Planes](https://www.researchgate.net/profile/Yasir_Latif/publication/324745171_Towards_Semantic_SLAM_Points_Planes_and_Objects/links/5caaa871a6fdcca26d065630/Towards-Semantic-SLAM-Points-Planes-and-Objects.pdf)
@@ -104,6 +105,7 @@
 #### 1. 2019-01-12-[NRMVS: Non-Rigid Multi-View Stereo](https://arxiv.org/pdf/1901.03910.pdf) 根据不同视角RGB图像对变形物体三维重建
 
 ### Auto driving
+#### 10. 2019-05-14-[Trajectory Optimization of LiDAR SLAM Based on Local Pose Graph](http://sci-hub.tw/10.1007/978-981-13-7751-8_36) 优于LOAM的3D laser SLAM 
 #### 9. 2019-05-09-[Automatic extrinsic calibration between a camera and a 3D Lidar using 3D point and plane correspondences](https://arxiv.org/pdf/1904.12433.pdf) 标定相机与三维激光雷达
 #### 8. 2019-05-09-[A Novel Dual-Lidar Calibration Algorithm Using Planar Surfaces](https://arxiv.org/pdf/1904.12116.pdf) 标定双激光雷达
 #### 7. 2019-05-09-[DeLiO: Decoupled LiDAR Odometry](https://arxiv.org/pdf/1904.12667.pdf) 把旋转和平移分开求解
