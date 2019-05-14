@@ -11,6 +11,7 @@
 
 
 ### VSLAM
+
 #### 60. 2019-05-14-[Monocular Semidirect Visual Odometry for Large-scale Outdoor Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8703146)
 #### 59. 2019-05-14-[CREAK descriptor evaluation for visual odometry](http://sci-hub.tw/https://ieeexplore.ieee.org/document/8704807) CREAK 描述子测试
 #### 58. 2019-05-05-[Humanoid Robot Dense RGB-D SLAM for Embedded Devices*](https://www.researchgate.net/profile/Stylianos_Piperakis3/publication/332686387_Humanoid_Robot_Dense_RGB-D_SLAM_for_Embedded_Devices/links/5cc341654585156cd7b4518e/Humanoid-Robot-Dense-RGB-D-SLAM-for-Embedded-Devices.pdf) 使用RGBD+IMU+Encoder做Nao机器人状态估计
@@ -97,6 +98,7 @@
 #### 1. 2019-01-22-[DF-SLAM: A Deep-Learning Enhanced Visual SLAM System based on Deep Local Features](https://arxiv.org/pdf/1901.07223.pdf)
 
 ### 3D Reconstruction
+#### 7. 2019-05-14-[ReFusion: 3D Reconstruction in Dynamic Environments for RGB-D Cameras Exploiting Residuals](https://arxiv.org/pdf/1905.02082.pdf) 
 #### 6. 2019-04-02-[TAPA-MVS: Textureless-Aware PAtchMatch Multi-View Stereo](https://arxiv.org/pdf/1903.10929.pdf)
 #### 5. 2019-03-25-[Robust and affordable localization and mapping for 3D reconstruction. Application to architecture and construction](http://uvadoc.uva.es/bitstream/10324/35078/1/Tesis1482-190314.pdf)
 #### 4. 2019-02-18-[Improving 3D reconstruction via RGB-D camera registration and shading-based surface refinement]南阳理工邓腾博士论文
