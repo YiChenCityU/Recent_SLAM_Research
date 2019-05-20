@@ -10,8 +10,12 @@
 <img src="https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM%E8%83%BD%E5%8A%9B%E5%9B%BE.png" width ="300" height="550" />
 
 
-### VSLAM
-
+### SLAM
+#### 65. 2019-05-20-[AMZ Driverless: The Full Autonomous Racing System](https://arxiv.org/pdf/1905.05150.pdf) ETH赛车
+#### 64. 2019-05-20-[ROS-based localization of a race vehicle at high-speed using LIDAR](https://www.e3s-conferences.org/articles/e3sconf/pdf/2019/21/e3sconf_icpeme2018_04002.pdf)TUM赛车
+#### 63. 2019-05-20-[An Open Source and Open Hardware Deep Learning-powered Visual Navigation Engine for Autonomous Nano-UAVs](https://arxiv.org/pdf/1905.04166.pdf)ETH最小无人机自动导航
+#### 62. 2019-05-20-[DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration](https://arxiv.org/pdf/1905.04153.pdf)百度无人车团队DeepICP
+#### 61. 2019-05-20-[3D Keypoint Repeatability for Heterogeneous Multi-Robot SLAM](http://act.usc.edu/publications/Boroson_ICRA2019.pdf)南加州大学基于3D点云的特征点
 #### 60. 2019-05-14-[Monocular Semidirect Visual Odometry for Large-scale Outdoor Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8703146)
 #### 59. 2019-05-14-[CREAK descriptor evaluation for visual odometry](http://sci-hub.tw/https://ieeexplore.ieee.org/document/8704807) CREAK 描述子测试
 #### 58. 2019-05-05-[Humanoid Robot Dense RGB-D SLAM for Embedded Devices*](https://www.researchgate.net/profile/Stylianos_Piperakis3/publication/332686387_Humanoid_Robot_Dense_RGB-D_SLAM_for_Embedded_Devices/links/5cc341654585156cd7b4518e/Humanoid-Robot-Dense-RGB-D-SLAM-for-Embedded-Devices.pdf) 使用RGBD+IMU+Encoder做Nao机器人状态估计
@@ -132,7 +136,8 @@
 #### 2. 2019-02-13-[Improving the Hybrid A* method for a non-holonomic wheeled robot](https://journals.sagepub.com/doi/full/10.1177/1729881419826857)增强混合A星算法
 #### 1. 2019-01-25-[Planning Algorithms for Multi-Robot Active Perception](http://scholar.google.com/scholar_url?url=https://ses.library.usyd.edu.au/bitstream/2123/19781/3/Graeme%2520Best%2520thesis.pdf&hl=zh-CN&sa=X&d=8591620865467554452&scisig=AAGBfm3-S44J8_MVtxhXZOgRqUDfvDig7g&nossl=1&oi=scholaralrt&hist=3Pwx2kMAAAAJ:7683124594916984709:AAGBfm07xRT6Xkv3-NQLydsk2iShtnUYcA) 悉尼大学多机器人主动感知路径规划
 
-### Others
+### Others.
+
 #### 9. 2019-04-29-[MapperBot / iSCAN: Open-Source Integrated Robotic Platform and Algorithm for 2D Mapping](https://www.researchgate.net/profile/Akram_Al-Hourani/publication/332413257_MapperBot_iSCAN_Open-Source_Integrated_Robotic_Platform_and_Algorithm_for_2D_Mapping/links/5cb3fc5a4585156cd7992888/MapperBot-iSCAN-Open-Source-Integrated-Robotic-Platform-and-Algorithm-for-2D-Mapping.pdf)
 #### 8. 2019-04-29-[Contact-Aided Invariant Extended Kalman Filtering for Robot State Estimation*](https://arxiv.org/pdf/1904.09251.pdf)
 #### 7. 2019-04-19-[An Orthogonal Weighted Occupancy Likelihood Map with IMU-Aided Laser Scan Matching for 2D Indoor Mapping](https://www.mdpi.com/1424-8220/19/7/1742/pdf)
