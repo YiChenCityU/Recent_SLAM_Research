@@ -12,7 +12,7 @@
 
 ### SLAM
 #### 70. 2019-05-24-[RGBD-Inertial Trajectory Estimation and Mapping for Ground Robots](https://www.researchgate.net/publication/333125503_RGBD-Inertial_Trajectory_Estimation_and_Mapping_for_Ground_Robots)RGBD+IMU,基于VINS_MONO
-#### 69. 2019-05-24-[A Novel Approach for Lidar-Based Robot Localization in a Scale-Drifted Map Constructed Using Monocular SLAM](https://www.mdpi.com/1424-8220/19/10/2230) 一种视觉和激光的融合方式
+#### 69. 2019-05-24-[A Novel Approach for Lidar-Based Robot Localization in a Scale-Drifted Map Constructed Using Monocular SLAM](https://www.mdpi.com/1424-8220/19/10/2230) 基于单目产生的有尺度漂移的地图,用激光定位,感觉没多大用
 #### 68. 2019-05-24-[Visual Inertial Odometry At the Edge: A Hardware-Software Co-design Approach for Ultra-low Latency and Power](https://ieeexplore.ieee.org/abstract/document/8714921) 低功耗 VINS
 #### 67. 2019-05-24-[Explorations and Lessons Learned in Building an Autonomous FormulaSAEa Car from Simulations](https://arxiv.org/pdf/1905.05940.pdf)学生方程式赛车学习
 #### 66. 2019-05-24-[Low-cost IMU Data Denoising using Savitzky-Golay Filters](https://ieeexplore.ieee.org/abstract/document/8713728)IMU数据降噪
