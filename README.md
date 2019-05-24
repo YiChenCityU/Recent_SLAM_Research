@@ -11,6 +11,11 @@
 
 
 ### SLAM
+#### 70. 2019-05-24-[RGBD-Inertial Trajectory Estimation and Mapping for Ground Robots](https://www.researchgate.net/publication/333125503_RGBD-Inertial_Trajectory_Estimation_and_Mapping_for_Ground_Robots)RGBD+IMU,基于VINS_MONO
+#### 69. 2019-05-24-[A Novel Approach for Lidar-Based Robot Localization in a Scale-Drifted Map Constructed Using Monocular SLAM](https://www.mdpi.com/1424-8220/19/10/2230) 一种视觉和激光的融合方式
+#### 68. 2019-05-24-[Visual Inertial Odometry At the Edge: A Hardware-Software Co-design Approach for Ultra-low Latency and Power](https://ieeexplore.ieee.org/abstract/document/8714921) 低功耗 VINS
+#### 67. 2019-05-24-[Explorations and Lessons Learned in Building an Autonomous FormulaSAEa Car from Simulations](https://arxiv.org/pdf/1905.05940.pdf)学生方程式赛车学习
+#### 66. 2019-05-24-[Low-cost IMU Data Denoising using Savitzky-Golay Filters](https://ieeexplore.ieee.org/abstract/document/8713728)IMU数据降噪
 #### 65. 2019-05-20-[AMZ Driverless: The Full Autonomous Racing System](https://arxiv.org/pdf/1905.05150.pdf) ETH赛车
 #### 64. 2019-05-20-[ROS-based localization of a race vehicle at high-speed using LIDAR](https://www.e3s-conferences.org/articles/e3sconf/pdf/2019/21/e3sconf_icpeme2018_04002.pdf)TUM赛车
 #### 63. 2019-05-20-[An Open Source and Open Hardware Deep Learning-powered Visual Navigation Engine for Autonomous Nano-UAVs](https://arxiv.org/pdf/1905.04166.pdf)ETH最小无人机自动导航
