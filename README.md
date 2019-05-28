@@ -11,6 +11,9 @@
 
 
 ### SLAM
+#### 73. 2019-05-28-[An Extensive Approach to Features Detection and Description for 2D Range Data using Active B-splines](https://ieeexplore.ieee.org/abstract/document/8716503)
+#### 72. 2019-05-28-[Low-latency Visual SLAM with Appearance-Enhanced Local Map Building](https://arxiv.org/pdf/1905.07797.pdf)
+#### 71. 2019-05-28-[Characterizing SLAM Benchmarks and Methods for the Robust Perception Age](https://arxiv.org/pdf/1905.07808.pdf)
 #### 70. 2019-05-24-[RGBD-Inertial Trajectory Estimation and Mapping for Ground Robots](https://www.researchgate.net/publication/333125503_RGBD-Inertial_Trajectory_Estimation_and_Mapping_for_Ground_Robots)RGBD+IMU,基于VINS_MONO
 #### 69. 2019-05-24-[A Novel Approach for Lidar-Based Robot Localization in a Scale-Drifted Map Constructed Using Monocular SLAM](https://www.mdpi.com/1424-8220/19/10/2230) 基于单目产生的有尺度漂移的地图,用激光定位,感觉没多大用
 #### 68. 2019-05-24-[Visual Inertial Odometry At the Edge: A Hardware-Software Co-design Approach for Ultra-low Latency and Power](https://ieeexplore.ieee.org/abstract/document/8714921) 低功耗 VINS
