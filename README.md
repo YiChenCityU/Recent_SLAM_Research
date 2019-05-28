@@ -11,6 +11,7 @@
 
 
 ### SLAM
+#### 74. 2019-05-28-[Robust simultaneous localization and mapping in low-light environment](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1895) 提取两种特征点解决光照问题
 #### 73. 2019-05-28-[An Extensive Approach to Features Detection and Description for 2D Range Data using Active B-splines](https://ieeexplore.ieee.org/abstract/document/8716503)
 #### 72. 2019-05-28-[Low-latency Visual SLAM with Appearance-Enhanced Local Map Building](https://arxiv.org/pdf/1905.07797.pdf)
 #### 71. 2019-05-28-[Characterizing SLAM Benchmarks and Methods for the Robust Perception Age](https://arxiv.org/pdf/1905.07808.pdf)
