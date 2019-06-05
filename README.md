@@ -1,3 +1,4 @@
+
 # Recent_SLAM_Research
 【回馈社区】跟踪SLAM前沿动态(2019), [2018版](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/README_2018.md) 技术更新太快，开启paper暴走模式，精选paper包括纯视觉SLAM，三维重建，基础数学工具，导航路径规划，深度学习SLAM，激光与视觉融合等类别。如果你发现我遗漏了本年度比较优秀的论文，请开issue留言，不胜感激。
 
@@ -11,6 +12,8 @@
 
 
 ### SLAM
+#### 76. 2019-06-05-[A Simultaneous Localization and Mapping (SLAM) Framework for 2.5D Map Building Based on Low-Cost LiDAR and Vision Fusion](https://www.researchgate.net/publication/333315015_A_Simultaneous_Localization_and_Mapping_SLAM_Framework_for_25D_Map_Building_Based_on_Low-Cost_LiDAR_and_Vision_Fusion) 激光与视觉融合SLAM
+#### 75. 2019-06-05-[eSLAM: An Energy-Efficient Accelerator for Real-Time ORB-SLAM on FPGA Platform](http://sci-hub.tw/10.1145/3316781.3317820)
 #### 74. 2019-05-28-[Robust simultaneous localization and mapping in low-light environment](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1895) 提取两种特征点解决光照问题
 #### 73. 2019-05-28-[An Extensive Approach to Features Detection and Description for 2D Range Data using Active B-splines](https://ieeexplore.ieee.org/abstract/document/8716503)
 #### 72. 2019-05-28-[Low-latency Visual SLAM with Appearance-Enhanced Local Map Building](https://arxiv.org/pdf/1905.07797.pdf)
