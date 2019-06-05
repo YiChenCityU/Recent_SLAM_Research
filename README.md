@@ -10,6 +10,166 @@
 
 <img src="https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM%E8%83%BD%E5%8A%9B%E5%9B%BE.png" width ="300" height="550" />
 
+### ------------ ICRA 2019 重磅来袭 吐血整理关于SLAM部分----------
+#### 0031	Aided Inertial Navigation - Unified Feature Representations and Observability Analysis
+#### 0036	Learning Wheel Odometry and IMU Errors for Localization
+#### 0041	MH-iSAM2 - Multi-Hypothesis iSAM Using Bayes Tree and Hypo-Tree
+#### 0060	Deep Reinforcement Learning of Navigation in a Complex and Crowded Environment with a Limited Field of View
+#### 0078	Living with a Mobile Companion Robot in Your Own Apartment - Final Implementation and Results of a 20-Weeks Field Study
+#### 0095	Visual SLAM - Why Bundle Adjust
+#### 0118	Project AutoVision - Localization and 3D Scene Perception for an Autonomous Vehicle with a Multi-Camera System
+#### 0120	A Kalman Filter-Based Algorithm for Simultaneous Time Synchronization and Localization in UWB Network
+#### 0122	Pose Graph Optimization for Unsupervised Monocular Visual Odometry
+#### 0193	Learning Ad-Hoc Compact Representations from Salient Landmarks for Visual Place Recognition in Underwater Environments
+#### 0212	A Variational Observation Model of 3D Object for Probabilistic Semantic SLAM
+#### 0215	Velocity Constrained Trajectory Generation for a Collinear Mecanum Wheeled Robot
+#### 0239	Tightly Coupled 3D Lidar Inertial Odometry and Mapping
+#### 0251	Fast Stochastic Functional Path Planning in Occupancy Maps
+#### 0257	A Linear-Complexity EKF for Visual-Inertial Navigation with Loop Closures
+#### 0306	FMD Stereo SLAM - Fusing MVG and Direct Formulation towards Accurate and Fast Stereo SLAM
+#### 0317	Lidar Measurement Bias Estimation Via Return Waveform Modelling in a Context of 3D Mapping
+#### 0326	Rorg - Service Robot Software Management with Linux Containers
+#### 0336	Localization with Sliding Window Factor Graphs on Third-Party Maps for Automated Driving
+#### 0353	Sensor-Failure-Resilient Multi-IMU Visual-Inertial Navigation
+#### 0355	Enabling Identity-Aware Tracking Via Fusion of Visual and Inertial Feature
+#### 0362	A New Approach to Local Navigation for Autonomous Driving Vehicles Based on the Curvature Velocity Method
+#### 0371	LookUP - Vision-Only Real-Time Precise Underground Localisation for Autonomous Mining Vehicles
+#### 0378	Uncertainty Estimation for Projecting Lidar Points Onto Camera Images for Moving Platforms
+#### 0389	Efficient Integrity Monitoring for KF-Based Localization
+#### 0390	SweepNet - Wide-Baseline Omnidirectional Depth Estimation
+#### 0395	3D Surface Reconstruction Using a Two-Step Stereo Matching Method Assisted with Five Projected Patterns
+#### 0431	Road Detection through CRF based LiDAR-Camera Fusion
+#### 0434	Real-Time Model Based Path Planning for Wheeled Vehicles
+#### 0448	Improving Keypoint Matching Using a Landmark-Based Image Representation
+#### 0467	Adding Cues to Binary Feature Descriptors for Visual Place Recognition
+#### 0508	Fast and Robust Initialization for Visual-Inertial SLAM
+#### 0522	ScalableFusion - High-Resolution Mesh-Based Real-Time 3D Reconstruction
+#### 0549	High-Precision Localization Using Ground Texture
+#### 0552	Actively Improving Robot Navigation on Different Terrains Using Gaussian Process Mixture Models
+#### 0561	KO-Fusion - Dense Visual SLAM with Tightly-Coupled Kinematic and Odometric Tracking
+#### 0589	Learning Scene Geometry for Visual Localization in Challenging Conditions
+#### 0595	CNN-SVO - Improving the Mapping in Semi-Direct Visual Odometry Using Single-Image Depth Prediction
+#### 0613	Learning Action Representations for Self-supervised Visual Exploration
+#### 0636	Robust Object-Based SLAM for High-Speed Autonomous Navigation
+#### 0658	A Scalable Framework For Real-Time Multi-Robot Multi-Human Collision Avoidance
+#### 0660	SuperDepth - Self-Supervised Super-Resolved Monocular Depth Estimation
+#### 0666	Safe and Complete Real-Time Planning and Exploration in Unknown Environments
+#### 0674	Visual-Inertial Navigation - A Concise Review
+#### 0697	Uncertainty-Aware Occupancy Map Prediction Using Generative Networks for Robot Navigation
+#### 0700	Illumination Robust Monocular Direct Visual Odometry for Outdoor Environment Mapping
+#### 0717	GEN-SLAM - Generative Modeling for Monocular Simultaneous Localization and Mapping
+#### 0782	A Comparison of CNN-Based and Hand-Crafted Keypoint Descriptors
+#### 0783	IN2LAMA - INertial Lidar Localisation and MApping
+#### 0798	Accurate Direct Visual-Laser Odometry with Explicit Occlusion Handling and Plane Detection
+#### 0860	Semantic Mapping for View-Invariant Relocalization
+#### 0862	Robotic Forceps without Position Sensors Using Visual SLAM
+#### 0867	Environment Driven Underwater Camera-IMU Calibration for Monocular Visual-Inertial SLAM
+#### 0897	Dense 3D Visual Mapping Via Semantic Simplification
+#### 0903	Redundant Perception and State Estimation for Reliable Autonomous Racing
+#### 0954	Semantic Mapping Extension for OpenStreetMap Applied to Indoor Robot Navigation
+#### 0968	Multirotor Dynamics Based Online Scale Estimation for Monocular SLAM
+#### 0970	UWBLiDAR Fusion for Cooperative Range-Only SLAM
+#### 0979	A Supervised Approach to Predicting Noise in Depth Images
+#### 0999	Dynamic Hilbert Maps - Real-Time Occupancy Predictions in Changing Environments
+#### 1008	Learning Monocular Visual Odometry through Geometry-Aware Curriculum Learning
+#### 1036	A Unified Framework for Mutual Improvement of SLAM and Semantic Segmentation
+#### 1045	Leveraging Structural Regularity of Atlanta World for Monocular SLAM
+#### 1072	Improving the Robustness of Visual-Inertial Extended Kalman Filtering
+#### 1073	ATLAS FaST - Fast and Simple Scheduled TDOA for Reliable Ultra-Wideband Localization
+#### 1086	Visual Appearance Analysis of Forest Scenes for Monocular SLAM
+#### 1090	Closed-Loop MPC with Dense Visual SLAM - Stability through Reactive Stepping
+#### 1092	Pedestrian Dominance Modeling for Socially-Aware Robot Navigation
+#### 1105	Energy-Aware Temporal Logic Motion Planning for Mobile Robots
+#### 1126	Real-Time Dense Mapping for Self-Driving Vehicles Using Fisheye Cameras
+#### 1129	RESLAM - A Real-Time Robust Edge-Based SLAM System
+#### 1143	Dense Surface Reconstruction from Monocular Vision and LiDAR
+#### 1147	Estimating the Localizability in Tunnel-like Environments using LiDAR and UWB
+#### 1173	Depth Completion with Deep Geometry and Context Guidance
+#### 1176	Learned Map Prediction for Enhanced Mobile Robot Exploration
+#### 1204	DeepFusion - Real-Time Dense 3D Reconstruction for Monocular SLAM Using Single-View Depth and Gradient Predictions
+#### 1211	Real Time Dense Depth Estimation by Fusing Stereo with Sparse Depth Measurements
+#### 1247	Towards Fully Dense Direct Filter-Based Monocular Visual-Inertial Odometry
+#### 1265	Adaptive Bingham Distribution Based Filter for SE(3) Estimation
+#### 1267	MID-Fusion - Octree-Based Object-Level Multi-Instance Dynamic SLAM
+#### 1278	Autonomous Exploration Reconstruction and Surveillance of 3D Environments Aided by Deep Learning
+#### 1322	Speeding up Iterative Closest Point Using Stochastic Gradient Descen
+#### 1324	Building a Winning Self-Driving Car in Six Months
+#### 1327	Obstacle-Aware Adaptive Informative Path Planning for UAV-Based Target Search
+#### 1340	OVPC Mesh - 3D Free-Space Representation for Local Ground VehicleNavigation
+#### 1358	Multi-Robot Informative Path Planning with Continuous Connectivity Constraints
+#### 1365	Look No Deeper - Recognizing Places from Opposing Viewpoints under Varying Scene Appearance Using Single-View Depth Estimation
+#### 1380	GANVO - Unsupervised Deep Monocular Visual Odometry and Depth Estimation with Generative Adversarial Networks
+#### 1381	Efficient Constellation-Based Map-Merging for Semantic SLAM
+#### 1383	Multimodal Semantic SLAM with Probabilistic Data Associatio
+#### 1422	Surfel-Based Dense RGB-D Reconstruction with Global and Local Consistency
+#### 1448	3D Keypoint Repeatability for Heterogeneous Multi-Robot SLAM
+#### 1458	Characterizing Visual Localization and Mapping Datasets
+#### 1549	A-SLAM - Human-In-The-Loop Augmented SLAM
+#### 1555	Dynamic Channel - A Planning Framework for Crowd Navigation
+#### 1560	2D LiDAR Map Prediction Via Estimating Motion Flow with GRU
+#### 1567	Efficient 2D-3D Matching for Multi-Camera Visual Localization
+#### 1593	Where Should We Place LiDARs on the Autonomous Vehicle - An Optimal Design Approach
+#### 1599	Efficient Trajectory Planning for High Speed Flight in Unknown Environments
+#### 1607	Visual-Odometric Localization and Mapping for Ground Vehicles Using SE(2)-XYZ Constraints
+#### 1636	Depth Generation Network - Estimating Real World Depth from Stereo and Depth Images
+#### 1688	Localizing Discriminative Visual Landmarks for Place Recognition
+#### 1697	ROVO - Robust Omnidirectional Visual Odometry for Wide-Baseline Wide-FOV Camera Systems
+#### 1751	Non-Parametric Error Modeling for Ultra-Wideband Localization Networks
+#### 1760	RCM-SLAM - Visual Localisation and Mapping under Remote Centre of Motion Constraints
+#### 1784	Multi-Camera Visual-Inertial Navigation with Online Intrinsic and Extrinsic Calibration
+#### 1808	CoLo - A Performance Evaluation System for Multi-Robot Cooperative Localization Algorithms
+#### 1827	Variational End-To-End Navigation and Localization
+#### 1870 SLAMBench 3.0: Systematic Automated Reproducible Evaluation of SLAM Systems for Robot Vision Challenges and Scene Understanding
+#### 1891	Real-Time Monocular Object-Model Aware Sparse SLAM
+#### 1937	Tightly-Coupled Aided Inertial Navigation with Point and Plane Features
+#### 1942	RaD-VIO - Rangefinder-aided Downward Visual-Inertial Odometry
+#### 1946	Beyond Point Clouds - Fisher Information Field for Active Visual Localization
+#### 1954	Deep Local Trajectory Replanning and Control for Robot Navigation
+#### 1977	FastDepth - Fast Monocular Depth Estimation on Embedded Systems
+#### 2006	Probabilistic Projective Association and Semantic Guided Relocalization for Dense Reconstruction
+#### 2009	Kinematic Constraints Based Bi-Directional RRT (KB-RRT) with Parameterized Trajectories for Robot Path Planning in Cluttered Environment
+#### 2044	MRS-VPR - A Multi-Resolution Sampling Based Visual Place Recognition Method
+#### 2045	Integrated UWB-Vision Approach for Autonomous Docking of UAVs in GPS-Denied Environments
+#### 2111	Keyframe-Based Direct Thermal Inertial Odometry
+#### 2139	Self-Supervised Sparse-To-Dense - Self-Supervised Depth Completion from LiDAR and Monocular Camera
+#### 2143	A Multi-Domain Feature Learning Method for Visual Place Recognition
+#### 2162	Real-Time Scalable Dense Surfel Mapping
+#### 2186	Global Vision-Based Reconstruction of Three-Dimensional Road Surfaces Using Adaptive Extended Kalman Filter
+#### 2207	An Autonomous Loop-Closure Approach for Simultaneous Exploration and Coverage of Unknown Infrastructure Using MAVs
+#### 2334	Probabilistic Appearance-Based Place Recognition Through Bag of Tracked Words
+#### 2335	Robust Pose-Graph SLAM Using Absolute Orientation Sensing
+#### 2354	Monocular Semantic Occupancy Grid Mapping with Convolutional Variational Encoder-Decoder Networks
+#### 2358	Sparse2Dense - From Direct Sparse Odometry to Dense 3D Reconstruction
+#### 2381	Local Descriptor for Robust Place Recognition Using LiDAR Intensity
+#### 2390	Decentralized Full Coverage of Unknown Areas by Multiple Robots with Limited Visibility Sensing
+#### 2394	Enhancing V-SLAM Keyframe Selection with an Efficient ConvNet for Semantic Analysis
+#### 2410	Loosely-Coupled Semi-Direct Monocular SLAM
+#### 2533	Unsupervised Learning of Monocular Depth and Ego-Motion Using Multiple Masks
+#### 2540	On-Line 3D Active Pose-Graph SLAM Based on Key Poses Using Graph Topology and Sub-Maps
+#### 2545	Low-Latency Visual SLAM with Appearance-Enhanced Local Map Building
+#### 2552	Experimental Comparison of Visual-Aided Odometry Methods for Rail Vehicles
+#### 2554	Iteratively Reweighted Midpoint Method for Fast Multiple View Triangulation
+#### 2559	Unified Motion-Based Calibration of Mobile Multi-Sensor Platforms with Time Delay Estimation
+#### 2643	Efficient Autonomous Exploration Planning of Large Scale 3D-Environments
+#### 2645	Deep Reinforcement Learning Robot for Search and Rescue Applications - Exploration in Unknown Cluttered Environments
+#### 2685	Integrated Mapping and Path Planning for Very Large-Scale Robotic (VLSR) Systems
+#### 2703	Geometric Relation Distribution for Place Recognition
+#### 2717	Communication-Efficient Planning and Mapping for Multi-Robot Exploration in Large Environments
+#### 2873	Multi-Process Fusion - Visual Place Recognition Using Multiple Image Processing Methods
+#### 2877	Geo-Supervised Visual Depth Prediction
+#### 2886	Effective Visual Place Recognition Using Multi-Sequence Maps
+#### 2894	Probabilistic Completeness of RRT for Geometric and Kinodynamic Planning with Forward Propagation
+#### 2897	On the Impact of Uncertainty for Path Planning
+#### 2901	Multi-Robot Motion Planning with Dynamics Via Coordinated Sampling-Based Expansion Guided by Multi-Agent Search
+#### 2911	Energy-Efficient Coverage Path Planning for General Terrain Surfaces
+#### 2943	VUNet - Dynamic Scene View Synthesis for Traversability Estimation Using an RGB Camera
+#### 2948	Robust Attitude Estimation Using an Adaptive Unscented Kalman Filter
+#### 2985	1-Day Learning 1-Year Localization - Long-Term LiDAR Localization Using Scan Context Image
+#### 2992	Robust Global Structure from Motion Pipeline with Parallax on Manifold Bundle Adjustment and Initialization
+#### 3117	Learning Scene Geometry for Visual Localization in Challenging Conditions
+#### 3118	Geo-Supervised Visual Depth Prediction
+#### 3130	Search-Based 3D Planning and Trajectory Optimization for Safe Micro Aerial Vehicle Flight under Sensor Visibility Constraints
+### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
 #### 76. 2019-06-05-[A Simultaneous Localization and Mapping (SLAM) Framework for 2.5D Map Building Based on Low-Cost LiDAR and Vision Fusion](https://www.researchgate.net/publication/333315015_A_Simultaneous_Localization_and_Mapping_SLAM_Framework_for_25D_Map_Building_Based_on_Low-Cost_LiDAR_and_Vision_Fusion) 激光与视觉融合SLAM
