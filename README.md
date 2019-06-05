@@ -4,7 +4,6 @@
 
 ### 招聘
 即将上市机器人独角兽广招SLAM算法工程师。
-欢迎wechat骚扰：sinnature
 邮箱：easonjianghk@gmail.com
 ## SLAM 能力图 
 
