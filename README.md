@@ -171,6 +171,9 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
+#### 79. 2019-06-10-[Extrinsic calibration of a single-point laser rangefinder and single camera](https://link.springer.com/article/10.1007/s11082-019-1907-8) 连同78,都是2D激光传感器与视觉传感器外参标定
+#### 78. 2019-06-10-[A Simple Calibration Procedure for A 2D LiDAR with Respect to A Camera](https://ieeexplore.ieee.org/abstract/document/8710299)
+#### 77. 2019-06-10-[HeteroFusion: Dense Scene Reconstruction Integrating Multi-sensors](https://orca.cf.ac.uk/122866/1/HeteroFusion-Final.pdf) 融合多种传感器的三维重建
 #### 76. 2019-06-05-[A Simultaneous Localization and Mapping (SLAM) Framework for 2.5D Map Building Based on Low-Cost LiDAR and Vision Fusion](https://www.researchgate.net/publication/333315015_A_Simultaneous_Localization_and_Mapping_SLAM_Framework_for_25D_Map_Building_Based_on_Low-Cost_LiDAR_and_Vision_Fusion) 激光与视觉融合SLAM
 #### 75. 2019-06-05-[eSLAM: An Energy-Efficient Accelerator for Real-Time ORB-SLAM on FPGA Platform](http://sci-hub.tw/10.1145/3316781.3317820)
 #### 74. 2019-05-28-[Robust simultaneous localization and mapping in low-light environment](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1895) 提取两种特征点解决光照问题
