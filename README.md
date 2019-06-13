@@ -171,6 +171,9 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
+#### 82. 2019-06-13-[Partial Computing Offloading Assisted Cloud Point Registration in Multi-robot SLAM](https://arxiv.org/pdf/1905.12973.pdf)降低多机SLAM计算量
+#### 81. 2019-06-13-[Stereo Visual Odometry Based on Motion Decoupling and Special Feature Screening for Navigation of Autonomous Vehicles](http://sci-hub.tw/https://ieeexplore.ieee.org/document/8718624)远点近点分开利用
+#### 80. 2019-06-13-[Extending Monocular Visual Odometry to Stereo Camera System by Scale Optimization](https://arxiv.org/pdf/1905.12723.pdf) 计算量小的伪双目
 #### 79. 2019-06-10-[Extrinsic calibration of a single-point laser rangefinder and single camera](https://link.springer.com/article/10.1007/s11082-019-1907-8) 连同78,都是2D激光传感器与视觉传感器外参标定
 #### 78. 2019-06-10-[A Simple Calibration Procedure for A 2D LiDAR with Respect to A Camera](https://ieeexplore.ieee.org/abstract/document/8710299)
 #### 77. 2019-06-10-[HeteroFusion: Dense Scene Reconstruction Integrating Multi-sensors](https://orca.cf.ac.uk/122866/1/HeteroFusion-Final.pdf) 融合多种传感器的三维重建
@@ -276,6 +279,7 @@
 #### 1. 2019-01-22-[DF-SLAM: A Deep-Learning Enhanced Visual SLAM System based on Deep Local Features](https://arxiv.org/pdf/1901.07223.pdf)
 
 ### 3D Reconstruction
+#### 8. 2019-06-13-[DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/dyson-robotics-lab/tlaidlow_etal_icra2019.pdf)
 #### 7. 2019-05-14-[ReFusion: 3D Reconstruction in Dynamic Environments for RGB-D Cameras Exploiting Residuals](https://arxiv.org/pdf/1905.02082.pdf) 
 #### 6. 2019-04-02-[TAPA-MVS: Textureless-Aware PAtchMatch Multi-View Stereo](https://arxiv.org/pdf/1903.10929.pdf)
 #### 5. 2019-03-25-[Robust and affordable localization and mapping for 3D reconstruction. Application to architecture and construction](http://uvadoc.uva.es/bitstream/10324/35078/1/Tesis1482-190314.pdf)
