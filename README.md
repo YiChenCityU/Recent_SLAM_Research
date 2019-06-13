@@ -173,7 +173,7 @@
 ### SLAM
 #### 86. 2019-06-13-[An Automatic Key-Frame Selection Method for Monocular Visual Odometry of Ground Vehicle](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8715357)
 #### 85. 2019-06-13-[ARM-VO: an efficient monocular visual odometry for ground vehicles on ARM CPUs](https://link.springer.com/article/10.1007/s00138-019-01037-5) ARM优化版本VO
-#### 84. 2019-06-13-[Large-Scale Outdoor SLAM Based on 2D Lidar](file:///home/eason/Downloads/electronics-08-00613.pdf)
+#### 84. 2019-06-13-[Large-Scale Outdoor SLAM Based on 2D Lidar](https://www.researchgate.net/publication/333521486_Large-Scale_Outdoor_SLAM_Based_on_2D_Lidar)
 #### 83. 2019-06-13-[Vision-Based Autonomous UAV Navigation and Landing for Urban Search and Rescue](https://arxiv.org/pdf/1906.01304.pdf)
 #### 82. 2019-06-13-[Partial Computing Offloading Assisted Cloud Point Registration in Multi-robot SLAM](https://arxiv.org/pdf/1905.12973.pdf)降低多机SLAM计算量
 #### 81. 2019-06-13-[Stereo Visual Odometry Based on Motion Decoupling and Special Feature Screening for Navigation of Autonomous Vehicles](http://sci-hub.tw/https://ieeexplore.ieee.org/document/8718624)远点近点分开利用
