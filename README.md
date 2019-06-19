@@ -171,6 +171,7 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
+#### 87. 2019-06-19-[Edge-Direct Visual Odometry](https://arxiv.org/pdf/1906.04838.pdf)CMU 边缘直接法VO
 #### 86. 2019-06-13-[An Automatic Key-Frame Selection Method for Monocular Visual Odometry of Ground Vehicle](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8715357)
 #### 85. 2019-06-13-[ARM-VO: an efficient monocular visual odometry for ground vehicles on ARM CPUs](https://link.springer.com/article/10.1007/s00138-019-01037-5) ARM优化版本VO
 #### 84. 2019-06-13-[Large-Scale Outdoor SLAM Based on 2D Lidar](https://www.researchgate.net/publication/333521486_Large-Scale_Outdoor_SLAM_Based_on_2D_Lidar)
