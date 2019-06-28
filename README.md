@@ -171,6 +171,7 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
+#### 88. 2019-06-28-[DS-VIO: Robust and Efficient Stereo Visual Inertial Odometry based on Dual Stage EKF](https://arxiv.org/pdf/1905.00684.pdf)
 #### 87. 2019-06-19-[Edge-Direct Visual Odometry](https://arxiv.org/pdf/1906.04838.pdf)CMU 边缘直接法VO
 #### 86. 2019-06-13-[An Automatic Key-Frame Selection Method for Monocular Visual Odometry of Ground Vehicle](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8715357)
 #### 85. 2019-06-13-[ARM-VO: an efficient monocular visual odometry for ground vehicles on ARM CPUs](https://link.springer.com/article/10.1007/s00138-019-01037-5) ARM优化版本VO
