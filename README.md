@@ -171,7 +171,7 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
-#### 90. 2019-06-28-[Extending Monocular Visual Odometry to Stereo Camera System by Scale Optimization](https://arxiv.org/pdf/1905.12723.pdf)
+
 #### 89. 2019-06-28-[Monocular Visual Odometry Initialization with Points and Line Segments](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8728034)
 #### 88. 2019-06-28-[DS-VIO: Robust and Efficient Stereo Visual Inertial Odometry based on Dual Stage EKF](https://arxiv.org/pdf/1905.00684.pdf)
 #### 87. 2019-06-19-[Edge-Direct Visual Odometry](https://arxiv.org/pdf/1906.04838.pdf)CMU 边缘直接法VO
