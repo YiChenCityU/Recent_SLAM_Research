@@ -171,7 +171,9 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
-#### 91. 2019--7-26-[Stereo Visual SLAM Based on Unscented Dual Quaternion Filtering](https://www.researchgate.net/profile/Kailai_Li/publication/334318103_Stereo_Visual_SLAM_Based_on_Unscented_Dual_Quaternion_Filtering/links/5d2449e5299bf1547ca4ffbf/Stereo-Visual-SLAM-Based-on-Unscented-Dual-Quaternion-Filtering.pdf)
+
+#### 92. 2019-07-26-[Accurate Initialization Method for Monocular Visual-Inertial SLAM](https://ieeexplore.ieee.org/abstract/document/8757790/authors#authors)
+#### 91. 2019-07-26-[Stereo Visual SLAM Based on Unscented Dual Quaternion Filtering](https://www.researchgate.net/profile/Kailai_Li/publication/334318103_Stereo_Visual_SLAM_Based_on_Unscented_Dual_Quaternion_Filtering/links/5d2449e5299bf1547ca4ffbf/Stereo-Visual-SLAM-Based-on-Unscented-Dual-Quaternion-Filtering.pdf)
 #### 90. 2019-07-26-[An Open-Source Benchmark for Scale-Aware Visual Odometry Algorithms](https://www.e-sciencecentral.org/articles/SC000034658)开源的评测系统
 #### 89. 2019-06-28-[Monocular Visual Odometry Initialization with Points and Line Segments](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8728034)
 #### 88. 2019-06-28-[DS-VIO: Robust and Efficient Stereo Visual Inertial Odometry based on Dual Stage EKF](https://arxiv.org/pdf/1905.00684.pdf)
@@ -288,6 +290,7 @@
 #### 1. 2019-01-22-[DF-SLAM: A Deep-Learning Enhanced Visual SLAM System based on Deep Local Features](https://arxiv.org/pdf/1901.07223.pdf)
 
 ### 3D Reconstruction
+#### 9. 2019-07-26-[Multi-Robot Collaborative Dense Scene Reconstruction](https://sci-hub.shop/10.1145/3306346.3322942)
 #### 8. 2019-06-13-[DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/dyson-robotics-lab/tlaidlow_etal_icra2019.pdf)
 #### 7. 2019-05-14-[ReFusion: 3D Reconstruction in Dynamic Environments for RGB-D Cameras Exploiting Residuals](https://arxiv.org/pdf/1905.02082.pdf) 
 #### 6. 2019-04-02-[TAPA-MVS: Textureless-Aware PAtchMatch Multi-View Stereo](https://arxiv.org/pdf/1903.10929.pdf)
@@ -324,7 +327,7 @@
 #### 1. 2019-01-25-[Planning Algorithms for Multi-Robot Active Perception](http://scholar.google.com/scholar_url?url=https://ses.library.usyd.edu.au/bitstream/2123/19781/3/Graeme%2520Best%2520thesis.pdf&hl=zh-CN&sa=X&d=8591620865467554452&scisig=AAGBfm3-S44J8_MVtxhXZOgRqUDfvDig7g&nossl=1&oi=scholaralrt&hist=3Pwx2kMAAAAJ:7683124594916984709:AAGBfm07xRT6Xkv3-NQLydsk2iShtnUYcA) 悉尼大学多机器人主动感知路径规划
 
 ### Others.
-
+#### 10. 2019-07-26-[Dual Fisheye Camera Calibration](https://lukic.io/files/Dual_Fisheye_Camera_Calibration.pdf)
 #### 9. 2019-04-29-[MapperBot / iSCAN: Open-Source Integrated Robotic Platform and Algorithm for 2D Mapping](https://www.researchgate.net/profile/Akram_Al-Hourani/publication/332413257_MapperBot_iSCAN_Open-Source_Integrated_Robotic_Platform_and_Algorithm_for_2D_Mapping/links/5cb3fc5a4585156cd7992888/MapperBot-iSCAN-Open-Source-Integrated-Robotic-Platform-and-Algorithm-for-2D-Mapping.pdf)
 #### 8. 2019-04-29-[Contact-Aided Invariant Extended Kalman Filtering for Robot State Estimation*](https://arxiv.org/pdf/1904.09251.pdf)
 #### 7. 2019-04-19-[An Orthogonal Weighted Occupancy Likelihood Map with IMU-Aided Laser Scan Matching for 2D Indoor Mapping](https://www.mdpi.com/1424-8220/19/7/1742/pdf)
