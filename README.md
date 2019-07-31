@@ -266,6 +266,7 @@
 #### 1. 2019-01-09-[Factor Graphs for Flexible Inference in Robotics and Vision](https://smartech.gatech.edu/handle/1853/60646) Dellaert, Frank视频详解因子图，他也是牛逼的SKYDIO 的开发者之一
 
 ### Deep SLAM
+#### 23. 2019-07-31-[Deep Virtual Stereo Odometry: Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://www.researchgate.net/profile/Nan_Yang64/publication/326290322_Deep_Virtual_Stereo_Odometry_Leveraging_Deep_Depth_Prediction_for_Monocular_Direct_Sparse_Odometry/links/5b7d8947a6fdcc5f8b5c3f6f/Deep-Virtual-Stereo-Odometry-Leveraging-Deep-Depth-Prediction-for-Monocular-Direct-Sparse-Odometry.pdf) TUM Cremers 利用网络单目深度估计解决单目SLAM尺度问题
 #### 22. 2019-05-09-[EM-Fusion: Dynamic Object-Level SLAM with Probabilistic Data Association](https://arxiv.org/pdf/1904.11781.pdf)处理动态物体三维重建
 #### 21. 2019-05-09[GN-Net: The Gauss-Newton Loss for Deep Direct SLAM](https://arxiv.org/pdf/1904.11932.pdf)Daniel Cremers 所作,在帧间tracking时replace the image I with a feature map computed by a deep neural network.
 #### 20. 2019-04-26-[Deep Sensor Fusion between 2D Laser Scanner and IMU for Mobile Robot Localization](https://ieeexplore.ieee.org/abstract/document/8689068)
