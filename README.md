@@ -171,7 +171,8 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
-
+#### 94. 2019-07-31-[On Data Sharing Strategy for Decentralized Collaborative Visual-Inertial Simultaneous Localization And Mapping](https://hal.archives-ouvertes.fr/hal-02190833/document)多机器人VIO-SLAM
+#### 93. 2019-07-31-[Robust Real-time RGB-D Visual Odometry in Dynamic Environments via Rigid Motion Model](https://arxiv.org/pdf/1907.08388.pdf) scene flow去除动态物体
 #### 92. 2019-07-26-[Accurate Initialization Method for Monocular Visual-Inertial SLAM](https://ieeexplore.ieee.org/abstract/document/8757790/authors#authors)
 #### 91. 2019-07-26-[Stereo Visual SLAM Based on Unscented Dual Quaternion Filtering](https://www.researchgate.net/profile/Kailai_Li/publication/334318103_Stereo_Visual_SLAM_Based_on_Unscented_Dual_Quaternion_Filtering/links/5d2449e5299bf1547ca4ffbf/Stereo-Visual-SLAM-Based-on-Unscented-Dual-Quaternion-Filtering.pdf)
 #### 90. 2019-07-26-[An Open-Source Benchmark for Scale-Aware Visual Odometry Algorithms](https://www.e-sciencecentral.org/articles/SC000034658)开源的评测系统
