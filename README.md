@@ -171,6 +171,7 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
+#### 96. 2019-09-01-[ORBSLAM-Atlas: a robust and accurate multi-map system](https://128.84.21.199/pdf/1908.11585.pdf)
 #### 95. 2019-08-16-[PALVO: visual odometry based on panoramic annular lens](https://www.osapublishing.org/DirectPDFAccess/8DD73308-D81D-1AC4-2453844914F8BA31_416727/oe-27-17-24481.pdf?da=1&id=416727&seq=0&mobile=no)全景相机SLAM
 #### 94. 2019-07-31-[On Data Sharing Strategy for Decentralized Collaborative Visual-Inertial Simultaneous Localization And Mapping](https://hal.archives-ouvertes.fr/hal-02190833/document)多机器人VIO-SLAM
 #### 93. 2019-07-31-[Robust Real-time RGB-D Visual Odometry in Dynamic Environments via Rigid Motion Model](https://arxiv.org/pdf/1907.08388.pdf) scene flow去除动态物体
