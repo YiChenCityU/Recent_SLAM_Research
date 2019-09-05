@@ -171,6 +171,11 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
+#### 101. 2019-09-05-[Flexible Trinocular: Non-rigid Multi-Camera-IMU Dense Reconstruction for UAV Navigation and Mapping](https://arxiv.org/pdf/1908.08891.pdf) 
+#### 100. 2019-09-05-[Multi-Spectral Visual Odometry without Explicit Stereo Matching](https://arxiv.org/pdf/1908.08814.pdf)红外相机与传统相机双目SLAM
+#### 99. 2019-09-05-[Camera Pose Correction in SLAM Based on Bias Values of Map Points](https://arxiv.org/pdf/1908.09072.pdf)
+#### 98. 2019-09-05-[Large Scale 2D Laser SLAM using Truncated Signed Distance Functions](https://www.sim.informatik.tu-darmstadt.de/publ/download/2019_daun_ssrr.pdf)
+#### 97. 2019-09-05-[EKLT: Asynchronous Photometric Feature Tracking using Events and Frames](http://rpg.ifi.uzh.ch/docs/IJCV19_Gehrig.pdf) Event 相机与传统相机结合做追踪
 #### 96. 2019-09-01-[ORBSLAM-Atlas: a robust and accurate multi-map system](https://128.84.21.199/pdf/1908.11585.pdf)
 #### 95. 2019-08-16-[PALVO: visual odometry based on panoramic annular lens](https://www.osapublishing.org/DirectPDFAccess/8DD73308-D81D-1AC4-2453844914F8BA31_416727/oe-27-17-24481.pdf?da=1&id=416727&seq=0&mobile=no)全景相机SLAM
 #### 94. 2019-07-31-[On Data Sharing Strategy for Decentralized Collaborative Visual-Inertial Simultaneous Localization And Mapping](https://hal.archives-ouvertes.fr/hal-02190833/document)多机器人VIO-SLAM
@@ -269,6 +274,7 @@
 #### 1. 2019-01-09-[Factor Graphs for Flexible Inference in Robotics and Vision](https://smartech.gatech.edu/handle/1853/60646) Dellaert, Frank视频详解因子图，他也是牛逼的SKYDIO 的开发者之一
 
 ### Deep SLAM
+#### 24. 2019-09-05-[Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry](https://arxiv.org/pdf/1908.08704.pdf)
 #### 23. 2019-07-31-[Deep Virtual Stereo Odometry: Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://www.researchgate.net/profile/Nan_Yang64/publication/326290322_Deep_Virtual_Stereo_Odometry_Leveraging_Deep_Depth_Prediction_for_Monocular_Direct_Sparse_Odometry/links/5b7d8947a6fdcc5f8b5c3f6f/Deep-Virtual-Stereo-Odometry-Leveraging-Deep-Depth-Prediction-for-Monocular-Direct-Sparse-Odometry.pdf) TUM Cremers 利用网络单目深度估计解决单目SLAM尺度问题
 #### 22. 2019-05-09-[EM-Fusion: Dynamic Object-Level SLAM with Probabilistic Data Association](https://arxiv.org/pdf/1904.11781.pdf)处理动态物体三维重建
 #### 21. 2019-05-09[GN-Net: The Gauss-Newton Loss for Deep Direct SLAM](https://arxiv.org/pdf/1904.11932.pdf)Daniel Cremers 所作,在帧间tracking时replace the image I with a feature map computed by a deep neural network.
@@ -294,6 +300,8 @@
 #### 1. 2019-01-22-[DF-SLAM: A Deep-Learning Enhanced Visual SLAM System based on Deep Local Features](https://arxiv.org/pdf/1901.07223.pdf)
 
 ### 3D Reconstruction
+#### 11. 2019-09-05-[DEFSLAM: TRACKING AND MAPPING OF DEFORMING SCENES FROM MONOCULAR SEQUENCES](https://arxiv.org/pdf/1908.08918.pdf)
+#### 10. 2019-09-05-[Learning Meshes for Dense Visual SLAM](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/dyson-robotics-lab/mbloesch_etal_iccv2019.pdf)
 #### 9. 2019-07-26-[Multi-Robot Collaborative Dense Scene Reconstruction](https://sci-hub.shop/10.1145/3306346.3322942)
 #### 8. 2019-06-13-[DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/dyson-robotics-lab/tlaidlow_etal_icra2019.pdf)
 #### 7. 2019-05-14-[ReFusion: 3D Reconstruction in Dynamic Environments for RGB-D Cameras Exploiting Residuals](https://arxiv.org/pdf/1905.02082.pdf) 
