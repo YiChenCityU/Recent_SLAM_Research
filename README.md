@@ -171,6 +171,7 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
+#### 102. 2019-09-30-[Mine Tunnel Exploration using Multiple Quadrupedal Robots](https://arxiv.org/pdf/1909.09662.pdf) Vijay Kumar隧道搜寻机器人定位
 #### 101. 2019-09-05-[Flexible Trinocular: Non-rigid Multi-Camera-IMU Dense Reconstruction for UAV Navigation and Mapping](https://arxiv.org/pdf/1908.08891.pdf) 
 #### 100. 2019-09-05-[Multi-Spectral Visual Odometry without Explicit Stereo Matching](https://arxiv.org/pdf/1908.08814.pdf)红外相机与传统相机双目SLAM
 #### 99. 2019-09-05-[Camera Pose Correction in SLAM Based on Bias Values of Map Points](https://arxiv.org/pdf/1908.09072.pdf)
@@ -300,6 +301,7 @@
 #### 1. 2019-01-22-[DF-SLAM: A Deep-Learning Enhanced Visual SLAM System based on Deep Local Features](https://arxiv.org/pdf/1901.07223.pdf)
 
 ### 3D Reconstruction
+#### 12. 2019-09-30-[OPTIMIZATION OF POSE, TEXTURE AND GEOMETRY IN 3D RECONSTRUCTION WITH CONSUMER DEPTH CAMERAS](https://utd-ir.tdl.org/handle/10735.1/6870) 三维重建博士论文
 #### 11. 2019-09-05-[DEFSLAM: TRACKING AND MAPPING OF DEFORMING SCENES FROM MONOCULAR SEQUENCES](https://arxiv.org/pdf/1908.08918.pdf)
 #### 10. 2019-09-05-[Learning Meshes for Dense Visual SLAM](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/dyson-robotics-lab/mbloesch_etal_iccv2019.pdf)
 #### 9. 2019-07-26-[Multi-Robot Collaborative Dense Scene Reconstruction](https://sci-hub.shop/10.1145/3306346.3322942)
