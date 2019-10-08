@@ -171,6 +171,7 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
+#### 103. 2019-10-08-[Technical Report: A Tightly Coupled VLC-Inertial Localization System by EKF](https://www.ram-lab.com/papers/2019/tr_vlcinertial.pdf)
 #### 102. 2019-09-30-[Mine Tunnel Exploration using Multiple Quadrupedal Robots](https://arxiv.org/pdf/1909.09662.pdf) Vijay Kumar隧道搜寻机器人定位
 #### 101. 2019-09-05-[Flexible Trinocular: Non-rigid Multi-Camera-IMU Dense Reconstruction for UAV Navigation and Mapping](https://arxiv.org/pdf/1908.08891.pdf) 
 #### 100. 2019-09-05-[Multi-Spectral Visual Odometry without Explicit Stereo Matching](https://arxiv.org/pdf/1908.08814.pdf)红外相机与传统相机双目SLAM
@@ -275,6 +276,7 @@
 #### 1. 2019-01-09-[Factor Graphs for Flexible Inference in Robotics and Vision](https://smartech.gatech.edu/handle/1853/60646) Dellaert, Frank视频详解因子图，他也是牛逼的SKYDIO 的开发者之一
 
 ### Deep SLAM
+#### 25. 2019-10-08-[Self-Supervised Learning of Depth and Ego-motion with Differentiable Bundle Adjustment](https://arxiv.org/pdf/1909.13163.pdf)
 #### 24. 2019-09-05-[Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry](https://arxiv.org/pdf/1908.08704.pdf)
 #### 23. 2019-07-31-[Deep Virtual Stereo Odometry: Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://www.researchgate.net/profile/Nan_Yang64/publication/326290322_Deep_Virtual_Stereo_Odometry_Leveraging_Deep_Depth_Prediction_for_Monocular_Direct_Sparse_Odometry/links/5b7d8947a6fdcc5f8b5c3f6f/Deep-Virtual-Stereo-Odometry-Leveraging-Deep-Depth-Prediction-for-Monocular-Direct-Sparse-Odometry.pdf) TUM Cremers 利用网络单目深度估计解决单目SLAM尺度问题
 #### 22. 2019-05-09-[EM-Fusion: Dynamic Object-Level SLAM with Probabilistic Data Association](https://arxiv.org/pdf/1904.11781.pdf)处理动态物体三维重建
