@@ -171,6 +171,7 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
+#### 104. 2019-10-08-[An Open-Source System for Vision-Based Micro-Aerial Vehicle Mapping, Planning, and Flight in Cluttered Environments](http://helenol.github.io/publications/jfr_2019_system.pdf)
 #### 103. 2019-10-08-[Technical Report: A Tightly Coupled VLC-Inertial Localization System by EKF](https://www.ram-lab.com/papers/2019/tr_vlcinertial.pdf)
 #### 102. 2019-09-30-[Mine Tunnel Exploration using Multiple Quadrupedal Robots](https://arxiv.org/pdf/1909.09662.pdf) Vijay Kumar隧道搜寻机器人定位
 #### 101. 2019-09-05-[Flexible Trinocular: Non-rigid Multi-Camera-IMU Dense Reconstruction for UAV Navigation and Mapping](https://arxiv.org/pdf/1908.08891.pdf) 
