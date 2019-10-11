@@ -168,6 +168,9 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
+#### 107. 2019-10-11-[Pose Estimation for Omni-directional Cameras using Sinusoid Fitting](https://arxiv.org/pdf/1910.00882.pdf)
+#### 106. 2019-10-11-[OpenVSLAM: A Versatile Visual SLAM Framework](https://arxiv.org/pdf/1910.01122.pdf)
+#### 105. 2019-10-11-[High Availability Mapping and Localization](https://april.eecs.umich.edu/papers/details.php?name=wang2019phd)密歇根大学 Xipeng Wang 博士论文
 #### 104. 2019-10-08-[An Open-Source System for Vision-Based Micro-Aerial Vehicle Mapping, Planning, and Flight in Cluttered Environments](http://helenol.github.io/publications/jfr_2019_system.pdf)
 #### 103. 2019-10-08-[Technical Report: A Tightly Coupled VLC-Inertial Localization System by EKF](https://www.ram-lab.com/papers/2019/tr_vlcinertial.pdf)
 #### 102. 2019-09-30-[Mine Tunnel Exploration using Multiple Quadrupedal Robots](https://arxiv.org/pdf/1909.09662.pdf) Vijay Kumar隧道搜寻机器人定位
