@@ -168,6 +168,10 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
+#### 111. 2019-10-18-[A GPS-aided Omnidirectional Visual-Inertial State Estimator in Ubiquitous Environments](https://www.ram-lab.com/papers/2019/yuyang_iros2019.pdf)
+#### 110. 2019-10-18-[A fast, complete, point cloud based loop closure for LiDAR odometry and mapping](https://arxiv.org/abs/1909.11811)
+#### 109. 2019-10-18-[DOOR-SLAM: Distributed, Online, and Outlier Resilient SLAM for Robotic Teams](https://arxiv.org/abs/1909.12198)
+#### 108. 2019-10-18-[Robust Semi-Direct Monocular Visual Odometry Using Edge and Illumination-Robust Cost](https://arxiv.org/abs/1909.11362) 
 #### 107. 2019-10-11-[Pose Estimation for Omni-directional Cameras using Sinusoid Fitting](https://arxiv.org/pdf/1910.00882.pdf)
 #### 106. 2019-10-11-[OpenVSLAM: A Versatile Visual SLAM Framework](https://arxiv.org/pdf/1910.01122.pdf)
 #### 105. 2019-10-11-[High Availability Mapping and Localization](https://april.eecs.umich.edu/papers/details.php?name=wang2019phd)密歇根大学 Xipeng Wang 博士论文
@@ -277,6 +281,7 @@
 #### 1. 2019-01-09-[Factor Graphs for Flexible Inference in Robotics and Vision](https://smartech.gatech.edu/handle/1853/60646) Dellaert, Frank视频详解因子图，他也是牛逼的SKYDIO 的开发者之一
 
 ### Deep SLAM
+#### 26. 2019-10-18-[Probabilistic Data Association via Mixture Models for Robust Semantic SLAM](https://arxiv.org/abs/1909.11213)
 #### 25. 2019-10-08-[Self-Supervised Learning of Depth and Ego-motion with Differentiable Bundle Adjustment](https://arxiv.org/pdf/1909.13163.pdf)
 #### 24. 2019-09-05-[Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry](https://arxiv.org/pdf/1908.08704.pdf)
 #### 23. 2019-07-31-[Deep Virtual Stereo Odometry: Leveraging Deep Depth Prediction for Monocular Direct Sparse Odometry](https://www.researchgate.net/profile/Nan_Yang64/publication/326290322_Deep_Virtual_Stereo_Odometry_Leveraging_Deep_Depth_Prediction_for_Monocular_Direct_Sparse_Odometry/links/5b7d8947a6fdcc5f8b5c3f6f/Deep-Virtual-Stereo-Odometry-Leveraging-Deep-Depth-Prediction-for-Monocular-Direct-Sparse-Odometry.pdf) TUM Cremers 利用网络单目深度估计解决单目SLAM尺度问题
@@ -304,6 +309,7 @@
 #### 1. 2019-01-22-[DF-SLAM: A Deep-Learning Enhanced Visual SLAM System based on Deep Local Features](https://arxiv.org/pdf/1901.07223.pdf)
 
 ### 3D Reconstruction
+#### 13. 2019-10-18-[Merge-SfM: Merging Partial Reconstructions](https://bmvc2019.org/wp-content/uploads/papers/1004-paper.pdf)
 #### 12. 2019-09-30-[OPTIMIZATION OF POSE, TEXTURE AND GEOMETRY IN 3D RECONSTRUCTION WITH CONSUMER DEPTH CAMERAS](https://utd-ir.tdl.org/handle/10735.1/6870) 三维重建博士论文
 #### 11. 2019-09-05-[DEFSLAM: TRACKING AND MAPPING OF DEFORMING SCENES FROM MONOCULAR SEQUENCES](https://arxiv.org/pdf/1908.08918.pdf)
 #### 10. 2019-09-05-[Learning Meshes for Dense Visual SLAM](https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/dyson-robotics-lab/mbloesch_etal_iccv2019.pdf)
@@ -330,6 +336,7 @@
 #### 1. 2019-01-24-[Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf)
 
 ### Path Planning 
+#### 13. 2019-10-18-[Time-varying Pedestrian Flow Models for Service Robots](http://iliad-project.eu/wp-content/uploads/2019/08/ECMR_2019.pdf)
 #### 12. 2019-04-29-[Continuous Occupancy Map Fusion with Fast Bayesian Hilbert Maps](https://www.researchgate.net/profile/Weiming_Zhi/publication/332550322_Continuous_Occupancy_Map_Fusion_with_Fast_Bayesian_Hilbert_Maps/links/5cbc7fc1299bf12097765677/Continuous-Occupancy-Map-Fusion-with-Fast-Bayesian-Hilbert-Maps.pdf)
 #### 11. 2019-04-26-[Deep Local Trajectory Replanning and Control for Robot Navigation](http://iliad.stanford.edu/pdfs/publications/pokle2019deep.pdf)
 #### 10. 2019-04-23-[A new optimization-driven path planning method with probabilistic completeness for wheeled mobile robots](https://journals.sagepub.com/doi/full/10.1177/0020294019836127)
