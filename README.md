@@ -6,6 +6,105 @@
 
 <img src="https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM%E8%83%BD%E5%8A%9B%E5%9B%BE.png" width ="300" height="550" />
 
+### ------------ IROS 2019 [下载链接](https://drive.google.com/open?id=1Vd_ShC1w6WNHPDlNoIU_tMv0hRsXPnTw)------------
+### Calibration and Identification
+#### A Novel Robust Approach for Correspondence-Free Extrinsic Calibration.
+#### Automatic Multi-Sensor Extrinsic Calibration for Mobile Robots. 
+#### Model Free Calibration of Wheeled Robots Using Gaussian Process
+#### A Robust Extrinsic Calibration Framework for Vehicles with Unscaled Sensors.
+### SLAM 
+#### Active SLAM Using Connectivity Graphs As Priors.
+#### Map-Aware SLAM with Sparse Map Features.
+#### RISE-SLAM: A Resource-Aware Inverse Schmidt Estimator for SLAM.
+#### Better Lost in Transition Than Lost in Space: SLAM State Machine.
+#### Stereo Visual Inertial LiDAR Simultaneous Localization and Mapping.
+#### Fast and Incremental Loop Closure Detection Using Proximity Graphs.（https://github.com/AnshanTJU/FILD）
+#### Outlier-Robust State Estimation for Humanoid Robots.（https://github.com/mrsp/serow）
+#### Pose Estimation for Omni-Directional Cameras Using Sinusoid Fitting.
+#### 3D Reconstruction by Single Camera Omnidirectional Multi-Stereo System.
+#### Metric Monocular Localization Using Signed Distance Fields.
+#### Free-Space Features: Global Localization in 2D Laser SLAM Using Distance Function Maps.
+#### Eigen-Factors: Plane Estimation for Multi-Frame and Time-Continuous Point Cloud Alignment.（https://gitlab.com/gferrer/eigen-factors-iros2019）
+#### A Robust Laser-Inertial Odometry and Mapping Method for Large-Scale Highway Environments.
+#### On the Tunable Sparse Graph Solver for Pose Graph Optimization in Visual SLAM Problems.
+#### Radar SLAM for Indoor Disaster Environments Via Multi-Modal Registration to Prior LiDAR Map.
+#### Robot Localization Via Odometry-Assisted Ultra-Wideband Ranging with Stochastic Guarantees.
+#### Sparse-3D Lidar Outdoor Map-Based Autonomous Vehicle Localization.
+#### GLFP: Global Localization from a Floor Plan.
+#### BTEL: A Binary Tree Encoding Approach for Visual Localization.
+#### FASTER: Fast and Safe Trajectory Planner for Flights in Unknown Environments.
+#### On Data Sharing Strategy for Decentralized Collaborative Visual-Inertial Simultaneous Localization and Mapping.
+#### Decentralized Visual-Inertial Localization and Mapping on Mobile Devices for Augmented Reality.
+#### Communication Constrained Cloud-Based Long-Term Visual Localization in Real Time.
+#### Visual-Inertial Odometry with Point and Line Features.
+#### Vision-Aided Localization for Ground Robots.
+#### Rolling-Shutter Modelling for Direct Visual-Inertial Odometry.
+#### DISCOMAN: Dataset of Indoor SCenes for Odometry, Mapping and Navigation.
+#### 2-Entity RANSAC for Robust Visual Localization in Changing Environment.
+#### DeepPCO: End-To-End Point Cloud Odometry through Deep Parallel Neural Network.
+#### OREOS: Oriented Recognition of 3D Point Clouds in Outdoor Scenarios.
+#### Filter Early, Match Late: Improving Network-Based Visual Place Recognition.
+#### Degeneracy in Self-Calibration Revisited and a Deep Learning Solution for Uncalibrated SLAM.
+#### SGANVO: Unsupervised Deep Visual Odometry and Depth Estimation with Stacked Generative Adversarial Networks
+#### Robust Loop Closure Detection Based on Bag of SuperPoints and Graph Verification.
+#### Deep Supervised Hashing with Similar Hierarchy for Place Recognition.
+#### Learning Local Feature Descriptor with Motion Attribute for Vision-Based Localization.
+#### Robust and Efficient Vehicles Motion Estimation with Low-Cost Multi-Camera and Odometer-Gyroscope.
+#### SuMa++: Efficient LiDAR-Based Semantic SLAM.( https://github.com/PRBonn/semantic_suma/)
+#### Monocular Object and Plane SLAM in Structured Environments.
+#### CALC2.0: Combining Appearance, Semantic and Geometric Information for Robust and Efficient
+(https://github.com/rpng/calc2.0)
+#### Semantically Assisted Loop Closure in SLAM Using NDT Histograms.( https://github.com/azaganidis/se_ndt)
+#### Camera Pose Estimation with Semantic 3D Model.
+#### Accelerated Visual Inertial Navigation Via Fragmented Structure Updates.
+#### Long-Term Visual Inertial SLAM Based on Time Series Map Prediction.
+#### Data Flow ORB-SLAM for Real-Time Performance on Embedded GPU Boards. 
+(https://github.com/xaldyz/dataflow-orbslam)
+#### A Robust Stereo Semi-Direct SLAM System Based on Hybrid Pyramid.
+#### Outlier-Robust Spatial Perception: Hardness, General-Purpose Algorithms, and Guarantees.
+#### Visual-Inertial Odometry Tightly Coupled with Wheel Encoder Adopting Robust Initialization and Online Extrinsic Calibration.
+#### The Road Is Enough! Extrinsic Calibration of Non-Overlapping Stereo Camera and LiDAR Using Road Information.
+#### LIC-Fusion: LiDAR-Inertial-Camera Odometry.
+#### FA-Harris: A Fast and Asynchronous Corner Detector for Event Cameras.
+#### Rapid and Robust Monocular Visual-Inertial Initialization with Gravity Estimation Via Vertical Edges.
+#### A Unified Formulation for Visual Odometry.
+#### An Efficient and Accurate Algorithm for the Perspective-N-Point Problem.
+#### ORBSLAM-Atlas: A Robust and Accurate Multi-Map System.
+#### Sparse Depth Enhanced Direct Thermal-Infrared SLAM Beyond the Visible Spectrum.
+#### Robust High Accuracy Visual-Inertial-Laser SLAM System.
+#### Covariance Pre-Integration for Delayed Measurements in Multi-Sensor Fusion.
+#### Real-Time Dense Depth Estimation Using Semantically-Guided LIDAR Data Propagation and Motion Stereo.
+#### Non-Parametric Mixed-Manifold Products Using Multiscale Kernel Densities.
+#### Perception System Design for Low-Cost Commercial Ground Robots: Sensor Configurations, Calibration, Localization, and Mapping.
+#### Visual-Inertial Localization with Prior LiDAR Map Constraints.
+#### Extending Monocular Visual Odometry to Stereo Camera Systems by Scale Optimization.
+#### Line-Based Absolute and Relative Camera Pose Estimation in Structured Environments.
+#### Outlier-Robust Manifold Pre-Integration for INS/GPS Fusion.
+#### A Joint Optimization Approach of LiDAR-Camera Fusion for Accurate Dense 3D Reconstructions.
+#### LiDAR-Flow: Dense Scene Flow Estimation from Sparse LiDAR and Stereo Images.
+#### ReFusion: 3D Reconstruction in Dynamic Environments for RGB-D Cameras Exploiting Residuals.( https://github.com/PRBonn/refusion)
+#### GPU Accelerated Robust Scene Reconstruction.( https://github.com/theNded/Open3D)
+#### View Management for Lifelong Visual Maps.
+#### TerrainFusion: Real-Time Digital Surface Model Reconstruction Based on Monocular SLAM.
+### Motion and Path Planning
+#### Predictive Inverse Kinematics: Optimizing Future Trajectory through Implicit Time #### Integration and Future Jacobian Estimation.
+#### Computing 3D From-Region Visibility Using Visibility Integrity.
+#### Edge-Preserving Camera Trajectories for Improved Optical Character Recognition on Static Scenes with Text.
+#### Virtual Region Based Multi-Robot Path Planning in an Unknown Occluded Environment.
+#### Fast Trajectory Planning for Multiple Quadrotors Using Relative Safe Flight Corridor.
+#### Coverage Path Planning Using Path Primitive Sampling and Primitive Coverage Graph for Visual Inspection.
+#### Volumetric Tree*: Adaptive Sparse Graph for Effective Exploration of Homotopy Classes.（https://github.com/andreacasalino/MT_RRT）
+#### RINS-W: Robust Inertial Navigation System on Wheels.
+#### Maximum Likelihood Path Planning for Fast Aerial Maneuvers and Collision Avoidance.
+#### Graph-Based Path Planning for Autonomous Robotic Exploration in Subterranean Environments.
+#### Constrained Heterogeneous Vehicle Path Planning for Large-Area Coverage.
+#### Combining Stochastic Optimization and Frontiers for Aerial Multi-Robot Exploration of 3D Terrains.
+#### Optimal Temporal Logic Planning for Multi-Robot Systems in Uncertain Semantic Maps.
+#### Multi Robot Route Planning (MRRP): Extended Spatial-Temporal Prioritized Planning.
+#### An Optimal Algorithm to Solve the Combined Task Allocation and Path Finding Problem.
+#### Scheduling of Mobile Workstations for Overlapping Production Time and Delivery Time.
+### ------------ IROS 2019 终止线 ----------
+
 ### ------------ ICRA 2019 重磅来袭 吐血整理关于SLAM部分 [下载链接](https://drive.google.com/open?id=1e-5pBpfkXBvMeeYzVjC4sv_LhCgN3RB8)----------
 #### 0031	Aided Inertial Navigation - Unified Feature Representations and Observability Analysis
 #### 0036	Learning Wheel Odometry and IMU Errors for Localization
