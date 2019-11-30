@@ -267,6 +267,9 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
+#### 114. 2019-11-30-[An Efficient LiDAR-IMU Calibration Method Based on Continuous-Time Trajectory](https://pdfs.semanticscholar.org/3caa/271d29c622f29c22ae2bc2aad22dece155f6.pdf)
+#### 113. 2019-11-30-[SOF-SLAM: A Semantic Visual SLAM for Dynamic Environments](https://ieeexplore.ieee.org/abstract/document/8894002/authors)
+#### 112. 2019-11-30-[Rapid Initialization using Relative Pose Constraints in Stereo Visual-Inertial Odometry](https://ieeexplore.ieee.org/abstract/document/8899485)
 #### 111. 2019-10-18-[A GPS-aided Omnidirectional Visual-Inertial State Estimator in Ubiquitous Environments](https://www.ram-lab.com/papers/2019/yuyang_iros2019.pdf)
 #### 110. 2019-10-18-[A fast, complete, point cloud based loop closure for LiDAR odometry and mapping](https://arxiv.org/abs/1909.11811)
 #### 109. 2019-10-18-[DOOR-SLAM: Distributed, Online, and Outlier Resilient SLAM for Robotic Teams](https://arxiv.org/abs/1909.12198)
