@@ -267,6 +267,7 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
+#### 115. 2019-12-11-[A Novel Texture-Less Object OrientedVisual SLAM System](https://sci-hub.tw/10.1109/TITS.2019.2952159)
 #### 114. 2019-11-30-[An Efficient LiDAR-IMU Calibration Method Based on Continuous-Time Trajectory](https://pdfs.semanticscholar.org/3caa/271d29c622f29c22ae2bc2aad22dece155f6.pdf)
 #### 113. 2019-11-30-[SOF-SLAM: A Semantic Visual SLAM for Dynamic Environments](https://ieeexplore.ieee.org/abstract/document/8894002/authors)
 #### 112. 2019-11-30-[Rapid Initialization using Relative Pose Constraints in Stereo Visual-Inertial Odometry](https://ieeexplore.ieee.org/abstract/document/8899485)
@@ -411,6 +412,8 @@
 #### 1. 2019-01-22-[DF-SLAM: A Deep-Learning Enhanced Visual SLAM System based on Deep Local Features](https://arxiv.org/pdf/1901.07223.pdf)
 
 ### 3D Reconstruction
+#### 15. 2019-12-11-[Voxgraph: Globally Consistent, Volumetric MappingUsing Signed Distance Function Submaps](https://sci-hub.tw/10.1109/LRA.2019.2953859)
+#### 14. 2019-12-11-[Fast Image Reconstruction with an Event Camera](https://cedric-scheerlinck.github.io/files/2019_firenet.pdf)
 #### 13. 2019-10-18-[Merge-SfM: Merging Partial Reconstructions](https://bmvc2019.org/wp-content/uploads/papers/1004-paper.pdf)
 #### 12. 2019-09-30-[OPTIMIZATION OF POSE, TEXTURE AND GEOMETRY IN 3D RECONSTRUCTION WITH CONSUMER DEPTH CAMERAS](https://utd-ir.tdl.org/handle/10735.1/6870) 三维重建博士论文
 #### 11. 2019-09-05-[DEFSLAM: TRACKING AND MAPPING OF DEFORMING SCENES FROM MONOCULAR SEQUENCES](https://arxiv.org/pdf/1908.08918.pdf)
