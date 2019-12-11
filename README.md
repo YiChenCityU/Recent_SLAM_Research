@@ -267,6 +267,7 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
+#### 116. 2019-12-11-[OpenVINS:  A  Research  Platform  for  Visual-Inertial  Estimation](https://pdfs.semanticscholar.org/cb63/60f21255834297e32826bff6366a769b49e9.pdf)
 #### 115. 2019-12-11-[A Novel Texture-Less Object OrientedVisual SLAM System](https://sci-hub.tw/10.1109/TITS.2019.2952159)
 #### 114. 2019-11-30-[An Efficient LiDAR-IMU Calibration Method Based on Continuous-Time Trajectory](https://pdfs.semanticscholar.org/3caa/271d29c622f29c22ae2bc2aad22dece155f6.pdf)
 #### 113. 2019-11-30-[SOF-SLAM: A Semantic Visual SLAM for Dynamic Environments](https://ieeexplore.ieee.org/abstract/document/8894002/authors)
