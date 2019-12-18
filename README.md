@@ -267,6 +267,7 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
+#### 117. 2019-12-18-[VersaVIS: An Open Versatile Multi-CameraVisual-Inertial Sensor Suite](https://arxiv.org/pdf/1912.02469.pdf) 开源多传感器同步硬件
 #### 116. 2019-12-11-[OpenVINS:  A  Research  Platform  for  Visual-Inertial  Estimation](https://pdfs.semanticscholar.org/cb63/60f21255834297e32826bff6366a769b49e9.pdf)
 #### 115. 2019-12-11-[A Novel Texture-Less Object OrientedVisual SLAM System](https://sci-hub.tw/10.1109/TITS.2019.2952159)
 #### 114. 2019-11-30-[An Efficient LiDAR-IMU Calibration Method Based on Continuous-Time Trajectory](https://pdfs.semanticscholar.org/3caa/271d29c622f29c22ae2bc2aad22dece155f6.pdf)
@@ -430,6 +431,7 @@
 #### 1. 2019-01-12-[NRMVS: Non-Rigid Multi-View Stereo](https://arxiv.org/pdf/1901.03910.pdf) 根据不同视角RGB图像对变形物体三维重建
 
 ### Auto driving
+#### 11. 2019-12-18[OREOS: Oriented Recognition of 3D Point Clouds in Outdoor Scenarios](https://arxiv.org/pdf/1903.07918.pdf)
 #### 10. 2019-05-14-[Trajectory Optimization of LiDAR SLAM Based on Local Pose Graph](http://sci-hub.tw/10.1007/978-981-13-7751-8_36) 优于LOAM的3D laser SLAM 
 #### 9. 2019-05-09-[Automatic extrinsic calibration between a camera and a 3D Lidar using 3D point and plane correspondences](https://arxiv.org/pdf/1904.12433.pdf) 标定相机与三维激光雷达
 #### 8. 2019-05-09-[A Novel Dual-Lidar Calibration Algorithm Using Planar Surfaces](https://arxiv.org/pdf/1904.12116.pdf) 标定双激光雷达
