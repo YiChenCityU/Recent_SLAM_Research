@@ -268,8 +268,7 @@
 
 ### SLAM
 #### 119. 2019-12-31-[Joint Forward-Backward Visual Odometry for Stereo Cameras](https://arxiv.org/pdf/1912.10293.pdf)
-#### 118. 2019-12-31-[Line-Based Stereo SLAM by Junction Matching
-and Vanishing Point Alignment](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8935194)
+#### 118. 2019-12-31-[Line-Based Stereo SLAM by Junction Matching and Vanishing Point Alignment](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8935194)
 #### 117. 2019-12-18-[VersaVIS: An Open Versatile Multi-CameraVisual-Inertial Sensor Suite](https://arxiv.org/pdf/1912.02469.pdf) 开源多传感器同步硬件
 #### 116. 2019-12-11-[OpenVINS:  A  Research  Platform  for  Visual-Inertial  Estimation](https://pdfs.semanticscholar.org/cb63/60f21255834297e32826bff6366a769b49e9.pdf)
 #### 115. 2019-12-11-[A Novel Texture-Less Object OrientedVisual SLAM System](https://sci-hub.tw/10.1109/TITS.2019.2952159)
