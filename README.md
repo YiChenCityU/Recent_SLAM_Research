@@ -267,6 +267,9 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
+#### 119. 2019-12-31-[Joint Forward-Backward Visual Odometry for Stereo Cameras](https://arxiv.org/pdf/1912.10293.pdf)
+#### 118. 2019-12-31-[Line-Based Stereo SLAM by Junction Matching
+and Vanishing Point Alignment](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8935194)
 #### 117. 2019-12-18-[VersaVIS: An Open Versatile Multi-CameraVisual-Inertial Sensor Suite](https://arxiv.org/pdf/1912.02469.pdf) 开源多传感器同步硬件
 #### 116. 2019-12-11-[OpenVINS:  A  Research  Platform  for  Visual-Inertial  Estimation](https://pdfs.semanticscholar.org/cb63/60f21255834297e32826bff6366a769b49e9.pdf)
 #### 115. 2019-12-11-[A Novel Texture-Less Object OrientedVisual SLAM System](https://sci-hub.tw/10.1109/TITS.2019.2952159)
@@ -386,6 +389,7 @@
 #### 1. 2019-01-09-[Factor Graphs for Flexible Inference in Robotics and Vision](https://smartech.gatech.edu/handle/1853/60646) Dellaert, Frank视频详解因子图，他也是牛逼的SKYDIO 的开发者之一
 
 ### Deep SLAM
+#### 27. 2019-12-31-[DeepSFM: Structure From Motion Via Deep Bundle Adjustment](https://arxiv.org/pdf/1912.09697.pdf)
 #### 26. 2019-10-18-[Probabilistic Data Association via Mixture Models for Robust Semantic SLAM](https://arxiv.org/abs/1909.11213)
 #### 25. 2019-10-08-[Self-Supervised Learning of Depth and Ego-motion with Differentiable Bundle Adjustment](https://arxiv.org/pdf/1909.13163.pdf)
 #### 24. 2019-09-05-[Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry](https://arxiv.org/pdf/1908.08704.pdf)
