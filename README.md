@@ -267,6 +267,12 @@
 ### ------------ ICRA 2019 终止线 ----------
 
 ### SLAM
+#### 125. 2019-12-31-[Localization Limitations of ARCore, ARKit, and Hololens in Dynamic Large-Scale Industry Environments](https://www2.cs.fau.de/publication/download/GRAPP2020.pdf)
+#### 124. 2019-12-31-[RGB-Channel-based Illumination Robust SLAM Method](http://www.joace.org/uploadfile/2019/1218/20191218031228815.pdf)
+#### 123. 2019-12-31-[A Robust Laser-Inertial Odometry and Mapping Method for Large-Scale Highway Environments](https://www.researchgate.net/profile/Shibo_Zhao2/publication/338115486_A_Robust_Laser-Inertial_Odometry_and_Mapping_Method_for_Large-Scale_Highway_Environments/links/5e0027a14585159aa492be7e/A-Robust-Laser-Inertial-Odometry-and-Mapping-Method-for-Large-Scale-Highway-Environments.pdf)
+#### 122. 2019-12-31-[Research on Visual and Inertia Fusion Odometry Based on PROSAC Mismatched Culling Algorithm](https://dl.acm.org/doi/10.1145/3366715.3366725)
+#### 121. 2019-12-31-[Error Improvement in Visual Odometry Using Super-resolution](https://link.springer.com/article/10.1007/s12555-019-0256-5)
+#### 120. 2019-12-31-[LiDAR and Camera Calibration using Motion Estimated by Sensor Fusion Odometry](https://deepai.org/publication/lidar-and-camera-calibration-using-motion-estimated-by-sensor-fusion-odometry)
 #### 119. 2019-12-31-[Joint Forward-Backward Visual Odometry for Stereo Cameras](https://arxiv.org/pdf/1912.10293.pdf)
 #### 118. 2019-12-31-[Line-Based Stereo SLAM by Junction Matching and Vanishing Point Alignment](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8935194)
 #### 117. 2019-12-18-[VersaVIS: An Open Versatile Multi-CameraVisual-Inertial Sensor Suite](https://arxiv.org/pdf/1912.02469.pdf) 开源多传感器同步硬件
@@ -388,6 +394,7 @@
 #### 1. 2019-01-09-[Factor Graphs for Flexible Inference in Robotics and Vision](https://smartech.gatech.edu/handle/1853/60646) Dellaert, Frank视频详解因子图，他也是牛逼的SKYDIO 的开发者之一
 
 ### Deep SLAM
+#### 28. 2019-12-31-[A Novel Approach to Image-Sequence-Based Mobile Robot Place Recognition](https://ieeexplore.ieee.org/abstract/document/8931657/authors#authors)
 #### 27. 2019-12-31-[DeepSFM: Structure From Motion Via Deep Bundle Adjustment](https://arxiv.org/pdf/1912.09697.pdf)
 #### 26. 2019-10-18-[Probabilistic Data Association via Mixture Models for Robust Semantic SLAM](https://arxiv.org/abs/1909.11213)
 #### 25. 2019-10-08-[Self-Supervised Learning of Depth and Ego-motion with Differentiable Bundle Adjustment](https://arxiv.org/pdf/1909.13163.pdf)
@@ -446,7 +453,9 @@
 #### 2. 2019-01-25-[Sensor fusion for localization of automated vehicles](https://d-nb.info/1173898506/34) 德国Bonn大学自动驾驶多传感器融合博士论文
 #### 1. 2019-01-24-[Self-Driving Cars: A Survey](https://arxiv.org/pdf/1901.04407.pdf)
 
-### Path Planning 
+### Path Planning
+#### 15. 2019-12-31-[A Gridmap-Path Reshaping Algorithm for Path Planning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8935229)
+#### 14. 2019-12-31-[Informative Path Planning for Active Mapping under Localization Uncertainty](https://pdfs.semanticscholar.org/76b5/cb8a3c1aad101ed905a546759a9ec12d0a11.pdf)
 #### 13. 2019-10-18-[Time-varying Pedestrian Flow Models for Service Robots](http://iliad-project.eu/wp-content/uploads/2019/08/ECMR_2019.pdf)
 #### 12. 2019-04-29-[Continuous Occupancy Map Fusion with Fast Bayesian Hilbert Maps](https://www.researchgate.net/profile/Weiming_Zhi/publication/332550322_Continuous_Occupancy_Map_Fusion_with_Fast_Bayesian_Hilbert_Maps/links/5cbc7fc1299bf12097765677/Continuous-Occupancy-Map-Fusion-with-Fast-Bayesian-Hilbert-Maps.pdf)
 #### 11. 2019-04-26-[Deep Local Trajectory Replanning and Control for Robot Navigation](http://iliad.stanford.edu/pdfs/publications/pokle2019deep.pdf)
