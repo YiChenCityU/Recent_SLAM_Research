@@ -28,6 +28,7 @@
 #### 12. [ Lidar Deep SLAM ] 2020-01-14-[SLOAM: Semantic Lidar Odometry and Mapping for Forest Inventory](https://arxiv.org/pdf/1912.12726.pdf) 
 #### 13. [ Deep SLAM ] 2020-01-22-[Learning Topometric Semantic Maps from Occupancy Grids](https://arxiv.org/pdf/2001.03676.pdf) 2D laser semantic map. 
 #### 14. [ VSLAM ] 2020-01-22-[Temporal Delay Estimation of Sparse Direct Visual Inertial Odometry for Mobile Robots](https://sci-hub.tw/https://doi.org/10.1016/j.jfranklin.2019.11.075) Calibrate the time offset between IMU and Camera.
+#### 15. [ IMU ] 2020-02-06-[A Lightweight and Accurate Localization Algorithm Using Multiple Inertial Measurement Units](https://sci-hub.tw/10.1109/LRA.2020.2969146) The overall performance of SLAM can be further improved by using multiple IMUs. 
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
