@@ -39,9 +39,12 @@
 #### 23. [ Semantic ] 2020-02-14-[Tightly Coupled Semantic RGB-D Inertial Odometry for Accurate Long-Term Localization and Mapping](https://ieeexplore.ieee.org/abstract/document/8981658) utilize semantically enhanced feature matching and visual inertial bundle adjustment to improve the robustness of odometry especially in feature-sparse environments.
 #### 24. [ VIO ] 2020-02-14-[Visual-Inertial Ego-Motion Estimation using Rolling-Shutter Camera in autonomous driving](https://pdfs.semanticscholar.org/3c90/940d1572789aa6459e443bede87fdfcb8b86.pdf) interpolate the IMU pose between consecutive poses and set up a novel feature measurement error model to cover the time delay issues. 
 #### 25. [ VIO ] 2020-02-14-[EIP-VIO: Edge-Induced Points Based Monocular Visual-Inertial Odometry](https://ieeexplore.ieee.org/abstract/document/8982582) propose an improved and practical monocular visual-inertial odometry method based on selective edge points.
+#### 26. [ Event camera ] 2020-02-14-[Sepia, Tarsier, and Chameleon: A Modular C++ Framework for Event-Based Computer Vision](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6960268/) A framework to process Event camera.  [code]( https://github.com/neuromorphic-paris/tutorials)
+#### 27. [ Multimodal localization] 2020-02-14-[Multimodal localization: Stereo over LiDAR map](https://sci-hub.tw/https://doi.org/10.1002/rob.21936) Visual localization in lidar map. 
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
+#### 2. [ laser reconstruction] 2020-02-14-[Real-Time 3D Reconstruction of Thin Surface Based on Laser Line Scanner](https://www.researchgate.net/publication/338707435_Real-Time_3D_Reconstruction_of_Thin_Surface_Based_on_Laser_Line_Scanner) 
 
 ### Path Planning
 #### 1. [UAV] 2020-01-14-[Robust Real-time UAV Replanning Using Guided Gradient-based Optimization and Topological Paths](https://arxiv.org/pdf/1912.12644.pdf)Replanning method based on GTO.[code](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)
