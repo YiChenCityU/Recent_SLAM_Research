@@ -41,6 +41,10 @@
 #### 25. [ VIO ] 2020-02-14-[EIP-VIO: Edge-Induced Points Based Monocular Visual-Inertial Odometry](https://ieeexplore.ieee.org/abstract/document/8982582) propose an improved and practical monocular visual-inertial odometry method based on selective edge points.
 #### 26. [ Event camera ] 2020-02-14-[Sepia, Tarsier, and Chameleon: A Modular C++ Framework for Event-Based Computer Vision](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6960268/) A framework to process Event camera.  [code]( https://github.com/neuromorphic-paris/tutorials)
 #### 27. [ Multimodal localization] 2020-02-14-[Multimodal localization: Stereo over LiDAR map](https://sci-hub.tw/https://doi.org/10.1002/rob.21936) Visual localization in lidar map. 
+#### 28. [ 2D SLAM ] 2020-02-15-[x A Triangle Feature Based Map-to-map Matching and Loop Closure for 2D Graph SLAM](https://sci-hub.tw/10.1109/ROBIO49542.2019.8961777)  We propose a geometric environment descriptor called a Triangle Feature (TF). It exploits the Euclidean distance constraint any three feature points in a submap can form.
+#### 29. [ Doctor paper ] 2020-02-15-[Enabling Robust State Estimation through Covariance Adaptation ](https://www.researchgate.net/profile/Ryan_Watson7/publication/338595333_Enabling_Robust_State_Estimation_through_Covariance_Adaptation/links/5e1ec497299bf136303af241/Enabling-Robust-State-Estimation-through-Covariance-Adaptation.pdf) 
+#### 30. [ Multirobots ] 2020-02-15-[Statistical Outlier Identification in Multi-robot Visual SLAM using Expectation Maximization](https://arxiv.org/pdf/2002.02638.pdf) This paper presents a probabilistic approach for detecting incorrect orientation measurements prior to pose graph optimization by checking the geometric consistency of rotation measurements. 
+#### 31. [ Math ] 2020-02-15-[New approach to calculating the fundamental matrix](https://search.proquest.com/openview/7a8ffa8ef7031b50a8b9b2a7fe041f6b/1?pq-origsite=gscholar&cbl=1686344)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
