@@ -45,6 +45,11 @@
 #### 29. [ Doctor paper ] 2020-02-15-[Enabling Robust State Estimation through Covariance Adaptation ](https://www.researchgate.net/profile/Ryan_Watson7/publication/338595333_Enabling_Robust_State_Estimation_through_Covariance_Adaptation/links/5e1ec497299bf136303af241/Enabling-Robust-State-Estimation-through-Covariance-Adaptation.pdf) 
 #### 30. [ Multirobots ] 2020-02-15-[Statistical Outlier Identification in Multi-robot Visual SLAM using Expectation Maximization](https://arxiv.org/pdf/2002.02638.pdf) This paper presents a probabilistic approach for detecting incorrect orientation measurements prior to pose graph optimization by checking the geometric consistency of rotation measurements. 
 #### 31. [ Math ] 2020-02-15-[New approach to calculating the fundamental matrix](https://search.proquest.com/openview/7a8ffa8ef7031b50a8b9b2a7fe041f6b/1?pq-origsite=gscholar&cbl=1686344)
+#### 32. [ Math ] 2020-02-16-[IMPROVING THE APPLICABILITY OF VISUAL SLAM WITH SUBMODULAR SUBMATRIX SELECTION](https://smartech.gatech.edu/bitstream/handle/1853/62276/ZHAO-DISSERTATION-2019.pdf) 
+#### 33. [ VSLAM ] 2020-02-16-[DeepFactors: Real-Time Probabilistic Dense Monocular SLAM](https://arxiv.org/pdf/2001.05049.pdf) use of a learned compact depth map representation and reformulating three different types of errors: photometric, reprojection and geometric, which we make use of within standard factor graph software. [code](https://github.com/jczarnowski/DeepFactors)
+#### 34. [ VSLAM ] 2020-02-16-[Direct Visual-Inertial Ego-Motion Estimationv via Iterated Extended Kalman Filter](https://arxiv.org/pdf/2001.05215.pdf)
+#### 35. [ VSLAM ] 2020-02-16-[Multi-object Monocular SLAM for Dynamic Environments](https://arxiv.org/pdf/2002.03528.pdf)
+#### 36. [ LOOP ] 2020-02-16-[Hierarchical Multi-Process Fusion for Visual Place Recognition](https://arxiv.org/pdf/2002.03895.pdf)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
