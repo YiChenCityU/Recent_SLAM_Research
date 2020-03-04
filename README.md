@@ -53,6 +53,11 @@
 #### 37. [2D LSLAM] 2020-02-21-[GP-SLAM: laser-based SLAM approach based on regionalized Gaussian process map reconstruction](https://sci-hub.tw/https://doi.org/10.1007/s10514-020-09906-z)
 #### 38. [RGBD SLAM] 2020-02-21-[Accurate and Robust RGB-D Dense Mapping with Inertial Fusion and Deformation-Graph Optimization](https://ieeexplore.ieee.org/abstract/document/8995400/authors#authors)
 #### 39. [VSLAM] 2020-03-02-[Dynamic SLAM: The Need For Speed](https://arxiv.org/pdf/2002.08584.pdf)feature-based, model-free, object-aware dynamic SLAM algorithm that exploits semantic segmentation to allow estimation of motion of rigid objects in a scene without the need to estimate the object poses or have any prior knowledge of their 3D models.
+#### 40. [VSLAM] 2020-03-04-[Monocular Direct Sparse Localization in a Prior 3D Surfel Map](https://arxiv.org/pdf/2002.09923.pdf) tracking the pose of a monocular camera in a prior surfel map.
+#### 41. [Semantic slam] 2020-03-04-[Comparing View-Based and Map-Based Semantic Labelling in Real-Time SLAM](https://arxiv.org/pdf/2002.10342.pdf) 
+#### 42. [Math] 2020-03-04-[Least Squares Optimization: from Theory to Practice](https://arxiv.org/pdf/2002.11051.pdf) a unified methodology to design and develop efficient Least-Squares Optimization algorithms, focusing on the structures and patterns of each specific domain.
+#### 43. [RGBD] 2020-03-04-[Perception in the Dark—Development of a ToF Visual Inertial Odometry System](https://www.mdpi.com/1424-8220/20/5/1263) 
+#### 44. [Event Camera] 2020-03-04-[Robust Feature Tracking in DVS Event Stream using Bezier Mapping](http://openaccess.thecvf.com/content_WACV_2020/papers/Seok_Robust_Feature_Tracking_in_DVS_Event_Stream_using_Bezier_Mapping_WACV_2020_paper.pdf) 
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
