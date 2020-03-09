@@ -61,6 +61,14 @@
 #### 45. [Deep SLAM] 2020-03-05-[Self-Supervised Deep Pose Corrections for Robust Visual Odometry](https://arxiv.org/pdf/2002.12339.pdf) uses data-driven learning to regress pose corrections that account for systematic errors due to violations of modelling assumptions. [code](https://github.com/utiasSTARS/ss-dpc-net)
 #### 46. [Doctor thesis] 2020-03-05-[Custom hardware architectures for embedded high-performance and low-power SLAM](https://spiral.imperial.ac.uk/bitstream/10044/1/76491/1/Boikos-K-2019-PhD-Thesis.pdf)
 #### 47. [VSLAM] 2020-03-05-[Visual Camera Re-Localization from RGB and RGB-D Images Using DSAC](https://arxiv.org/pdf/2002.12324.pdf)
+#### 48. [Deep SLAM] 2020-03-09-[D3VO: Deep Depth, Deep Pose and Deep Uncertainty for Monocular Visual Odometry](https://arxiv.org/pdf/2003.01060.pdf)
+#### 49. [VSLAM] 2020-03-09-[Closed-Loop Benchmarking of Stereo Visual-Inertial SLAM Systems: Understanding the Impact of Drift and Latency on Tracking Accuracy](https://arxiv.org/pdf/2003.01317.pdf)
+#### 50. [Deep SLAM] 2020-03-09-[MVP: Unified Motion and Visual Self-Supervised Learning for Large-Scale Robotic Navigation](https://arxiv.org/pdf/2003.00667.pdf)
+#### 51. [LOOP] 2020-03-09-[Augmenting Visual Place Recognition with Structural Cues](https://arxiv.org/pdf/2003.00278.pdf)
+#### 52. [VSLAM] 2020-03-09-[Robust tightly coupled pose estimation based on monocular vision, inertia, and wheel speed](https://arxiv.org/pdf/2003.01496.pdf)
+#### 53. [VSLAM] 2020-03-09-[Plug-and-Play SLAM: A Unified SLAM Architecture for Modularity and Ease of Use](https://arxiv.org/pdf/2003.00754.pdf) [code](https://github.com/srrg-sapienza/srrg2_slam_interfaces)
+#### 54. [VSLAM] 2020-03-09-[MiniVO: Minimalistic Range Enhanced Monocular System for Scale Correct Pose Estimation](https://www.researchgate.net/publication/339629457_MiniVO_Minimalistic_Range_Enhanced_Monocular_System_for_Scale_Correct_Pose_Estimation) [code](https://gitlab.com/Giubilato/alti-cam-calib)
+#### 55 [VSLAM] 2020-03-09-[Robust Visual-Inertial Integrated Navigation System  Aided by Online Sensor Model Adaption for  Autonomous Ground Vehicles in Urban Areas](https://www.preprints.org/manuscript/202003.0018/v1)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
