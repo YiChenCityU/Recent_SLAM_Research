@@ -81,6 +81,10 @@
 #### 65. [VSLAM] 2020-03-19-[Extrinsic Calibration of Multiple RGB-D Cameras Based on Descriptor-based Patterns](https://arxiv.org/pdf/1807.07856v2.pdf)
 #### 66. [VSLAM] 2020-03-19-[SD-VIS: A Fast and Accurate Semi-Direct Monocular Visual-Inertial Simultaneous Localization and Mapping (SLAM)](https://www.mdpi.com/1424-8220/20/5/1511/htm)
 #### 67. [Calibration] 2020-03-19-[A fast calibration approach for onboard LiDAR-camera systems](https://journals.sagepub.com/doi/pdf/10.1177/1729881420909606)
+#### 68. [Edge SLAM] 2020-03-24-[Robust Monocular Edge Visual Odometry through Coarse-to-Fine Data Association](https://www.researchgate.net/publication/336056167_Robust_Monocular_Edge_Visual_Odometry_through_Coarse-to-Fine_Data_Association?_esc=publicationCoverPdf&el=1_x_3&enrichId=rgreq-82bc69ebf992513f26edb9e73f9e23eb-XXX&enrichSource=Y292ZXJQYWdlOzMzNjA1NjE2NztBUzo4Njk4NTc1Mjg2NTU4NzJAMTU4NDQwMTYwNDEyNQ%3D%3D)
+#### 69. [Math] 2020-03-24-[Learning 2D–3D Correspondences To Solve The Blind Perspective-n-Point Problem](https://arxiv.org/pdf/2003.06752.pdf)
+#### 70. [LSLAM] 2020-03-24-[An Experimental Evaluation of Robustness and Precision for Long-term LiDAR-based Localization in Highly Changing Environments](https://arxiv.org/pdf/2003.07726.pdf)
+#### 71. [AR] 2020-03-24-[A novel augmented reality framework based on monocular semi-dense simultaneous localization and mapping](https://sci-hub.tw/https://doi.org/10.1002/cav.1922)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
