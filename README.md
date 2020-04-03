@@ -85,10 +85,13 @@
 #### 69. [Math] 2020-03-24-[Learning 2D–3D Correspondences To Solve The Blind Perspective-n-Point Problem](https://arxiv.org/pdf/2003.06752.pdf)
 #### 70. [LSLAM] 2020-03-24-[An Experimental Evaluation of Robustness and Precision for Long-term LiDAR-based Localization in Highly Changing Environments](https://arxiv.org/pdf/2003.07726.pdf)
 #### 71. [AR] 2020-03-24-[A novel augmented reality framework based on monocular semi-dense simultaneous localization and mapping](https://sci-hub.tw/https://doi.org/10.1002/cav.1922)
+#### 72. [VSLAM] 2020-04-03-[OmniSLAM: Omnidirectional Localization and Dense Mapping for Wide-baseline Multi-camera Systems](https://arxiv.org/pdf/2003.08056.pdf)
+#### 73. [VSLAM] 2020-04-03-[Monocular Visual–Inertial SLAM Algorithm Combined with Wheel Speed Anomaly Detection](https://arxiv.org/pdf/2003.09901.pdf)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
 #### 2. [laser reconstruction] 2020-02-14-[Real-Time 3D Reconstruction of Thin Surface Based on Laser Line Scanner](https://www.researchgate.net/publication/338707435_Real-Time_3D_Reconstruction_of_Thin_Surface_Based_on_Laser_Line_Scanner) 
+#### 3. [Deep Reconstruction] 2020-04-03-[Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://arxiv.org/pdf/2003.10432.pdf) from magicleap
 
 ### Path Planning
 #### 1. [UAV] 2020-01-14-[Robust Real-time UAV Replanning Using Guided Gradient-based Optimization and Topological Paths](https://arxiv.org/pdf/1912.12644.pdf)Replanning method based on GTO.[code](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)
