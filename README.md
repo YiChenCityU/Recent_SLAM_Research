@@ -87,6 +87,9 @@
 #### 71. [AR] 2020-03-24-[A novel augmented reality framework based on monocular semi-dense simultaneous localization and mapping](https://sci-hub.tw/https://doi.org/10.1002/cav.1922)
 #### 72. [VSLAM] 2020-04-03-[OmniSLAM: Omnidirectional Localization and Dense Mapping for Wide-baseline Multi-camera Systems](https://arxiv.org/pdf/2003.08056.pdf)
 #### 73. [VSLAM] 2020-04-03-[Monocular Visual–Inertial SLAM Algorithm Combined with Wheel Speed Anomaly Detection](https://arxiv.org/pdf/2003.09901.pdf)
+#### 74. [VSLAM] 2020-04-07-[Removing Dynamic Objects for Static Scene Reconstruction using Light Fields](https://arxiv.org/pdf/2003.11076.pdf)
+#### 75. [VSLAM] 2020-04-07-[Multi-camera visual SLAM for off-road navigation](https://www.sciencedirect.com/science/article/pii/S0921889019308711)
+#### 76. [VSLAM] 2020-04-07-[Long-Term Loop Closure Detection through Visual-Spatial Information Preserving Multi-Order Graph Matching](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-GaoP.6907.pdf)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
