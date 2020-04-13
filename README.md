@@ -90,6 +90,17 @@
 #### 74. [VSLAM] 2020-04-07-[Removing Dynamic Objects for Static Scene Reconstruction using Light Fields](https://arxiv.org/pdf/2003.11076.pdf)
 #### 75. [VSLAM] 2020-04-07-[Multi-camera visual SLAM for off-road navigation](https://www.sciencedirect.com/science/article/pii/S0921889019308711)
 #### 76. [VSLAM] 2020-04-07-[Long-Term Loop Closure Detection through Visual-Spatial Information Preserving Multi-Order Graph Matching](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-GaoP.6907.pdf)
+#### 77. [VSLAM] 2020-04-13-[Coupling of localization and depth data for mapping using Intel RealSense T265 and D435i cameras](https://arxiv.org/pdf/2004.00269.pdf)
+#### 78. [Calibration] 2020-04-13-[On-the-Fly Camera and Lidar Calibration](https://www.mdpi.com/2072-4292/12/7/1137/pdf)
+#### 79. [Event Camera] 2020-04-13-[Single Image Optical Flow Estimation with an Event Camera](https://arxiv.org/pdf/2004.00347.pdf)
+#### 80. [VSLAM] 2020-04-13-[Monocular Camera Localization in Prior LiDAR Maps with 2D-3D Line Correspondences](https://arxiv.org/pdf/2004.00740.pdf) [code](https://github.com/levenberg/2D-3D-pose-tracking)
+#### 81. [Fusion] 2020-04-13-[Scene-Aware Error Modeling of LiDAR/Visual Odometry for Fusion-based Vehicle Localization](https://arxiv.org/pdf/2003.13109.pdf)
+#### 82. [Dataset] 2020-04-13-[TartanAir: A Dataset to Push the Limits of Visual SLAM](https://arxiv.org/pdf/2003.14338.pdf)
+#### 83. [VSLAM] 2020-04-13-[ClusterVO: Clustering Moving Instances and Estimating Visual Odometry for Self and Surroundings](https://arxiv.org/pdf/2003.12980.pdf)
+#### 84 [DeepSLAM] 2020-04-13-[DeepSLAM: A Robust Monocular SLAM System with Unsupervised Deep Learning](https://ieeexplore.ieee.org/abstract/document/9047170)
+#### 85 [Fusion] 2020-04-13-[Tightly-coupled Fusion of Global Positional Measurements in Optimization-based Visual-Inertial Odometry](https://arxiv.org/pdf/2003.04159.pdf)
+#### 86 [GPU] 2020-04-13-[Faster than FAST: GPU-Accelerated Frontend for High-Speed VIO](https://arxiv.org/pdf/2003.13493.pdf) [code](https://github.com/uzh-rpg/vilib)
+
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
