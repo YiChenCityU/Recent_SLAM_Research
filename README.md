@@ -100,7 +100,13 @@
 #### 84. [DeepSLAM] 2020-04-13-[DeepSLAM: A Robust Monocular SLAM System with Unsupervised Deep Learning](https://ieeexplore.ieee.org/abstract/document/9047170)
 #### 85. [Fusion] 2020-04-13-[Tightly-coupled Fusion of Global Positional Measurements in Optimization-based Visual-Inertial Odometry](https://arxiv.org/pdf/2003.04159.pdf)
 #### 86. [GPU] 2020-04-13-[Faster than FAST: GPU-Accelerated Frontend for High-Speed VIO](https://arxiv.org/pdf/2003.13493.pdf) [code](https://github.com/uzh-rpg/vilib)
-
+#### 87. [Descriptor] 2020-04-27-[BEBLID: Boosted Efficient Binary Local Image Descriptor](https://sci-hub.tw/https://doi.org/10.1016/j.patrec.2020.04.005) [code](https://github.com/iago-suarez/BEBLID)
+#### 88. [Doctor thesis] 2020-04-27-[Robust Visual SLAM in Challenging Environments with low-texture and Dynamic Illumination](https://riuma.uma.es/xmlui/bitstream/handle/10630/19479/TD_GOMEZ_OJEDA_Ruben.pdf?sequence=1&isAllowed=y)
+#### 89. [LSLAM] 2020-04-27-[CAE-LO: LiDAR Odometry Leveraging Fully Unsupervised Convolutional Auto-Encoder for Interest Point Detection and Feature Description](https://arxiv.org/pdf/2001.01354.pdf) [code](https://github.com/SRainGit/CAE-LO)
+#### 90. [VSLAM] 2020-04-27-[Object-oriented SLAM using Quadrics and Symmetry Properties for Indoor Environments](https://arxiv.org/pdf/2004.05303.pdf)
+#### 91. [VSLAM] 2020-04-27-[Online Initialization and Extrinsic Spatial-Temporal Calibration for Monocular Visual-Inertial Odometry](https://arxiv.org/pdf/2004.05534.pdf)
+#### 92. [VSLAM] 2020-04-27-[Latency Compensated Visual-Inertial Odometry for Agile Autonomous Flight](https://www.researchgate.net/publication/340650710_Latency_Compensated_Visual-Inertial_Odometry_for_Agile_Autonomous_Flight)
+#### 93. [Descriptor] 2020-04-27-[Visual Descriptor Learning from Monocular Video](https://arxiv.org/pdf/2004.07007.pdf)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
