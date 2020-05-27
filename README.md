@@ -120,7 +120,11 @@
 #### 104. [Line and point] 2020-05-25-[Leveraging Planar Regularities for Point Line Visual-Inertial Odometry](https://arxiv.org/pdf/2004.11969.pdf)
 #### 105. [Radar slam] 2020-05-25-[See Through Smoke: Robust Indoor Mapping with Low-cost mmWave Radar](http://www.cs.ox.ac.uk/files/11899/_MobiSys_20__milliMap.pdf)
 #### 106. [lidar] 2020-05-25-[Evaluating the Limits of a LiDAR for an Autonomous Driving Localization](https://ieeexplore.ieee.org/abstract/document/9059023)
-
+#### 107. [DL-VSLAM] 2020-05-27-[Towards End-to-end Learning of Visual Inertial Odometry with an EKF](https://www.computerrobotvision.org/proceedings/pdfs/CRV2020-1ugoWdlO2rSdvYvbAocrmh/989100a190/989100a190.pdf) [code](https://github.com/lichunshang/deep_ekf_vio)
+#### 108. [New sensor] 2020-05-27-[BIT-VO: Visual Odometry at 300 FPS using Binary Features from the Focal Plane](https://arxiv.org/pdf/2004.11186.pdf)
+#### 109. [VSLAM] 2020-05-27-[Point-Plane SLAM Using Supposed Planes for Indoor Environments](https://github.com/fishmarch/SP-SLAM) [code](https://github.com/fishmarch/SP-SLAM)
+#### 110. [VSLAM] 2020-05-27-[Indoor Localization Based on VIO System and Three-Dimensional Map Matching](https://www.mdpi.com/1424-8220/20/10/2790/pdf)
+#### 111. [Long term] 2020-05-27-[Dense Semantic 3D Map Based Long-Term Visual Localization with Hybrid Features](https://arxiv.org/pdf/2005.10766.pdf)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
@@ -133,7 +137,7 @@
 #### 3. [End-to-end navi] 2020-02-20-[BADGR: An Autonomous Self-Supervised Learning-Based Navigation System](https://arxiv.org/pdf/2002.05700.pdf) an end-to-end learning-based mobile robot navigation system. [code](https://sites.google.com/view/badgr)
 #### 4. [End-to-End] 2020-05-19-[Probabilistic End-to-End Vehicle Navigation in Complex Dynamic Environments with Multimodal Sensor Fusion](https://arxiv.org/pdf/2005.01935.pdf)
 #### 5. [Vision net] 2020-05-25-[VTGNet: A Vision-based Trajectory Generation Network for Autonomous Vehicles in Urban Environments](https://arxiv.org/pdf/2004.12591.pdf)
-
+#### 6. [Clutter Enviroment] 2020-05-27-[Navigation for Small Aerial Autonomous Vehicles in Cluttered Environment Architecture, Sensors, Algorithms, Applications](https://www.researchgate.net/publication/328760197_Machine_Learning_and_a_Small_Autonomous_Aerial_Vehicle_Part_1_Navigation_and_Supervised_Deep_Learning)
 
 ### Others.
 
