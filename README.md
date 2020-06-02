@@ -125,6 +125,9 @@
 #### 109. [VSLAM] 2020-05-27-[Point-Plane SLAM Using Supposed Planes for Indoor Environments](https://github.com/fishmarch/SP-SLAM) [code](https://github.com/fishmarch/SP-SLAM)
 #### 110. [VSLAM] 2020-05-27-[Indoor Localization Based on VIO System and Three-Dimensional Map Matching](https://www.mdpi.com/1424-8220/20/10/2790/pdf)
 #### 111. [Long term] 2020-05-27-[Dense Semantic 3D Map Based Long-Term Visual Localization with Hybrid Features](https://arxiv.org/pdf/2005.10766.pdf)
+#### 112. [Calibration] 2020-06-02-[Improvements to Target-Based 3D LiDAR to Camera Calibration](https://arxiv.org/pdf/1910.03126.pdf)
+#### 113. [VSLAM] 2020-06-02-[VDO-SLAM: A Visual Dynamic Object-aware SLAM System](https://arxiv.org/pdf/2005.11052.pdf) [code](https://github.com/halajun/vdo_slam)
+#### 114. [Loop Detect] 2020-06-02-[OverlapNet: Loop Closing for LiDAR-based SLAM](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf) [code](https://github.com/PRBonn/OverlapNet)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
@@ -138,6 +141,7 @@
 #### 4. [End-to-End] 2020-05-19-[Probabilistic End-to-End Vehicle Navigation in Complex Dynamic Environments with Multimodal Sensor Fusion](https://arxiv.org/pdf/2005.01935.pdf)
 #### 5. [Vision net] 2020-05-25-[VTGNet: A Vision-based Trajectory Generation Network for Autonomous Vehicles in Urban Environments](https://arxiv.org/pdf/2004.12591.pdf)
 #### 6. [Clutter Enviroment] 2020-05-27-[Navigation for Small Aerial Autonomous Vehicles in Cluttered Environment Architecture, Sensors, Algorithms, Applications](https://www.researchgate.net/publication/328760197_Machine_Learning_and_a_Small_Autonomous_Aerial_Vehicle_Part_1_Navigation_and_Supervised_Deep_Learning)
+
 
 ### Others.
 
