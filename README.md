@@ -3,7 +3,183 @@
 【回馈社区】跟踪SLAM前沿动态[2019](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2019.md), [2018版](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2018.md) .去年大概收录了500篇关于SLAM的论文，因为本人在企业重点研究的是VSLAM以及多传感器融合，所以并没有把全部论文精读，难免有漏的或者差的。今年重点是求精以及做好分类，继续做好本圈儿的服务工作。
 欢迎在Issues里发布招聘信息。
 ### ------------ ICRA 2020 
+OmniSLAM: Omnidirectional Localization and Dense Mapping for Wide-Baseline Multi-Camera Systems
+Real-Time Graph-Based SLAM with Occupancy Normal Distributions Transforms
+Spatio-Temporal Non-Rigid Registration of 3D Point Clouds of Plants
+Uncertainty-Based Adaptive Sensor Fusion for Visual-Inertial Odometry under Various Motion Characteristics
+Loam_livox: A Fast, Robust, High-Precision LiDAR Odometry and Mapping Package for LiDARs of Small FoV
+Active SLAM Using 3D Submap Saliency for Underwater Volumetric Exploration
+Are We Ready for Service Robots? the OpenLORIS-Scene Datasets for Lifelong SLAM
+Intensity Scan Context: Coding Intensity and Geometry Relations for Loop Closure Detection
+TextSLAM: Visual SLAM with Planar Text Features
+FlowNorm: A Learning-Based Method for Increasing Convergence Range of Direct Alignment
+Redesigning SLAM for Arbitrary Multi-Camera Systems
+Dynamic SLAM: The Need for Speed
+GradSLAM: Dense SLAM Meets Automatic Differentiation
+Long-Term Place Recognition through Worst-Case Graph Matching to Integrate Landmark Appearances and Spatial Relationships
+Linear RGB-D SLAM for Atlanta World
+Stereo Visual Inertial Odometry with Online Baseline Calibration
+Lidar-Monocular Visual Odometry Using Point and Line Features
+Probabilistic Data Association Via Mixture Models for Robust Semantic SLAM
+Closed-Loop Benchmarking of Stereo Visual-Inertial SLAM Systems: Understanding the Impact of Drift and Latency on Tracking Accuracy
+Metrically-Scaled Monocular SLAM Using Learned Scale Factors
+Inertial-Only Optimization for Visual-Inertial Initialization
+Hierarchical Quadtree Feature Optical Flow Tracking Based Sparse Pose-Graph Visual-Inertial SLAM
+Keypoint Description by Descriptor Fusion Using Autoencoders
+Towards Noise Resilient SLAM
+LAMP: Large-Scale Autonomous Mapping and Positioning for Exploration of Perceptually-Degraded Subterranean Environments
+Modeling Semi-Static Scenes with Persistence Filtering in Visual SLAM
+Broadcast Your Weaknesses: Cooperative Active Pose-Graph SLAM for Multiple Robots
+FlowFusion: Dynamic Dense RGB-D SLAM Based on Optical Flow
+Efficient Algorithms for Maximum Consensus Robust Fitting (I)
+MulRan: Multimodal Range Dataset for Urban Place Recognition
+GPO: Global Plane Optimization for Fast and Accurate Monocular SLAM Initialization
+Large-Scale Volumetric Scene Reconstruction Using LiDAR
+Topological Mapping for Manhattan-Like Repetitive Environments
+Structure-Aware COP-SLAM
+Robust RGB-D Camera Tracking Using Optimal Key-Frame Selection
+Voxgraph: Globally Consistent, Volumetric Mapping Using Signed Distance Function Submaps
+DeepFactors: Real-Time Probabilistic Dense Monocular SLAM
+DOOR-SLAM: Distributed, Online, and Outlier Resilient SLAM for Robotic Teams
+Windowed Bundle Adjustment Framework for Unsupervised Learning of Monocular Depth Estimation with U-Net Extension and Clip Loss
+StructVIO : Visual-Inertial Odometry with Structural Regularity of Man-Made Environments (I)
+Flow-Motion and Depth Network for Monocular Stereo and Beyond
+Online LiDAR-SLAM for Legged Robots with Robust Registration and Deep-Learned Loop Closure
+Hybrid Camera Pose Estimation with Online Partitioning for SLAM
+Analysis of Minima for Geodesic and Chordal Cost for a Minimal 2D Pose-Graph SLAM Problem
+Voxel Map for Visual SLAM
+LiDAR Inertial Odometry Aided Robust LiDAR Localization System in Changing City Scenes
+Localization
+ROI-Cloud: A Key Region Extraction Method for LiDAR Odometry and Localization
+To Learn or Not to Learn: Visual Localization from Essential Matrices
+Hierarchical Multi-Process Fusion for Visual Place Recognition
+Camera Tracking in Lighting Adaptable Maps of Indoor Environments
+Fast, Compact and Highly Scalable Visual Place Recognition through Sequence-Based Matching of Overloaded Representations
+Vision-Based Multi-MAV Localization with Anonymous Relative Measurements Using Coupled Probabilistic Data Association Filter
+UrbanLoco: A Full Sensor Suite Dataset for Mapping and Localization in Urban Scenes
+Map As the Hidden Sensor: Fast Odometry-Based Global Localization
+Joint Human Pose Estimation and Stereo 3D Localization
+Self-Supervised Deep Pose Corrections for Robust Visual Odometry
+Ultra-High-Accuracy Visual Marker for Indoor Precise Positioning
+Accurate Position Tracking with a Single UWB Anchor
+Association-Free Multilateration Based on Times of Arrival
+Adversarial Feature Disentanglement for Place Recognition across Changing Appearance
+A Fast and Accurate Solution for Pose Estimation from 3D Correspondences
+Ground Texture Based Localization Using Compact Binary Descriptors
+Reliable Data Association for Feature-Based Vehicle Localization Using Geometric Hashing Methods
+Vehicle Localization Based on Visual Lane Marking and Topological Map Matching
+RISE: A Novel Indoor Visual Place Recogniser
+Beyond Photometric Consistency: Gradient-Based Dissimilarity for Improving Visual Odometry and Stereo Matching
+ICS: Incremental Constrained Smoothing for State Estimation
+Drone-Aided Localization in LoRa IoT Networks
+A Fast and Practical Method of Indoor Localization for Resource-Constrained Devices with Limited Sensing
+GN-Net: The Gauss-Newton Loss for Multi-Weather Relocalization
+A Data-Driven Motion Prior for Continuous-Time Trajectory Estimation on SE(3)
+Estimation with Fast Feature Selection in Robot Visual Navigation
+A Tightly Coupled VLC-Inertial Localization System by EKF
+Localization of Inspection Device Along Belt Conveyors with Multiple Branches Using Deep Neural Networks
+Localising PMDs through CNN Based Perception of Urban Streets
+The Complex-Step Derivative Approximation on Matrix Lie Groups
+Hybrid Localization Using Model and Learning-Based Methods: Fusion of Monte Carlo and E2E Localizations Via Importance Sampling
+Measurement Scheduling for Cooperative Localization in Resource-Constrained Conditions
+Quantifying Robot Localization Safety: A New Integrity Monitoring Method for Fixed-Lag Smoothing
+Visual Localization with Google Earth Images for Robust Global Pose Estimation of UAVs
+Relax and Recover: Guaranteed Range-Only Continuous Localization
+SPRINT: Subgraph Place Recognition for Intelligent Transportation
+OneShot Global Localization: Instant LiDAR-Visual Pose Estimation
+Relocalization on Submaps: Multi-Session Mapping for Planetary Rovers Equipped with Stereo Cameras
+DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination
+RSL-Net: Localising in Satellite Images from a Radar on the Ground
+Kidnapped Radar: Topological Radar Localisation Using Rotationally-Invariant Metric Learning
+Global Visual Localization in LiDAR-Maps through Shared 2D-3D Embedding Space
+Unsupervised Learning Methods for Visual Place Recognition in Discretely and Continuously Changing Environments
+LOL: Lidar-Only Odometry and Localization in 3D Point Cloud Maps
+Localising Faster: Efficient and Precise Lidar-Based Robot Localisation in Large-Scale Environments
+LiStereo: Generate Dense Depth Maps from LIDAR and Stereo Imagery
+Monocular Visual-Inertial Odometry in Low-Textured Environments with Smooth Gradients: A Fully Dense Direct Filtering Approach
+Gated Recurrent Fusion to Learn Driving Behaviour from Temporal Multimodal Data
+Cooperative Visual-Inertial Odometry: Analysis of Singularities, Degeneracies and Minimal Cases
+A Lightweight and Accurate Localization Algorithm Using Multiple Inertial Measurement Units
+Accelerating the Estimation of Metabolic Cost Using Signal Derivatives: Implications for Optimization and Evaluation of Wearable Robots (I)
+Deep Depth Fusion for Black, Transparent, Reﬂective and Texture-Less Objects
+LiDAR-Enhanced Structure-From-Motion
+Low Latency and Low-Level Sensor Fusion for Automotive Use-Cases
+Spatiotemporal Camera-LiDAR Calibration: A Targetless and Structureless Approach
+Robot-Assisted and Wearable Sensor-Mediated Autonomous Gait Analysis
+Gaussian Process Preintegration for Inertial-Aided State Estimation
+A Code for Unscented Kalman Filtering on Manifolds (UKF-M)
+Efficient and Precise Sensor Fusion for Non-Linear Systems with Out-Of-Sequence Measurements by Example of Mobile Robotics
+UNO: Uncertainty-Aware Noisy-Or Multimodal Fusion for Unanticipated Input Degradation
+Intermittent GPS-Aided VIO: Online Initialization and Calibration
+A Mathematical Framework for IMU Error Propagation with Applications to Preintegration
+Radar-Inertial Ego-Velocity Estimation for Visually DegradedEnvironments
+Observability Analysis of Flight State Estimation for UAVs and Experimental Validation
+OpenVINS: A Research Platform for Visual-Inertial Estimation
+Decentralized Collaborative State Estimation for Aided Inertial Navigation
+Analytic Combined IMU Integration (ACI^2) for Visual Inertial Navigation
+Second-Order Kinematics for Floating-Base Robots Using the Redundant Acceleration Feedback of an Artificial Sensory Skin
+Clock-Based Time Synchronization for an Event-Based Camera Dataset Acquisition Platform
+Set-Membership State Estimation by Solving Data Association
+SLOAM: Semantic Lidar Odometry and Mapping for Forest Inventory
+Unified Intrinsic and Extrinsic Camera and LiDAR Calibration under Uncertainties
+AC/DCC : Accurate Calibration of Dynamic Camera Clusters for Visual SLAM
+Analytic Plane Covariances Construction for Precise Planarity-Based Extrinsic Calibration of Camera and LiDAR
+A Stable Adaptive Observer for Hard-Iron and Soft-Iron Bias Calibration and Compensation for Two-Axis Magnetometers: Theory and Experimental Evaluation
+Extrinsic Calibration of an Eye-In-Hand 2D LiDAR Sensor in Unstructured Environments Using ICP
+Geometric Robot Dynamic Identification: A Convex Programming Approach (I)
+A Novel Calibration Method between a Camera and a 3D LiDAR with Infrared Images
+Online Camera-LiDAR Calibration with Sensor Semantic Information
+Precise 3D Calibration of Wafer Handling Robot by Visual Detection and Tracking of Elliptic-Shape Wafers
+Globally Optimal Relative Pose Estimation for Camera on a Selfie Stick
+Online Calibration of Exterior Orientations of a Vehicle-Mounted Surround-View Camera System
+Learning Camera Miscalibration Detection
+Exploring Performance Bounds of Visual Place Recognition Using Extended Precision
+Deep Reinforcement Learning for Instruction Following Visual Navigation in 3D Maze-Like Environments
+Aggressive Perception-Aware Navigation Using Deep Optical Flow Dynamics and PixelMPC
+Visual-Inertial Mapping with Non-Linear Factor Recovery
+Interactive Gibson Benchmark: A Benchmark for Interactive Navigation in Cluttered Environments
+Highly Robust Visual Place Recognition through Spatial Matching of CNN Features
+Robust and Efficient Estimation of Absolute Camera Pose for Monocular Visual Odometry
+Robust Vision-Based Obstacle Avoidance for Micro Aerial Vehicles in Dynamic Environments
+Proximity Estimation Using Vision Features Computed on Sensor
+Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles
+EgoTEB: Egocentric, Perception Space Navigation Using Timed-Elastic-Bands
+Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection
+Reliable Frame-To-Frame Motion Estimation for Vehicle-Mounted Surround-View Camera Systems
+Enabling Topological Planning with Monocular Vision
+DeepMEL: Compiling Visual Multi-Experience Localization into a Deep Neural Network
+SnapNav: Learning Mapless Visual Navigationwith Sparse Directional Guidance and Visual Reference
+Kimera: An Open-Source Library for Real-Time Metric-Semantic Localization and Mapping
+CityLearn: Diverse Real-World Environments for Sample-Efficient Navigation Policy Learning
+Constrained Filtering-Based Fusion of Images, Events, and Inertial Measurements for Pose Estimation
+Schmidt-EKF-Based Visual-Inertial Moving Object Tracking
+Learning View and Target Invariant Visual Servoing for Navigation
+Tightly-Coupled Single-Anchor Ultra-Wideband-Aided Monocular Visual Odometry System
+Scaling Local Control to Large-Scale Topological Navigation
+Zero-Shot Imitation Learning from Demonstrations for Legged Robot Visual Navigation
+Test Your SLAM! the SubT-Tunnel Dataset and Metric for Mapping
+YCB-M: A Multi-Camera RGB-D Dataset for Object Recognition and 6DoF Pose Estimation
+A Unified Framework for Piecewise Semantic Reconstruction in Dynamic Scenes Via Exploiting Superpixel Relations
+Keyframe-Based Dense Mapping with the Graph of View-Dependent Local Maps
+Informative Path Planning for Active Mapping under Localization Uncertainty
+Ensemble of Sparse Gaussian Process Experts for Implicit Surface Mapping with Streaming Data
+Robust Method for Removing Dynamic Objects from Point Clouds
+Skeleton-Based Conditionally Independent Gaussian Process Implicit Surfaces for Fusion in Sparse to Dense 3D Reconstruction
+Motion Estimation in Occupancy Grid Maps in Stationary Settings Using Recurrent Neural Networks
+A Divide and Conquer Method for 3D Registration of Inhomogeneous, Partially Overlapping Scans with Fourier Mellin SOFT (FMS)
+Estimating Motion Uncertainty with Bayesian ICP
+Actively Mapping Industrial Structures with Information Gain-Based Planning on a Quadruped Robot
+Efficient Covisibility-Based Image Matching for Large-Scale SfM
+Probabilistic TSDF Fusion Using Bayesian Deep Learning for Dense 3D Reconstruction with a Single RGB Camera
+A Volumetric Albedo Framework for 3D Imaging Sonar Reconstruction
+Map Management Approach for SLAM in Large-Scale Indoor and Outdoor Areas
+A Hierarchical Framework for Collaborative Probabilistic Semantic Mapping
+Autonomous Navigation in Unknown Environments Using Sparse Kernel-Based Occupancy Mapping
+Hybrid Topological and 3D Dense Mapping through Autonomous Exploration for Large Indoor Environments
+Resolving Marker Pose Ambiguity by Robust Rotation Averaging with Clique Constraints
+Moving Object Detection for Visual Odometry in a Dynamic Environment Based on Occlusion Accumulation
 ### ------------ ICRA 2020 终止线 ----------
+
 ### ------------ CVPR 2020 
 ### ------------ CVPR 2020 终止线 ----------
 ### ------------ ECCV 2020 
