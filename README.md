@@ -316,12 +316,23 @@
 #### 125. [Math] 2020-06-16-[Least Squares Optimization: from Theory to Practice](https://arxiv.org/pdf/2002.11051.pdf)
 #### 126. [VSLAM] 2020-06-16-[Plug-and-Play SLAM: A Unified SLAM Architecture for Modularity and Ease of Use](https://arxiv.org/pdf/2003.00754.pdf)
 #### 127. [Thesis] 2020-06-16-[Significance of Omnidirectional Fisheye Cameras for Feature-based Visual SLAM](http://raphaelchang.com/MEng_Thesis_Chang.pdf)
+#### 128. [Autodrive] 2020-07-07-[On the Design and Development of a Self-Driving Car for the SAE AutoDrive Challenge](http://scholar.google.com/scholar_url?url=https://tspace.library.utoronto.ca/bitstream/1807/100988/4/Burnett_Keenan_%2520_202006_MAS_thesis.pdf&hl=en&sa=X&d=6714439579150522306&scisig=AAGBfm3jfDtlg6kV_BcZDlnfOlgaSPKNnw&nossl=1&oi=scholaralrt&hist=3Pwx2kMAAAAJ:7315593912237841010:AAGBfm0pBBSURff_Req2TeJVte4_NbU3cg&amp=)
+#### 129. [Math] 2020-07-07-[Factor Graph-Based Smoothing Without Matrix Inversion for Highly Precise Localization](https://sci-hub.tw/10.1109/TCST.2020.3001387)
+#### 130. [VSLAM] 2020-07-07-[Robust and Autonomous Stereo Visual-Inertial Navigation for Non-Holonomic Mobile Robots](https://sci-hub.tw/10.1109/TVT.2020.3004163)
+#### 131. [GPS] 2020-07-07-[Time-Relative RTK-GNSS: GNSS Loop Closure in Pose Graph Optimization](https://sci-hub.tw/https://ieeexplore.ieee.org/document/9121671)
+#### 132. [Deep VSLAM] 2020-07-07-[https://sci-hub.tw/10.1109/TRO.2020.3001674](https://sci-hub.tw/10.1109/TRO.2020.3001674)
+#### 133. [VSLAM] 2020-07-07-[MIMC-VINS: A Versatile and Resilient Multi-IMU Multi-Camera Visual-Inertial Navigation System](https://arxiv.org/pdf/2006.15699.pdf)
+#### 134. [IMU] 2020-07-07-[Online IMU Intrinsic Calibration: Is It Necessary?](http://www.roboticsproceedings.org/rss16/p026.pdf)
+#### 135. [Event camera] 2020-07-07-[Event-Based Neuromorphic Vision for Autonomous Driving](https://sci-hub.tw/10.1109/MSP.2020.2985815)
+#### 136. [LSLAM] 2020-07-07-[Increased Accuracy For Fast Moving LiDARS:Correction of Distorted Point Clouds](https://www.tobiasrenzler.com/documents/lidar_distortion_correction.pdf)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
 #### 2. [laser reconstruction] 2020-02-14-[Real-Time 3D Reconstruction of Thin Surface Based on Laser Line Scanner](https://www.researchgate.net/publication/338707435_Real-Time_3D_Reconstruction_of_Thin_Surface_Based_on_Laser_Line_Scanner) 
 #### 3. [Deep Reconstruction] 2020-04-03-[Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://arxiv.org/pdf/2003.10432.pdf) from magicleap
 #### 4. [User-guided] 2020-05-19-[User-guided 3D reconstruction using multi-view stereo](https://dl.acm.org/doi/fullHtml/10.1145/3384382.3384530)
+#### 5. [Learned based] 2020-07-07-[On the generalization of learning-based 3D reconstruction](https://arxiv.org/pdf/2006.15427.pdf)
+
 ### Path Planning
 #### 1. [UAV] 2020-01-14-[Robust Real-time UAV Replanning Using Guided Gradient-based Optimization and Topological Paths](https://arxiv.org/pdf/1912.12644.pdf)Replanning method based on GTO.[code](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)
 #### 2. [Auto exploration] 2020-01-14-[3D Exploration and Navigation with Optimal-RRT Planners for Ground Robots in Indoor Incidents](https://www.researchgate.net/publication/338367746_3D_Exploration_and_Navigation_with_Optimal-RRT_Planners_for_Ground_Robots_in_Indoor_Incidents)
@@ -330,8 +341,6 @@
 #### 5. [Vision net] 2020-05-25-[VTGNet: A Vision-based Trajectory Generation Network for Autonomous Vehicles in Urban Environments](https://arxiv.org/pdf/2004.12591.pdf)
 #### 6. [Clutter Enviroment] 2020-05-27-[Navigation for Small Aerial Autonomous Vehicles in Cluttered Environment Architecture, Sensors, Algorithms, Applications](https://www.researchgate.net/publication/328760197_Machine_Learning_and_a_Small_Autonomous_Aerial_Vehicle_Part_1_Navigation_and_Supervised_Deep_Learning)
 
-
-### Others.
 
 ## SLAM 能力图 
 
