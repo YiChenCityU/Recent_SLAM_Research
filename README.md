@@ -326,6 +326,12 @@
 #### 135. [Event camera] 2020-07-07-[Event-Based Neuromorphic Vision for Autonomous Driving](https://sci-hub.tw/10.1109/MSP.2020.2985815)
 #### 136. [LSLAM] 2020-07-07-[Increased Accuracy For Fast Moving LiDARS:Correction of Distorted Point Clouds](https://www.tobiasrenzler.com/documents/lidar_distortion_correction.pdf)
 #### 137. [LSLAM] 2020-07-08-[Large-Scale Volumetric Scene Reconstruction using LiDAR](https://ras.papercept.net/proceedings/ICRA20/1401.pdf)
+#### 138. [VSLAM] 2020-07-14-[Stereo Visual Inertial Pose Estimation Based on Feedforward-Feedback Loops](https://arxiv.org/pdf/2007.02250.pdf)
+#### 139. [VSLAM] 2020-07-14-[AVP-SLAM: Semantic Visual Mapping and Localization for Autonomous Vehicles in the Parking Lot](https://arxiv.org/pdf/2007.01813.pdf)
+#### 140. [LSLAM] 2020-07-14-[LOL: Lidar-only Odometry and Localization in 3D point cloud maps*](https://arxiv.org/pdf/2007.01595.pdf)
+#### 141. [LSLAM] 2020-07-14-[LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping](https://arxiv.org/pdf/2007.00258.pdf)
+#### 142. [Dataset] 2020-07-14-[UrbanLoco: A Full Sensor Suite Dataset for Mapping and Localization in Urban Scenes](https://arxiv.org/pdf/1912.09513.pdf)
+
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
 #### 2. [laser reconstruction] 2020-02-14-[Real-Time 3D Reconstruction of Thin Surface Based on Laser Line Scanner](https://www.researchgate.net/publication/338707435_Real-Time_3D_Reconstruction_of_Thin_Surface_Based_on_Laser_Line_Scanner) 
