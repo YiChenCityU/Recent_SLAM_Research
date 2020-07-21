@@ -331,7 +331,8 @@
 #### 140. [LSLAM] 2020-07-14-[LOL: Lidar-only Odometry and Localization in 3D point cloud maps*](https://arxiv.org/pdf/2007.01595.pdf)
 #### 141. [LSLAM] 2020-07-14-[LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping](https://arxiv.org/pdf/2007.00258.pdf)
 #### 142. [Dataset] 2020-07-14-[UrbanLoco: A Full Sensor Suite Dataset for Mapping and Localization in Urban Scenes](https://arxiv.org/pdf/1912.09513.pdf)
-
+#### 143. [VSLAM] 2020-07-14-[Online Photometric Calibration of Optical Flow Visual-Inertial SLAM System](https://ieeexplore.ieee.org/abstract/document/9139073)
+#### 144. [VSLAM] 2020-07-14-[CPL-SLAM: Efficient and Certifiably Correct Planar Graph-Based SLAM Using the Complex Number Representation](https://arxiv.org/pdf/2007.06708.pdf)
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
 #### 2. [laser reconstruction] 2020-02-14-[Real-Time 3D Reconstruction of Thin Surface Based on Laser Line Scanner](https://www.researchgate.net/publication/338707435_Real-Time_3D_Reconstruction_of_Thin_Surface_Based_on_Laser_Line_Scanner) 
