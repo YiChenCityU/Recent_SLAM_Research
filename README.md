@@ -335,6 +335,7 @@
 #### 144. [VSLAM] 2020-07-14-[CPL-SLAM: Efficient and Certifiably Correct Planar Graph-Based SLAM Using the Complex Number Representation](https://arxiv.org/pdf/2007.06708.pdf)
 #### 145. [VSLAM] 2020-07-22-[Hierarchical Clustering Matching for Features with Repetitive Patterns in Visual Odometr](https://link.springer.com/article/10.1007/s10846-020-01230-z)
 #### 146. [semantic VSLAM] 2020-07-22-[VPS-SLAM: Visual Planar Semantic SLAM for Aerial Robotic Systems](https://ieeexplore.ieee.org/document/9045978/authors#authors)
+#### 147. [MSCKF based] 2020-07-22-[Lightweight hybrid visual-inertial odometry with4closed-form zero velocity update](https://reader.elsevier.com/reader/sd/pii/S1000936120301722?token=0A59173FAB91FF731BF7537B7B2A14867F16A0ACC65AD8307CD6207DC00D329EEC1D7182A6DB68C98FF8A33FDB9FCA65)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
