@@ -333,21 +333,16 @@
 #### 142. [Dataset] 2020-07-14-[UrbanLoco: A Full Sensor Suite Dataset for Mapping and Localization in Urban Scenes](https://arxiv.org/pdf/1912.09513.pdf)
 #### 143. [VSLAM] 2020-07-14-[Online Photometric Calibration of Optical Flow Visual-Inertial SLAM System](https://ieeexplore.ieee.org/abstract/document/9139073)
 #### 144. [VSLAM] 2020-07-14-[CPL-SLAM: Efficient and Certifiably Correct Planar Graph-Based SLAM Using the Complex Number Representation](https://arxiv.org/pdf/2007.06708.pdf)
+#### 145. [VSLAM] 2020-07-22-[Hierarchical Clustering Matching for Features with Repetitive Patterns in Visual Odometr](https://link.springer.com/article/10.1007/s10846-020-01230-z)
+#### 146. [semantic VSLAM] 2020-07-22-[VPS-SLAM: Visual Planar Semantic SLAM for Aerial Robotic Systems](https://ieeexplore.ieee.org/document/9045978/authors#authors)
+
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
 #### 2. [laser reconstruction] 2020-02-14-[Real-Time 3D Reconstruction of Thin Surface Based on Laser Line Scanner](https://www.researchgate.net/publication/338707435_Real-Time_3D_Reconstruction_of_Thin_Surface_Based_on_Laser_Line_Scanner) 
 #### 3. [Deep Reconstruction] 2020-04-03-[Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://arxiv.org/pdf/2003.10432.pdf) from magicleap
 #### 4. [User-guided] 2020-05-19-[User-guided 3D reconstruction using multi-view stereo](https://dl.acm.org/doi/fullHtml/10.1145/3384382.3384530)
 #### 5. [Learned based] 2020-07-07-[On the generalization of learning-based 3D reconstruction](https://arxiv.org/pdf/2006.15427.pdf)
-
-### Path Planning
-#### 1. [UAV] 2020-01-14-[Robust Real-time UAV Replanning Using Guided Gradient-based Optimization and Topological Paths](https://arxiv.org/pdf/1912.12644.pdf)Replanning method based on GTO.[code](https://github.com/HKUST-Aerial-Robotics/Fast-Planner)
-#### 2. [Auto exploration] 2020-01-14-[3D Exploration and Navigation with Optimal-RRT Planners for Ground Robots in Indoor Incidents](https://www.researchgate.net/publication/338367746_3D_Exploration_and_Navigation_with_Optimal-RRT_Planners_for_Ground_Robots_in_Indoor_Incidents)
-#### 3. [End-to-end navi] 2020-02-20-[BADGR: An Autonomous Self-Supervised Learning-Based Navigation System](https://arxiv.org/pdf/2002.05700.pdf) an end-to-end learning-based mobile robot navigation system. [code](https://sites.google.com/view/badgr)
-#### 4. [End-to-End] 2020-05-19-[Probabilistic End-to-End Vehicle Navigation in Complex Dynamic Environments with Multimodal Sensor Fusion](https://arxiv.org/pdf/2005.01935.pdf)
-#### 5. [Vision net] 2020-05-25-[VTGNet: A Vision-based Trajectory Generation Network for Autonomous Vehicles in Urban Environments](https://arxiv.org/pdf/2004.12591.pdf)
-#### 6. [Clutter Enviroment] 2020-05-27-[Navigation for Small Aerial Autonomous Vehicles in Cluttered Environment Architecture, Sensors, Algorithms, Applications](https://www.researchgate.net/publication/328760197_Machine_Learning_and_a_Small_Autonomous_Aerial_Vehicle_Part_1_Navigation_and_Supervised_Deep_Learning)
-
+#### 6. [Large-scale] 2020-07-22-[Large-scale outdoor scene reconstruction and correction with vision](https://sci-hub.tw/https://doi.org/10.1177/0278364920937052)
 
 ## SLAM 能力图 
 
