@@ -336,7 +336,9 @@
 #### 145. [VSLAM] 2020-07-22-[Hierarchical Clustering Matching for Features with Repetitive Patterns in Visual Odometr](https://link.springer.com/article/10.1007/s10846-020-01230-z)
 #### 146. [semantic VSLAM] 2020-07-22-[VPS-SLAM: Visual Planar Semantic SLAM for Aerial Robotic Systems](https://ieeexplore.ieee.org/document/9045978/authors#authors)
 #### 147. [MSCKF based] 2020-07-22-[Lightweight hybrid visual-inertial odometry with4closed-form zero velocity update](https://reader.elsevier.com/reader/sd/pii/S1000936120301722?token=0A59173FAB91FF731BF7537B7B2A14867F16A0ACC65AD8307CD6207DC00D329EEC1D7182A6DB68C98FF8A33FDB9FCA65)
-
+#### 148. [FPGA] 2020-07-24-[OpenCL implementation of a SLAM system on an SoC-FPGA](https://sci-hub.tw/https://doi.org/10.1016/j.sysarc.2020.101825)
+#### 149. [DL-feature] 2020-07-24-[Robust Place Recognition Using Illumination-compensated Image-based Deep Convolutional Autoencoder Features](https://sci-hub.tw/https://doi.org/10.1007/s12555-019-0891-x)
+#### 150. [DL-SLAM] 2020-07-24-[A Survey on Deep Learning for Localization and Mapping:Towards the Age of Spatial Machine Intelligence](https://arxiv.org/pdf/2006.12567.pdf)
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
 #### 2. [laser reconstruction] 2020-02-14-[Real-Time 3D Reconstruction of Thin Surface Based on Laser Line Scanner](https://www.researchgate.net/publication/338707435_Real-Time_3D_Reconstruction_of_Thin_Surface_Based_on_Laser_Line_Scanner) 
