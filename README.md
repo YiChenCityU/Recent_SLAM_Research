@@ -339,6 +339,12 @@
 #### 148. [FPGA] 2020-07-24-[OpenCL implementation of a SLAM system on an SoC-FPGA](https://sci-hub.tw/https://doi.org/10.1016/j.sysarc.2020.101825)
 #### 149. [DL-feature] 2020-07-24-[Robust Place Recognition Using Illumination-compensated Image-based Deep Convolutional Autoencoder Features](https://sci-hub.tw/https://doi.org/10.1007/s12555-019-0891-x)
 #### 150. [DL-SLAM] 2020-07-24-[A Survey on Deep Learning for Localization and Mapping:Towards the Age of Spatial Machine Intelligence](https://arxiv.org/pdf/2006.12567.pdf)
+#### 151. [VSLAM] 2020-07-27-[Accurate On-line Extrinsic Calibration for a Multi-camera SLAM System](https://sci-hub.tw/10.1109/UR49135.2020.9144877)
+#### 152. [Feature] 2020-07-27-[Learning Monocular Visual Odometry via Self-Supervised Long-Term Modeling](https://arxiv.org/pdf/2007.10983.pdf)
+#### 152. [VSLAM] 2020-07-27-[ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM](https://arxiv.org/pdf/2007.11898.pdf)
+#### 152. [VSLAM] 2020-07-27-[Privacy Preserving Visual SLAM](https://arxiv.org/pdf/2007.10361.pdf)
+#### 152. [Feature] 2020-07-27-[Online Invariance Selection for Local Feature Descriptors](https://arxiv.org/pdf/2007.08988.pdf)
+
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
 #### 2. [laser reconstruction] 2020-02-14-[Real-Time 3D Reconstruction of Thin Surface Based on Laser Line Scanner](https://www.researchgate.net/publication/338707435_Real-Time_3D_Reconstruction_of_Thin_Surface_Based_on_Laser_Line_Scanner) 
