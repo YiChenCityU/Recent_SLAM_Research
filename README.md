@@ -360,6 +360,12 @@
 #### 169. [Multi camera calibration] 2020-08-10-[Infrastructure-based Multi-Camera Calibration using Radial Projections](https://arxiv.org/pdf/2007.15330.pdf)
 #### 170. [VSLAM] 2020-08-10-[Online simultaneous localization and mapping with detection and tracking of moving objects](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.2219&rep=rep1&type=pdf)
 #### 171. [Bionic eyes slam] 2020-08-10-[Real-Time Robust Stereo Visual SLAM System Based on Bionic Eyes](https://ieeexplore.ieee.org/abstract/document/9149675)
+#### 172. [Re-localization] 2020-08-12-[Beyond Controlled Environments: 3D Camera Re-Localization in Changing Indoor Scenes](https://arxiv.org/pdf/2008.02004.pdf)
+#### 173. [VSLAM] 2020-08-12-[A Partial Sparsification Scheme for Visual-Inertial Odometry](https://ieeexplore.ieee.org/abstract/document/9159002/authors#authors)
+#### 174. [VSLAM] 2020-08-12-[Structure-SLAM: Low-Drift Monocular SLAM in Indoor Environments](https://arxiv.org/pdf/2008.01963.pdf)
+#### 175. [VSLAM] 2020-08-12-[A Tightly-coupled Semantic SLAM System with Visual, Inertialand Surround-view Sensors for Autonomous Indoor Parking](https://sse.tongji.edu.cn/linzhang/files/VISSLAM.pdf)
+#### 176. [Multi_SLAM] 2020-08-12-[Real-Time Multi-SLAM System for Agent Localization and 3D Mapping in Dynamic Scenarios](https://hal.inria.fr/hal-02913098/document)
+#### 177. [AR+navigation] 2020-08-12-[An Augmented Reality Interaction Interface for Autonomous Drone](https://arxiv.org/pdf/2008.02234.pdf)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
