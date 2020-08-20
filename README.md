@@ -366,7 +366,12 @@
 #### 175. [VSLAM] 2020-08-12-[A Tightly-coupled Semantic SLAM System with Visual, Inertialand Surround-view Sensors for Autonomous Indoor Parking](https://sse.tongji.edu.cn/linzhang/files/VISSLAM.pdf)
 #### 176. [Multi_SLAM] 2020-08-12-[Real-Time Multi-SLAM System for Agent Localization and 3D Mapping in Dynamic Scenarios](https://hal.inria.fr/hal-02913098/document)
 #### 177. [AR+navigation] 2020-08-12-[An Augmented Reality Interaction Interface for Autonomous Drone](https://arxiv.org/pdf/2008.02234.pdf)
-
+#### 178. [PNP] 2020-08-20-[A Consistently Fast and Globally Optimal Solution to the Perspective-n-Point Problem](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460460.pdf)
+#### 179. [Line seg] 2020-08-20-[LGNN: a Context-aware Line Segment Detector](https://arxiv.org/pdf/2008.05892.pdf)
+#### 180. [Deep Feature] 2020-08-20-[DXSLAM: A Robust and Efficient Visual SLAM System with Deep Features](https://arxiv.org/pdf/2008.05416.pdf)
+#### 181. [Calibration] 2020-08-20-[On-the-fly Targetless Extrinsics Calibration For Multi-Stereo Systems Without Field-of-View Overlap](https://www.ri.cmu.edu/wp-content/uploads/2020/08/Chenfeng_Thesis-3.pdf)
+#### 182. [DVS] 2020-08-20-[IDOL: A Framework for IMU-DVS Odometry using Lines](https://arxiv.org/pdf/2008.05749.pdf)
+#### 183. [VSLAM] 2020-08-20-[Pose Estimation for Vehicle-mounted Cameras via Horizontal and Vertical Planes](https://arxiv.org/pdf/2008.05743.pdf)
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
 #### 2. [laser reconstruction] 2020-02-14-[Real-Time 3D Reconstruction of Thin Surface Based on Laser Line Scanner](https://www.researchgate.net/publication/338707435_Real-Time_3D_Reconstruction_of_Thin_Surface_Based_on_Laser_Line_Scanner) 
@@ -374,7 +379,7 @@
 #### 4. [User-guided] 2020-05-19-[User-guided 3D reconstruction using multi-view stereo](https://dl.acm.org/doi/fullHtml/10.1145/3384382.3384530)
 #### 5. [Learned based] 2020-07-07-[On the generalization of learning-based 3D reconstruction](https://arxiv.org/pdf/2006.15427.pdf)
 #### 6. [Large-scale] 2020-07-22-[Large-scale outdoor scene reconstruction and correction with vision](https://sci-hub.tw/https://doi.org/10.1177/0278364920937052)
-
+#### 7. [Deep] 2020-08-20-[An Accurate, Robust Visual Odometry and Detail-preserving Reconstruction Syste](http://www.3dgp.net/paper/2020/An%20Accurate,%20Robust%20Visual%20Odometry%20and%20Detail-preserving%20Reconstruction%20System.pdf)
 ## SLAM 能力图 
 
 <img src="https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM%E8%83%BD%E5%8A%9B%E5%9B%BE.png" width ="300" height="550" />
