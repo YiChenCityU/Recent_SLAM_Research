@@ -375,7 +375,7 @@
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
 #### 2. [laser reconstruction] 2020-02-14-[Real-Time 3D Reconstruction of Thin Surface Based on Laser Line Scanner](https://www.researchgate.net/publication/338707435_Real-Time_3D_Reconstruction_of_Thin_Surface_Based_on_Laser_Line_Scanner) 
-#### 3. [Deep Reconstruction] 2020-04-03-[Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://arxiv.org/pdf/2003.10432.pdf) from magicleap
+#### 3. [Deep Reconstruction] 2020-04-03-[Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://arxiv.org/pdf/2003.10432.pdf) From magicleap
 #### 4. [User-guided] 2020-05-19-[User-guided 3D reconstruction using multi-view stereo](https://dl.acm.org/doi/fullHtml/10.1145/3384382.3384530)
 #### 5. [Learned based] 2020-07-07-[On the generalization of learning-based 3D reconstruction](https://arxiv.org/pdf/2006.15427.pdf)
 #### 6. [Large-scale] 2020-07-22-[Large-scale outdoor scene reconstruction and correction with vision](https://sci-hub.tw/https://doi.org/10.1177/0278364920937052)
