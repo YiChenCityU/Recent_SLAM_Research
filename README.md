@@ -372,6 +372,9 @@
 #### 181. [Calibration] 2020-08-20-[On-the-fly Targetless Extrinsics Calibration For Multi-Stereo Systems Without Field-of-View Overlap](https://www.ri.cmu.edu/wp-content/uploads/2020/08/Chenfeng_Thesis-3.pdf)
 #### 182. [DVS] 2020-08-20-[IDOL: A Framework for IMU-DVS Odometry using Lines](https://arxiv.org/pdf/2008.05749.pdf)
 #### 183. [VSLAM] 2020-08-20-[Pose Estimation for Vehicle-mounted Cameras via Horizontal and Vertical Planes](https://arxiv.org/pdf/2008.05743.pdf)
+#### 184. [Embeded s lam] 2020-08-24-[S-VIT: Stereo Visual-Inertial Tracking of Lower Limb for Physiotherapy Rehabilitation in Context of Comprehensive Evaluationof SLAM Systems](https://sci-hub.tw/https://ieeexplore.ieee.org/document/9160889)
+#### 185. [Line feature] 2020-08-24-[Visual SLAM With Drift-Free Rotation Estimation in Manhattan World](https://sci-hub.tw/10.1109/LRA.2020.3014648)
+#### 186. [Doctor thesis] 2020-08-24-[Robust Multimodal Dense SLAM](https://spiral.imperial.ac.uk/bitstream/10044/1/80507/1/Laidlow-T-2020-PhD-Thesis.pdf)
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
 #### 2. [laser reconstruction] 2020-02-14-[Real-Time 3D Reconstruction of Thin Surface Based on Laser Line Scanner](https://www.researchgate.net/publication/338707435_Real-Time_3D_Reconstruction_of_Thin_Surface_Based_on_Laser_Line_Scanner) 
