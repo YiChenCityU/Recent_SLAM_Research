@@ -380,6 +380,11 @@
 #### 189. [LIC—Fusion] 2020-08-25-[LIC-Fusion 2.0: LiDAR-Inertial-Camera Odometry with Sliding-Window Plane-Feature Tracking](https://arxiv.org/pdf/2008.07196.pdf)
 #### 190. [Autodriving] 2020-08-25-[Drift with Devil: Security of Multi-Sensor Fusion based Localization in High-Level Autonomous Driving under GPS Spoofing](https://www.usenix.org/system/files/sec20-shen.pdf)
 #### 191. [Multicamera slam] 2020-08-25-[Towards Robust Multi Camera Visual Inertial Odometry](https://www.ri.cmu.edu/wp-content/uploads/2020/08/Final_Thesis.pdf)
+#### 192. [Plane SLAM] 2020-09-01-[Stereo Plane SLAM Based on Intersecting Lines](https://arxiv.org/pdf/2008.08218.pdf)
+#### 193. [DeepLidarFlow] 2020-09-01-[DeepLiDARFlow: A Deep Learning Architecture For Scene Flow Estimation Using Monocular Camera and Sparse LiDAR](https://arxiv.org/pdf/2008.08136.pdf)
+#### 194. [Graph optimization] 2020-09-01-[Good Graph to Optimize: Cost-Effective, Budget-Aware Bundle Adjustment in Visual SLAM](https://arxiv.org/pdf/2008.10123.pdf)
+#### 195. [Fast ORBSLAM] 2020-09-01-[FastORB-SLAM: Fast ORB-SLAM method with Coarse-to-Fine Descriptor Independent Keypoint Matching](https://arxiv.org/pdf/2008.09870.pdf)
+
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
 #### 2. [laser reconstruction] 2020-02-14-[Real-Time 3D Reconstruction of Thin Surface Based on Laser Line Scanner](https://www.researchgate.net/publication/338707435_Real-Time_3D_Reconstruction_of_Thin_Surface_Based_on_Laser_Line_Scanner) 
