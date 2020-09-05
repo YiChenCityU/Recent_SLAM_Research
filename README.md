@@ -384,7 +384,10 @@
 #### 193. [DeepLidarFlow] 2020-09-01-[DeepLiDARFlow: A Deep Learning Architecture For Scene Flow Estimation Using Monocular Camera and Sparse LiDAR](https://arxiv.org/pdf/2008.08136.pdf)
 #### 194. [Graph optimization] 2020-09-01-[Good Graph to Optimize: Cost-Effective, Budget-Aware Bundle Adjustment in Visual SLAM](https://arxiv.org/pdf/2008.10123.pdf)
 #### 195. [Fast ORBSLAM] 2020-09-01-[FastORB-SLAM: Fast ORB-SLAM method with Coarse-to-Fine Descriptor Independent Keypoint Matching](https://arxiv.org/pdf/2008.09870.pdf)
-
+#### 196. [SFM] 2020-09-05-[Reducing Drift in Structure from Motion using Extended Features](https://arxiv.org/pdf/2008.12295.pdf)
+#### 197. [Place Recognition] 2020-09-05-[Semantic Graph Based Place Recognition for 3D Point Clouds](https://arxiv.org/pdf/2008.11459.pdf)
+#### 198. [Dynamic] 2020-09-05-[Accurate RGB-D SLAM in Dynamic Environment using ObservationallyConsistent Conditional Random Fields](http://iccvm.org/2020/docs/paper6.pdf)
+#### 199. [BA] 2020-09-05-[Large Scale Photometric Bundle Adjustment](https://arxiv.org/pdf/2008.11762.pdf)
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
 #### 2. [laser reconstruction] 2020-02-14-[Real-Time 3D Reconstruction of Thin Surface Based on Laser Line Scanner](https://www.researchgate.net/publication/338707435_Real-Time_3D_Reconstruction_of_Thin_Surface_Based_on_Laser_Line_Scanner) 
