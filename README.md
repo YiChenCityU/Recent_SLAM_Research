@@ -392,6 +392,8 @@
 #### 201. [Deformable SLAM] 2020-09-11-[MORPH-DSLAM: Model Order Reduction for PHysics-based Deformable SLAM](https://arxiv.org/pdf/2009.00576.pdf)
 #### 202. [UAV Simulator] 2020-09-12-[Flightmare: A Flexible Quadrotor Simulator](https://arxiv.org/pdf/2009.00563.pdf)
 #### 203. [Low light feature] 2020-09-12-[Retaining Image Feature Matching Performance Under Low Light Conditions](https://arxiv.org/pdf/2009.00842.pdf)
+#### 204. [VSLAM] 2020-09-21-[Improving accuracy of VI-SLAM with fish-eye camera based on biases of map points](https://sci-hub.tw/https://doi.org/10.1080/01691864.2020.1815573)
+#### 205. [Deep SLAM] 2020-09-21-[Approaches, Challenges, and Applications for Deep Visual Odometry: Toward to Complicated and Emerging Areas](https://arxiv.org/pdf/2009.02672.pdf)
 
 
 
