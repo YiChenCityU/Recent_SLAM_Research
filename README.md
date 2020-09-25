@@ -394,6 +394,13 @@
 #### 203. [Low light feature] 2020-09-12-[Retaining Image Feature Matching Performance Under Low Light Conditions](https://arxiv.org/pdf/2009.00842.pdf)
 #### 204. [VSLAM] 2020-09-21-[Improving accuracy of VI-SLAM with fish-eye camera based on biases of map points](https://sci-hub.tw/https://doi.org/10.1080/01691864.2020.1815573)
 #### 205. [Deep SLAM] 2020-09-21-[Approaches, Challenges, and Applications for Deep Visual Odometry: Toward to Complicated and Emerging Areas](https://arxiv.org/pdf/2009.02672.pdf)
+#### 206. [Dataset] 2020-09-25-[4Seasons: A Cross-Season Dataset for Multi-Weather SLAM in Autonomous Driving](https://arxiv.org/pdf/2009.06364.pdf)
+#### 207. [Planar Ground Vehicles] 2020-09-25-[Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles](https://sci-hub.se/10.1109/ICRA40945.2020.9196595)
+#### 208. [Baseline calibration] 2020-09-25-[Stereo Visual Inertial Odometry with Online Baseline Calibration](https://ieeexplore.ieee.org/document/9197581)
+#### 209. [Attention SLAM] 2020-09-25-[Attention-SLAM: A Visual Monocular SLAM Learning from Human Gaze](https://arxiv.org/pdf/2009.06886.pdf)
+#### 210. [FPGA] 2020-09-25-[A Survey of FPGA-Based Robotic Computing](https://arxiv.org/pdf/2009.06034.pdf)
+#### 211. [Robust] 2020-09-25-[Towards Noise Resilient SLAM](https://sci-hub.se/10.1109/ICRA40945.2020.9196745)
+#### 212 [Unknown Focal length] 2020-09-25-[An Efficient Solution to the Perspective-n-Point Problem for Camera With Unknown Focal Length](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9184857)
 
 
 
