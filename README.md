@@ -400,8 +400,12 @@
 #### 209. [Attention SLAM] 2020-09-25-[Attention-SLAM: A Visual Monocular SLAM Learning from Human Gaze](https://arxiv.org/pdf/2009.06886.pdf)
 #### 210. [FPGA] 2020-09-25-[A Survey of FPGA-Based Robotic Computing](https://arxiv.org/pdf/2009.06034.pdf)
 #### 211. [Robust] 2020-09-25-[Towards Noise Resilient SLAM](https://sci-hub.se/10.1109/ICRA40945.2020.9196745)
-#### 212 [Unknown Focal length] 2020-09-25-[An Efficient Solution to the Perspective-n-Point Problem for Camera With Unknown Focal Length](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9184857)
-
+#### 212. [Unknown Focal length] 2020-09-25-[An Efficient Solution to the Perspective-n-Point Problem for Camera With Unknown Focal Length](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9184857)
+#### 213. [UAV mapping] 2020-09-29-[OpenREALM: Real-time Mapping for Unmanned Aerial Vehicles](https://arxiv.org/pdf/2009.10492.pdf)
+#### 214. [VSLAM] 2020-09-29-[Line Flow Based SLAM](https://arxiv.org/pdf/2009.09972.pdf)
+#### 215. [Lidar mapping] 2020-09-29-[Time-of-Flight LiDAR-based Precise Mapping](https://arxiv.org/pdf/2009.10170.pdf)
+#### 216. [VSLAM] 2020-09-29-[Practical Persistence Reasoning in Visual SLAM](http://lewissoft.com/pdf/ICRA2020/3091.pdf)
+#### 217. [Calibration] 2020-09-29-[Online Self-calibration of Camera-IMU External Parameters and IMU Initialization for Stereo VI-SLAM](https://ieeexplore.ieee.org/abstract/document/9189226)
 
 
 ### 3D Reconstruction
