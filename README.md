@@ -406,6 +406,8 @@
 #### 215. [Lidar mapping] 2020-09-29-[Time-of-Flight LiDAR-based Precise Mapping](https://arxiv.org/pdf/2009.10170.pdf)
 #### 216. [VSLAM] 2020-09-29-[Practical Persistence Reasoning in Visual SLAM](http://lewissoft.com/pdf/ICRA2020/3091.pdf)
 #### 217. [Calibration] 2020-09-29-[Online Self-calibration of Camera-IMU External Parameters and IMU Initialization for Stereo VI-SLAM](https://ieeexplore.ieee.org/abstract/document/9189226)
+#### 218. [Ph.D. Thesis] 2020-10-01-[Long-Term Localization for Self-Driving Cars](https://research.chalmers.se/publication/519096/file/519096_Fulltext.pdf)
+#### 218. [Ph.D. Thesis] 2020-10-01-[Towards Robust Visual-Inertial Estimation](https://search.proquest.com/openview/d879f5aebd2601d2aa745bc0e95a653b/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
 
 ### 3D Reconstruction
