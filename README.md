@@ -409,6 +409,12 @@
 #### 218. [Ph.D. Thesis] 2020-10-01-[Long-Term Localization for Self-Driving Cars](https://research.chalmers.se/publication/519096/file/519096_Fulltext.pdf)
 #### 219. [Ph.D. Thesis] 2020-10-01-[Towards Robust Visual-Inertial Estimation](https://search.proquest.com/openview/d879f5aebd2601d2aa745bc0e95a653b/1?pq-origsite=gscholar&cbl=18750&diss=y)
 #### 220. [VSLAM] 2020-10-07-[Loop-box: Multi-Agent Direct SLAM Triggered by Single Loop Closure for Large-Scale Mapping](https://arxiv.org/pdf/2009.13851.pdf)
+#### 221. [VSLAM] 2020-10-13-[Can You Trust Your Pose? Confidence Estimation in Visual Localization](https://arxiv.org/pdf/2010.00347.pdf)
+#### 222. [Descriptor] 2020-10-14-[Descriptor Scoring for Feature Selection in Real-Time Visual Slam](https://ieeexplore.ieee.org/abstract/document/9190889)
+#### 223. [Fusion] 2020-10-13-[Monocular Visual-Inertial-Wheel Odometry Using Low-Grade IMU in Urban Areas](https://ieeexplore.ieee.org/abstract/document/9190061)
+#### 224. [Dynamic VSLAM] 2020-10-14-[DOT: Dynamic Object Tracking for Visual SLAM](https://arxiv.org/pdf/2010.00052.pdf)
+#### 225. [Event camera] 2020-10-13-[Robust Intensity Image Reconstruciton Based On Event Cameras](https://ieeexplore.ieee.org/abstract/document/9190830)
+#### 226. [Event camera] 2020-10-14-[Event-Based Visual Place Recognition With Ensembles of Temporal Windows](https://ieeexplore.ieee.org/abstract/document/9201344)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
