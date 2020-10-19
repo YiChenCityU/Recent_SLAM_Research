@@ -416,6 +416,9 @@
 #### 225. [Event camera] 2020-10-13-[Robust Intensity Image Reconstruciton Based On Event Cameras](https://ieeexplore.ieee.org/abstract/document/9190830)
 #### 226. [Event camera] 2020-10-14-[Event-Based Visual Place Recognition With Ensembles of Temporal Windows](https://ieeexplore.ieee.org/abstract/document/9201344)
 #### 227. [Master thesis] 2020-10-16-[Evaluating the Effect of Illumination on the Performance of Visual Odometry in Underground Mining Environments](https://eprints.qut.edu.au/204294/1/Ian_Greyvensteyn_Thesis.pdf)
+#### 228. [DVO] 2020-10-19-[Bi-direction Direct RGB-D Visual Odometry](https://www.tandfonline.com/doi/abs/10.1080/08839514.2020.1824093?journalCode=uaai20)
+#### 229. [Multi camera] 2020-10-19-[Infrastructure-Based Multi-camera Calibration Using Radial Projections](https://link.springer.com/chapter/10.1007%2F978-3-030-58517-4_20)
+
 
 
 ### 3D Reconstruction
