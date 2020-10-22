@@ -418,7 +418,9 @@
 #### 227. [Master thesis] 2020-10-16-[Evaluating the Effect of Illumination on the Performance of Visual Odometry in Underground Mining Environments](https://eprints.qut.edu.au/204294/1/Ian_Greyvensteyn_Thesis.pdf)
 #### 228. [DVO] 2020-10-19-[Bi-direction Direct RGB-D Visual Odometry](https://www.tandfonline.com/doi/abs/10.1080/08839514.2020.1824093?journalCode=uaai20)
 #### 229. [Multi camera] 2020-10-19-[Infrastructure-Based Multi-camera Calibration Using Radial Projections](https://link.springer.com/chapter/10.1007%2F978-3-030-58517-4_20)
-
+#### 230. [Reloc]2020-10-22-[LM-Reloc: Levenberg-Marquardt Based Direct Visual Relocalization](https://arxiv.org/pdf/2010.06323.pdf)
+#### 231. [Match]2020-10-22-[Segmenting Epipolar Line](https://arxiv.org/pdf/2010.05131.pdf)
+#### 232. [SFM]2020-10-22-[Robust Isometric Non-Rigid Structure-from-Motion](https://arxiv.org/pdf/2010.04690.pdf)
 
 
 ### 3D Reconstruction
