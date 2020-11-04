@@ -426,7 +426,12 @@
 #### 235. [Lidar SLAM]2020-10-25-[Interactive 3D Graph SLAM for Map Correction](https://staff.aist.go.jp/k.koide/assets/pdf/ral2020.pdf)
 #### 236. [Visual SLAM]2020-10-25-[PC-VINS-MONO: A ROBUST MONO VISUAL-INERTIAL ODOMETRY WITH PHOTOMETRIC CALIBRATION](http://front-sci.com/journal/article?doi=10.32629/jai.v1i2.33)
 #### 237. [Dynamic slam]2020-10-25-[Semantic Flow-guided Motion Removal Method for Robust Mapping](https://arxiv.org/pdf/2010.06876.pdf)
-
+#### 238. [Multi_lidar]2020-11-04-[Robust Odometry and Mapping for Multi-LiDAR Systems with Online Extrinsic Calibration](https://arxiv.org/pdf/2010.14294.pdf)
+#### 239. [Sensor_fusion]2020-11-04-[VIRAL-Fusion: A Visual-Inertial-Ranging-Lidar Sensor Fusion Approach](https://arxiv.org/pdf/2010.12274.pdf)
+#### 240. [Lidar]2020-11-04-[Towards High-Performance Solid-State-LiDAR-Inertial Odometry and Mapping](https://arxiv.org/pdf/2010.13150.pdf)
+#### 241. [Sensor_fusion]2020-11-04-[LIRO: Tightly Coupled Lidar-Inertia-Ranging Odometry](https://arxiv.org/pdf/2010.13072.pdf)
+#### 242. [Lidar]2020-11-04-[PSF-LO: Parameterized Semantic Features Based Lidar Odometry](https://arxiv.org/pdf/2010.13355.pdf)
+#### 243. [Stereo]2020-11-04-[VINS-Stereo for the FPV Drone Racing VIO Competition 2020 ](https://fpv.ifi.uzh.ch/wp-content/uploads/sourcenova/uni-comp/2019-2020-uzh-fpv-benchmark/submissions/15/details.pdf)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
