@@ -432,6 +432,9 @@
 #### 241. [Sensor_fusion]2020-11-04-[LIRO: Tightly Coupled Lidar-Inertia-Ranging Odometry](https://arxiv.org/pdf/2010.13072.pdf)
 #### 242. [Lidar]2020-11-04-[PSF-LO: Parameterized Semantic Features Based Lidar Odometry](https://arxiv.org/pdf/2010.13355.pdf)
 #### 243. [Stereo]2020-11-04-[VINS-Stereo for the FPV Drone Racing VIO Competition 2020 ](https://fpv.ifi.uzh.ch/wp-content/uploads/sourcenova/uni-comp/2019-2020-uzh-fpv-benchmark/submissions/15/details.pdf)
+#### 244. [VSLAM]2020-11-14-[SaD-SLAM: A Visual SLAM Based on Semantic and Depth Information](http://ras.papercept.net/images/temp/IROS/files/0092.pdf)
+#### 245. [Ground robots]2020-11-14-[GR-SLAM: Vision-Based Sensor Fusion SLAM for Ground Robots on Complex Terrain](http://ras.papercept.net/images/temp/IROS/files/1302.pdf)
+
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
