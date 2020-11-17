@@ -434,6 +434,12 @@
 #### 243. [Stereo]2020-11-04-[VINS-Stereo for the FPV Drone Racing VIO Competition 2020 ](https://fpv.ifi.uzh.ch/wp-content/uploads/sourcenova/uni-comp/2019-2020-uzh-fpv-benchmark/submissions/15/details.pdf)
 #### 244. [VSLAM]2020-11-14-[SaD-SLAM: A Visual SLAM Based on Semantic and Depth Information](http://ras.papercept.net/images/temp/IROS/files/0092.pdf)
 #### 245. [Ground robots]2020-11-14-[GR-SLAM: Vision-Based Sensor Fusion SLAM for Ground Robots on Complex Terrain](http://ras.papercept.net/images/temp/IROS/files/1302.pdf)
+#### 246. [VSLAM]2020-11-16-[Geometric Structure Aided Visual Inertial Localization](https://arxiv.org/pdf/2011.04173.pdf)
+#### 247. [Kimera]2020-11-16-[Kimera-Multi: a System for Distributed Multi-Robot Metric-Semantic Simultaneous Localization and Mapping](https://arxiv.org/pdf/2011.04087.pdf)
+#### 248. [Rolling shutter]2020-11-16-[Learning Rolling Shutter Correction from Real Data without Camera Motion Assumption](https://arxiv.org/pdf/2011.03106.pdf)
+#### 249. [GPU]2020-11-16-[GPU Accelerated Convex Approximations for Fast Multi-Agent Trajectory Optimization](https://arxiv.org/pdf/2011.04240.pdf)
+#### 250. [Lidar Loop]2020-11-16-[MinkLoc3D: Point Cloud Based Large-Scale Place Recognition](https://arxiv.org/pdf/2011.04530.pdf)
+#### 251. [Depth learning]2020-11-16-[Deep Learning based Monocular Depth Prediction: Datasets, Methods and Applications](https://arxiv.org/pdf/2011.04123.pdf)
 
 
 ### 3D Reconstruction
