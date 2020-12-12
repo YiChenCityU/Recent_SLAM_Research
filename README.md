@@ -440,8 +440,11 @@
 #### 249. [GPU]2020-11-16-[GPU Accelerated Convex Approximations for Fast Multi-Agent Trajectory Optimization](https://arxiv.org/pdf/2011.04240.pdf)
 #### 250. [Lidar Loop]2020-11-16-[MinkLoc3D: Point Cloud Based Large-Scale Place Recognition](https://arxiv.org/pdf/2011.04530.pdf)
 #### 251. [Depth learning]2020-11-16-[Deep Learning based Monocular Depth Prediction: Datasets, Methods and Applications](https://arxiv.org/pdf/2011.04123.pdf)
-#### 252. [Sensor Fusion] 2012-12-08-[CamVox: A Low-cost and Accurate Lidar-assisted Visual SLAM System](https://arxiv.org/pdf/2011.11357.pdf)
-#### 253. [Reconstruction] 2012-12-08-[InstanceFusion: Real‐time Instance‐level 3D Reconstruction Using a Single RGBD Camera](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14157)
+#### 252. [Sensor Fusion] 2020-12-08-[CamVox: A Low-cost and Accurate Lidar-assisted Visual SLAM System](https://arxiv.org/pdf/2011.11357.pdf)
+#### 253. [Reconstruction] 2020-12-08-[InstanceFusion: Real‐time Instance‐level 3D Reconstruction Using a Single RGBD Camera](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14157)
+#### 254. [Feature Detector] 2020-12-12-[FFD: Fast Feature Detector](https://arxiv.org/pdf/2012.00859.pdf)
+#### 255. [Descriptor] 2020-12-12-[Cross-Descriptor Visual Localization and Mapping](https://arxiv.org/pdf/2012.01377.pdf)
+#### 256. [BA] 2020-12-12-[Stochastic Bundle Adjustment for Efficient and Scalable 3D Reconstruction](https://arxiv.org/pdf/2008.00446.pdf)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
