@@ -445,6 +445,11 @@
 #### 254. [Feature Detector] 2020-12-12-[FFD: Fast Feature Detector](https://arxiv.org/pdf/2012.00859.pdf)
 #### 255. [Descriptor] 2020-12-12-[Cross-Descriptor Visual Localization and Mapping](https://arxiv.org/pdf/2012.01377.pdf)
 #### 256. [BA] 2020-12-12-[Stochastic Bundle Adjustment for Efficient and Scalable 3D Reconstruction](https://arxiv.org/pdf/2008.00446.pdf)
+#### 257. [BA] 2020-12-14-[Rotation-Only Bundle Adjustment](https://arxiv.org/pdf/2011.11724.pdf)
+#### 258. [Simulation] 2020-12-14-[End-to-End UAV Simulation for Visual SLAM and Navigation](https://arxiv.org/pdf/2012.00298.pdf)
+#### 259. [BA] 2020-12-14-[Novel Parameterization for Gauss–Newton Methods in 3-D Pose Graph Optimization](https://ieeexplore.ieee.org/abstract/document/9256275)
+#### 260. [Fusion] 2020-12-14-[Plane-Edge-SLAM: Seamless Fusion of Planes and Edges for SLAM in Indoor Environments](https://ieeexplore.ieee.org/abstract/document/9248035/authors#authors)
+
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
