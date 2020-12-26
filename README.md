@@ -454,7 +454,7 @@
 #### 263. [AR] 2020-12-26-[Device profile of the XVision-spine (XVS) augmented-reality surgical navigation system: overview of its safety and efficacy](https://sci-hub.se/https://doi.org/10.1080/17434440.2021.1865795)
 #### 264. [LOAM] 2020-12-26-[P3-LOAM: PPP/LiDAR Loosely Coupled SLAM with Accurate Covariance Estimation and Robust RAIM in Urban Canyon Environment](https://arxiv.org/pdf/2012.02399.pdf)
 #### 265. [Optimization] 2020-12-26-[Generalized Proximal Methods for Pose Graph Optimization](https://arxiv.org/pdf/2012.02709.pdf)
-
+#### 266. [Calibration] 2020-12-26-[Calibration Method of 2D LIDAR and Camera Based on Indoor Structural Features](http://www.photon.ac.cn/EN/abstract/abstract22785.shtml)
 
 ### 3D Reconstruction
 #### 1. [Automatically explore] 2020-01-14-[Plan3D: Viewpoint and Trajectory Optimization for Aerial Multi-View Stereo Reconstruction](https://sci-hub.tw/https://doi.org/10.1145/3233794)
