@@ -449,6 +449,11 @@
 #### 258. [Simulation] 2020-12-14-[End-to-End UAV Simulation for Visual SLAM and Navigation](https://arxiv.org/pdf/2012.00298.pdf)
 #### 259. [BA] 2020-12-14-[Novel Parameterization for Gauss–Newton Methods in 3-D Pose Graph Optimization](https://ieeexplore.ieee.org/abstract/document/9256275)
 #### 260. [Fusion] 2020-12-14-[Plane-Edge-SLAM: Seamless Fusion of Planes and Edges for SLAM in Indoor Environments](https://ieeexplore.ieee.org/abstract/document/9248035/authors#authors)
+#### 261. [Depth] 2020-12-26-[Boosting Monocular Depth Estimation with Lightweight 3D Point Fusion](https://arxiv.org/pdf/2012.10296.pdf)
+#### 262. [VIO+depth] 2020-12-26-[CodeVIO: Visual-Inertial Odometry with Learned Optimizable Dense Depth](https://arxiv.org/pdf/2012.10133.pdf)
+#### 263. [AR] 2020-12-26-[Device profile of the XVision-spine (XVS) augmented-reality surgical navigation system: overview of its safety and efficacy](https://sci-hub.se/https://doi.org/10.1080/17434440.2021.1865795)
+#### 264. [LOAM] 2020-12-26-[P3-LOAM: PPP/LiDAR Loosely Coupled SLAM with Accurate Covariance Estimation and Robust RAIM in Urban Canyon Environment](https://arxiv.org/pdf/2012.02399.pdf)
+#### 265. [Optimization] 2020-12-26-[Generalized Proximal Methods for Pose Graph Optimization](https://arxiv.org/pdf/2012.02709.pdf)
 
 
 ### 3D Reconstruction
