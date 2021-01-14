@@ -1,6 +1,6 @@
 
 # Recent_SLAM_Research_2021
-【回馈社区】跟踪SLAM前沿动态 [2018版](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2018.md),[2019](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2019.md), [2020](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2020.md)去年大概收录了300篇关于SLAM的论文，因为本人在企业重点研究的是VSLAM以及多传感器融合，所以并没有把全部论文精读，难免有漏的或者差的。今年重点是求精以及做好分类，继续做好本圈儿的服务工作。
+【回馈社区】跟踪SLAM前沿动态 [2018](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2018.md),[2019](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2019.md), [2020](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2020.md)去年大概收录了300篇关于SLAM的论文，因为本人在企业重点研究的是VSLAM以及多传感器融合，所以并没有把全部论文精读，难免有漏的或者差的。今年重点是求精以及做好分类，继续做好本圈儿的服务工作。
 欢迎在Issues里发布招聘信息。
 ### ------------ ICRA 2021 
 ### ------------ ICRA 2021 终止线 ----------
