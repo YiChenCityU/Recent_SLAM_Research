@@ -20,6 +20,10 @@
 #### 4. [Descriptor] 2021-01-14-[ASD-SLAM: A Novel Adaptive-Scale Descriptor Learning for Visual SLAM](https://ieeexplore.ieee.org/abstract/document/9304626)
 #### 5. [Panoramas] 2021-01-14-[UPSLAM: Union of Panoramas SLAM](https://arxiv.org/pdf/2101.00585.pdf)
 #### 6. [PhD thesis] 2021-01-14-[Uncertainty-Aware Attention Guided Sensor Fusion For Monocular Visual Inertial Odometry](https://elib.dlr.de/137048/1/thesis_ks.pdf)
+#### 7. [Calibration] 2021-01-23-[Automatic Extrinsic Calibration Method for LiDAR and Camera Sensor Setups](https://arxiv.org/pdf/2101.04431.pdf)
+#### 8. [Math] 2021-01-23-[Factor Graphs: Exploiting Structure in Robotics](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-061520-010504)
+#### 9. [ICP] 2021-01-23-[Provably Approximated ICP](https://arxiv.org/pdf/2101.03588.pdf)
+#### 10. [MC-slam] 2021-01-23-[TIMA SLAM: Tracking Independently and Mapping Altogether for an Uncalibrated Multi-Camera System](https://www.mdpi.com/1424-8220/21/2/409)
 
 
 
