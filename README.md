@@ -24,7 +24,10 @@
 #### 8. [Math] 2021-01-23-[Factor Graphs: Exploiting Structure in Robotics](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-061520-010504)
 #### 9. [ICP] 2021-01-23-[Provably Approximated ICP](https://arxiv.org/pdf/2101.03588.pdf)
 #### 10. [MC-slam] 2021-01-23-[TIMA SLAM: Tracking Independently and Mapping Altogether for an Uncalibrated Multi-Camera System](https://www.mdpi.com/1424-8220/21/2/409)
-
+#### 11. [VIO] 2021-02-09-[Open AccessArticle Monocular Visual Inertial Direct SLAM with Robust Scale Estimation for Ground Robots/Vehicles](https://www.mdpi.com/2218-6581/10/1/23/htm)
+#### 12. [VIO] 2021-02-09-[VIO-Aided Structure from Motion Under Challenging Environments](https://arxiv.org/pdf/2101.09657.pdf)
+#### 13. [Calibration] 2021-02-09-[High-Precision Multicamera-Assisted Camera-IMU Calibration: Theory and Method](https://ieeexplore.ieee.org/abstract/document/9324746)
+#### 14. [DirectVO] 2021-02-09-[Tight Integration of Feature-Based Relocalization in Monocular Direct Visual Odometry](https://arxiv.org/pdf/2102.01191.pdf)
 
 
 ## SLAM 能力图 
