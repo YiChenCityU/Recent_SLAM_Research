@@ -28,6 +28,9 @@
 #### 12. [VIO] 2021-02-09-[VIO-Aided Structure from Motion Under Challenging Environments](https://arxiv.org/pdf/2101.09657.pdf)
 #### 13. [Calibration] 2021-02-09-[High-Precision Multicamera-Assisted Camera-IMU Calibration: Theory and Method](https://ieeexplore.ieee.org/abstract/document/9324746)
 #### 14. [DirectVO] 2021-02-09-[Tight Integration of Feature-Based Relocalization in Monocular Direct Visual Odometry](https://arxiv.org/pdf/2102.01191.pdf)
+#### 15. [Calibration] 2021-02-25-[Simultaneous End User Calibration of Multiple Magnetic Inertial Measurement Units With Associated Uncertainty](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9348890)
+#### 16. [VSLAM] 2021-02-25-[Point-line-based RGB-D SLAM and Bundle Adjustment Uncertainty Analysis](https://arxiv.org/pdf/2102.07110.pdf)
+#### 17. [VIO] 2021-02-25-[Consistent Right-Invariant Fixed-Lag Smoother with Application to Visual Inertial SLAM](https://arxiv.org/pdf/2102.08596.pdf)
 
 
 ## SLAM 能力图 
