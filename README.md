@@ -33,11 +33,6 @@
 #### 17. [VIO] 2021-02-25-[Consistent Right-Invariant Fixed-Lag Smoother with Application to Visual Inertial SLAM](https://arxiv.org/pdf/2102.08596.pdf)
 
 
-## SLAM 能力图 
-
-<img src="https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM%E8%83%BD%E5%8A%9B%E5%9B%BE.png" width ="300" height="550" />
-
-
 
 
 
