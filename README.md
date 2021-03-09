@@ -1,17 +1,18 @@
 
 # Recent_SLAM_Research_2021
-【回馈社区】跟踪SLAM前沿动态 [2018](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2018.md),[2019](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2019.md), [2020](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2020.md)去年大概收录了300篇关于SLAM的论文，因为本人在企业重点研究的是VSLAM以及多传感器融合，所以并没有把全部论文精读，难免有漏的或者差的。今年重点是求精以及做好分类，继续做好本圈儿的服务工作。
-欢迎在Issues里发布招聘信息。
+[SLAM research 2018](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2018.md)
+[SLAM research 2019](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2019.md)
+[SLAM research 2020](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2020.md)
 ### ------------ ICRA 2021 
-### ------------ ICRA 2021 终止线 ----------
+### ------------ ICRA 2021 end line ----------
 ### ------------ CVPR 2021 
-### ------------ CVPR 2021 终止线 ----------
+### ------------ CVPR 2021 end line ----------
 ### ------------ ECCV 2021 
-### ------------ ECCV 2021 终止线 ----------
+### ------------ ECCV 2021 end line ----------
 ### ------------ IROS 2021 
-### ------------ IROS 2021 终止线 ----------
+### ------------ IROS 2021 end line ----------
 ### ------------ ICCV 2021 
-### ------------ ICCV 2021 终止线 ----------
+### ------------ ICCV 2021 end line ----------
 
 ### SLAM 
 #### 1. [Fusion] 2021-01-14-[Visual-IMU State Estimation with GPS and OpenStreetMap for Vehicles on a Smartphone](https://ieeexplore.ieee.org/abstract/document/9305386)
@@ -31,7 +32,25 @@
 #### 15. [Calibration] 2021-02-25-[Simultaneous End User Calibration of Multiple Magnetic Inertial Measurement Units With Associated Uncertainty](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9348890)
 #### 16. [VSLAM] 2021-02-25-[Point-line-based RGB-D SLAM and Bundle Adjustment Uncertainty Analysis](https://arxiv.org/pdf/2102.07110.pdf)
 #### 17. [VIO] 2021-02-25-[Consistent Right-Invariant Fixed-Lag Smoother with Application to Visual Inertial SLAM](https://arxiv.org/pdf/2102.08596.pdf)
-
+#### 18. [VIO] 2021-03-09-[OV2SLAM : A Fully Online and Versatile Visual SLAM for Real-Time Applications](https://arxiv.org/pdf/2102.04060.pdf)
+#### 19. [LVIO] 2021-03-09-[R2LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping](https://arxiv.org/pdf/2102.12400.pdf)
+#### 20. [Review] 2021-03-09-[Visual and Visual-Inertial SLAM: State of the Art, Classification,and Experimental Benchmarking](https://www.hindawi.com/journals/js/2021/2054828/)
+#### 21. [DVS] 2021-03-09-[Data-set for Event-based Optical Flow Evaluation in Robotics Applications](https://www.scitepress.org/Papers/2021/103203/103203.pdf)
+#### 22. [Lidar slam] 2021-03-09-[GR-LOAM: LiDAR-based sensor fusion SLAM for ground robots on complex terrain](https://www.sciencedirect.com/science/article/abs/pii/S0921889021000440)
+#### 23. [Fusion] 2021-03-09-[Range-Focused Fusion of Camera-IMU-UWB for Accurate and Drift-Reduced Localization](https://ieeexplore.ieee.org/abstract/document/9350155)
+#### 24. [VIO] 2021-03-09-[Accurate Visual-Inertial SLAM by Feature Re-identification](https://arxiv.org/pdf/2102.13438.pdf)
+#### 25. [Filter] 2021-03-09-[PHD-SLAM 2.0: Efficient SLAM in the Presence of Missdetections and Clutter](https://ieeexplore.ieee.org/abstract/document/9347824)
+#### 26. [R-LOAM] 2021-03-09-[R-LOAM: Improving LiDAR Odometry and Mapping with Point-To-Mesh Features of a Known 3D Reference Object](https://ieeexplore.ieee.org/abstract/document/9357902)
+#### 27. [VIO] 2021-03-09-[A One-Step Visual-Inertial Ego-Motion Estimation using Photometric Feedback](https://ieeexplore.ieee.org/abstract/document/9351635)
+#### 28. [Panoramic] 2021-03-09-[Panoramic annular SLAM with loop closure and global optimization](https://arxiv.org/pdf/2102.13400.pdf)
+#### 29. [Fusion] 2021-03-09-[Visual-Gyroscope-Wheel Odometry with Ground Plane Constraint for Indoor Robots in Dynamic Environment](https://ieeexplore.ieee.org/abstract/document/9347674)
+#### 30. [Learned VO] 2021-03-09-[DF-VO: What Should Be Learnt for Visual Odometry?](https://arxiv.org/pdf/2103.00933.pdf)
+#### 31. [Fusion] 2021-03-09-[An Outline of Multi-Sensor Fusion Methods for Mobile Agents Indoor Navigation](https://pubmed.ncbi.nlm.nih.gov/33668886/)
+#### 32. [VIO] 2021-03-09-[Run Your Visual-Inertial Odometry on NVIDIA Jetson : Benchmark Tests on a Micro Aerial Vehicle](https://arxiv.org/pdf/2103.01655.pdf)
+#### 33. [Reconstruction] 2021-03-09-[A Pose-only Solution to Visual Reconstruction and Navigation](https://arxiv.org/pdf/2103.01530.pdf)
+#### 34. [Reconstruction] 2021-03-09-[Square Root Bundle Adjustment for Large-Scale Reconstruction](https://arxiv.org/pdf/2103.01843.pdf)
+#### 35. [Fusion] 2021-03-09-[Range-Visual-Inertial Odometry: Scale Observability Without Excitation](https://ieeexplore.ieee.org/abstract/document/9353193)
+#### 36. [Optimization] 2021-03-09-[Sparse Pose Graph Optimization in Cycle Space](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9346012)
 
 
 
