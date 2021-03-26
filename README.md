@@ -54,6 +54,11 @@
 #### 34. [Reconstruction] 2021-03-09-[Square Root Bundle Adjustment for Large-Scale Reconstruction](https://arxiv.org/pdf/2103.01843.pdf)
 #### 35. [Fusion] 2021-03-09-[Range-Visual-Inertial Odometry: Scale Observability Without Excitation](https://ieeexplore.ieee.org/abstract/document/9353193)
 #### 36. [Optimization] 2021-03-09-[Sparse Pose Graph Optimization in Cycle Space](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9346012)
+#### 37. [DeepVO] 2021-03-26-[Deep Online Correction for Monocular Visual Odometry](https://arxiv.org/pdf/2103.10029.pdf)
+#### 38. [RP-VIO] 2021-03-26-[RP-VIO: Robust Plane-based Visual-Inertial Odometry for Dynamic Environments](https://arxiv.org/pdf/2103.10400.pdf)
+#### 39. [Application] 2021-03-26-[Small Commercial UAVs for Indoor Search and Rescue Missions](https://ieeexplore.ieee.org/abstract/document/9376551)
+
+
 
 
 
