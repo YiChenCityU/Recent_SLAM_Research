@@ -57,6 +57,11 @@
 #### 37. [DeepVO] 2021-03-26-[Deep Online Correction for Monocular Visual Odometry](https://arxiv.org/pdf/2103.10029.pdf)
 #### 38. [RP-VIO] 2021-03-26-[RP-VIO: Robust Plane-based Visual-Inertial Odometry for Dynamic Environments](https://arxiv.org/pdf/2103.10400.pdf)
 #### 39. [Application] 2021-03-26-[Small Commercial UAVs for Indoor Search and Rescue Missions](https://ieeexplore.ieee.org/abstract/document/9376551)
+#### 40. [calibration] 2021-04-01-[A Joint Extrinsic Calibration Tool for Radar, Camera and Lidar](https://www.researchgate.net/publication/335144582_An_Extrinsic_Calibration_Tool_for_Radar_Camera_and_Lidar)
+#### 41. [Learning SFM] 2021-04-01-[DRO: Deep Recurrent Optimizer for Structure-from-Motion](https://arxiv.org/pdf/2103.13201.pdf)
+#### 42. [VIO] 2021-04-01-[Distributed Visual-Inertial Cooperative Localization](https://arxiv.org/pdf/2103.12770.pdf)
+#### 43. [VO] 2021-04-01-[MBA-VO: Motion Blur Aware Visual Odometry](https://arxiv.org/pdf/2103.13684.pdf)
+
 
 
 
