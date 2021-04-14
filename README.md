@@ -61,7 +61,14 @@
 #### 41. [Learning SFM] 2021-04-01-[DRO: Deep Recurrent Optimizer for Structure-from-Motion](https://arxiv.org/pdf/2103.13201.pdf)
 #### 42. [VIO] 2021-04-01-[Distributed Visual-Inertial Cooperative Localization](https://arxiv.org/pdf/2103.12770.pdf)
 #### 43. [VO] 2021-04-01-[MBA-VO: Motion Blur Aware Visual Odometry](https://arxiv.org/pdf/2103.13684.pdf)
-
+#### 44. [Reconstruction] 2021-04-14-[Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches](https://arxiv.org/pdf/2104.00482.pdf)
+#### 45. [Reconstruction] 2021-04-14-[Deep Two-View Structure-from-Motion Revisited](https://arxiv.org/pdf/2104.00556.pdf)
+#### 46. [Reconstruction] 2021-04-14-[NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video](https://arxiv.org/pdf/2104.00681.pdf)
+#### 47. [Mapping] 2021-04-14-[A Front-End for Dense Monocular SLAM using a Learned Outlier Mask Prior](https://arxiv.org/pdf/2104.00562.pdf)
+#### 48. [VO] 2021-04-14-[An Energy-Efficient Quad-Camera Visual System for Autonomous Machines on FPGA Platform](https://arxiv.org/pdf/2104.00192.pdf)
+#### 49. [VO] 2021-04-14-[FSD-SLAM: a fast semi-direct SLAM algorithm](https://link.springer.com/article/10.1007/s40747-021-00323-y)
+#### 50. [Reconstruction] 2021-04-14-[3D SURFACE RECONSTRUCTION FROM MULTI-DATE SATELLITE IMAGES](https://arxiv.org/pdf/2102.02502.pdf)
+#### 51. [VO] 2021-04-14-[Towards Real-time Semantic RGB-D SLAM in Dynamic Environments](https://arxiv.org/pdf/2104.01316.pdf)
 
 
 
