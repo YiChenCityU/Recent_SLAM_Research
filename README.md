@@ -69,6 +69,11 @@
 #### 49. [VO] 2021-04-14-[FSD-SLAM: a fast semi-direct SLAM algorithm](https://link.springer.com/article/10.1007/s40747-021-00323-y)
 #### 50. [Reconstruction] 2021-04-14-[3D SURFACE RECONSTRUCTION FROM MULTI-DATE SATELLITE IMAGES](https://arxiv.org/pdf/2102.02502.pdf)
 #### 51. [VO] 2021-04-14-[Towards Real-time Semantic RGB-D SLAM in Dynamic Environments](https://arxiv.org/pdf/2104.01316.pdf)
+#### 52. [ORB] 2021-05-15-[Reconfigurable Multi-Access Pattern Vector Memory For Real-Time ORB Feature Extraction](https://ieeexplore.ieee.org/abstract/document/9401698)
+#### 53. [VIO] 2021-05-15-[An Equivariant Filter for Visual Inertial Odometry](https://arxiv.org/pdf/2104.03532.pdf)
+#### 54. [VO] 2021-05-15-[VOLDOR+SLAM: For the times when feature-based or direct methods are not good enough](https://arxiv.org/pdf/2104.06800.pdf)
+#### 55. [LVI] 2021-05-15-[LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping](https://arxiv.org/pdf/2104.10831.pdf)
+#### 56. [VO] 2021-05-15-[Extreme Rotation Estimation using Dense Correlation Volumes](https://arxiv.org/pdf/2104.13530.pdf)
 
 
 
