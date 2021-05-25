@@ -18,13 +18,13 @@
 #### RISE-SLAM: A Resource-Aware Inverse Schmidt Estimator for SLAM.
 #### Better Lost in Transition Than Lost in Space: SLAM State Machine.
 #### Stereo Visual Inertial LiDAR Simultaneous Localization and Mapping.
-#### Fast and Incremental Loop Closure Detection Using Proximity Graphs.（https://github.com/AnshanTJU/FILD）
-#### Outlier-Robust State Estimation for Humanoid Robots.（https://github.com/mrsp/serow）
+#### Fast and Incremental Loop Closure Detection Using Proximity Graphs.（https://github.com/AnshanTJU/FILD)
+#### Outlier-Robust State Estimation for Humanoid Robots.（https://github.com/mrsp/serow)
 #### Pose Estimation for Omni-Directional Cameras Using Sinusoid Fitting.
 #### 3D Reconstruction by Single Camera Omnidirectional Multi-Stereo System.
 #### Metric Monocular Localization Using Signed Distance Fields.
 #### Free-Space Features: Global Localization in 2D Laser SLAM Using Distance Function Maps.
-#### Eigen-Factors: Plane Estimation for Multi-Frame and Time-Continuous Point Cloud Alignment.（https://gitlab.com/gferrer/eigen-factors-iros2019）
+#### Eigen-Factors: Plane Estimation for Multi-Frame and Time-Continuous Point Cloud Alignment.（https://gitlab.com/gferrer/eigen-factors-iros2019)
 #### A Robust Laser-Inertial Odometry and Mapping Method for Large-Scale Highway Environments.
 #### On the Tunable Sparse Graph Solver for Pose Graph Optimization in Visual SLAM Problems.
 #### Radar SLAM for Indoor Disaster Environments Via Multi-Modal Registration to Prior LiDAR Map.
@@ -93,7 +93,7 @@
 #### Virtual Region Based Multi-Robot Path Planning in an Unknown Occluded Environment.
 #### Fast Trajectory Planning for Multiple Quadrotors Using Relative Safe Flight Corridor.
 #### Coverage Path Planning Using Path Primitive Sampling and Primitive Coverage Graph for Visual Inspection.
-#### Volumetric Tree*: Adaptive Sparse Graph for Effective Exploration of Homotopy Classes.（https://github.com/andreacasalino/MT_RRT）
+#### Volumetric Tree*: Adaptive Sparse Graph for Effective Exploration of Homotopy Classes.（https://github.com/andreacasalino/MT_RRT)
 #### RINS-W: Robust Inertial Navigation System on Wheels.
 #### Maximum Likelihood Path Planning for Fast Aerial Maneuvers and Collision Avoidance.
 #### Graph-Based Path Planning for Autonomous Robotic Exploration in Subterranean Environments.
