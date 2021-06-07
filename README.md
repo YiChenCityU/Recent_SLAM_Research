@@ -74,7 +74,10 @@
 #### 54. [VO] 2021-05-15-[VOLDOR+SLAM: For the times when feature-based or direct methods are not good enough](https://arxiv.org/pdf/2104.06800.pdf)
 #### 55. [LVI] 2021-05-15-[LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping](https://arxiv.org/pdf/2104.10831.pdf)
 #### 56. [VO] 2021-05-15-[Extreme Rotation Estimation using Dense Correlation Volumes](https://arxiv.org/pdf/2104.13530.pdf)
-
+#### 57. [optimization] 2021-06-07-[A Comparison of Graph Optimization Approaches for Pose Estimation in SLAM](https://lamor.fer.hr/images/50036607/2021-ajuric-comparison-mipro.pdf)
+#### 58. [calibration] 2021-06-07-[iCalib: Inertial Aided Multi-Sensor Calibration](http://yangyulin.net/papers/2021_vinsworkshop_iCalib.pdf)
+#### 59. [learned vo] 2021-06-07-[DeepAVO: Efficient Pose Refining with Feature Distilling for Deep Visual Odometry](https://arxiv.org/pdf/2105.09899.pdf)
+#### 60. [Reconstruction] 2021-06-07-[Multi-view 3D Reconstruction of a Texture-less Smooth Surface of Unknown Generic Reflectance](https://arxiv.org/pdf/2105.11599.pdf)
 
 
 
