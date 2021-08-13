@@ -6,16 +6,6 @@
 
 [SLAM research 2020](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2020.md)
 
-### ------------ ICRA 2021 
-### ------------ ICRA 2021 end line ----------
-### ------------ CVPR 2021 
-### ------------ CVPR 2021 end line ----------
-### ------------ ECCV 2021 
-### ------------ ECCV 2021 end line ----------
-### ------------ IROS 2021 
-### ------------ IROS 2021 end line ----------
-### ------------ ICCV 2021 
-### ------------ ICCV 2021 end line ----------
 
 ### SLAM 
 #### 1. [Fusion] 2021-01-14-[Visual-IMU State Estimation with GPS and OpenStreetMap for Vehicles on a Smartphone](https://ieeexplore.ieee.org/abstract/document/9305386)
@@ -78,7 +68,7 @@
 #### 58. [calibration] 2021-06-07-[iCalib: Inertial Aided Multi-Sensor Calibration](http://yangyulin.net/papers/2021_vinsworkshop_iCalib.pdf)
 #### 59. [learned vo] 2021-06-07-[DeepAVO: Efficient Pose Refining with Feature Distilling for Deep Visual Odometry](https://arxiv.org/pdf/2105.09899.pdf)
 #### 60. [Reconstruction] 2021-06-07-[Multi-view 3D Reconstruction of a Texture-less Smooth Surface of Unknown Generic Reflectance](https://arxiv.org/pdf/2105.11599.pdf)
-
+#### 61. [Tools] 2021-08-13-[OdoViz: A 3D Odometry Visualization and Processing Tool](https://arxiv.org/pdf/2107.07557.pdf)
 
 
 
