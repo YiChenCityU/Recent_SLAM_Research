@@ -69,9 +69,13 @@
 #### 59. [learned vo] 2021-06-07-[DeepAVO: Efficient Pose Refining with Feature Distilling for Deep Visual Odometry](https://arxiv.org/pdf/2105.09899.pdf)
 #### 60. [Reconstruction] 2021-06-07-[Multi-view 3D Reconstruction of a Texture-less Smooth Surface of Unknown Generic Reflectance](https://arxiv.org/pdf/2105.11599.pdf)
 #### 61. [Tools] 2021-08-13-[OdoViz: A 3D Odometry Visualization and Processing Tool](https://arxiv.org/pdf/2107.07557.pdf)
-
-
-
+#### 62. [Fusion] 2021-08-24-[Multi-Camera Sensor Fusion for Visual Odometry using Deep Uncertainty Estimation](http://personal.ee.surrey.ac.uk/R.Bowden/publications/2021/Kaygusuz_ITSC2021pp.pdf)
+#### 63. [Fusion] 2021-08-24-[Resilient Indoor Localization System Based on UWB and Visual–Inertial Sensors for Complex Environments](https://ieeexplore.ieee.org/abstract/document/9503372)
+#### 64. [Event camera] 2021-08-24-[TUM-VIE: The TUM Stereo Visual-Inertial Event Dataset](https://arxiv.org/pdf/2108.07329.pdf)
+#### 65. [Monocular] 2021-08-24-[A Hybrid Sparse-Dense Monocular SLAM System for Autonomous Driving](https://arxiv.org/pdf/2108.07736.pdf)
+#### 66. [Fusion] 2021-08-24-[Tightly-Coupled Multi-Sensor Fusion for Localization with LiDAR Feature Maps](https://sites.google.com/site/drjizhao/PanL_2021_ICRA.pdf)
+#### 67. [BA] 2021-08-24-[SBAS: Salient Bundle Adjustment for Visual SLAM](https://ieeexplore.ieee.org/abstract/document/9514570)
+#### 68. [Lidar] 2021-08-24-[Piecewise Linear De-skewing for LiDAR Inertial Odometry](https://arxiv.org/pdf/2108.06078.pdf)
 
 
 
