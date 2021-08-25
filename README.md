@@ -76,7 +76,7 @@
 #### 66. [Fusion] 2021-08-24-[Tightly-Coupled Multi-Sensor Fusion for Localization with LiDAR Feature Maps](https://sites.google.com/site/drjizhao/PanL_2021_ICRA.pdf)
 #### 67. [BA] 2021-08-24-[SBAS: Salient Bundle Adjustment for Visual SLAM](https://ieeexplore.ieee.org/abstract/document/9514570)
 #### 68. [Lidar] 2021-08-24-[Piecewise Linear De-skewing for LiDAR Inertial Odometry](https://arxiv.org/pdf/2108.06078.pdf)
-
+#### 69. [Deep SLAM] 2021-08-25-[DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/pdf/2108.10869.pdf)
 
 
 
