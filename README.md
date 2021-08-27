@@ -77,7 +77,7 @@
 #### 67. [BA] 2021-08-24-[SBAS: Salient Bundle Adjustment for Visual SLAM](https://ieeexplore.ieee.org/abstract/document/9514570)
 #### 68. [Lidar] 2021-08-24-[Piecewise Linear De-skewing for LiDAR Inertial Odometry](https://arxiv.org/pdf/2108.06078.pdf)
 #### 69. [Deep SLAM] 2021-08-25-[DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/pdf/2108.10869.pdf)
-
+#### 70. [Deep SLAM] 2021-08-27-[MDN-VO: Estimating Visual Odometry with Confidence](http://personal.ee.surrey.ac.uk/Personal/R.Bowden/publications/2021/Kaygusuz_IROS2021pp.pdf)
 
 
 
