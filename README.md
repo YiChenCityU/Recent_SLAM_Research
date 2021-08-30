@@ -78,7 +78,8 @@
 #### 68. [Lidar] 2021-08-24-[Piecewise Linear De-skewing for LiDAR Inertial Odometry](https://arxiv.org/pdf/2108.06078.pdf)
 #### 69. [Deep SLAM] 2021-08-25-[DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/pdf/2108.10869.pdf)
 #### 70. [Deep SLAM] 2021-08-27-[MDN-VO: Estimating Visual Odometry with Confidence](http://personal.ee.surrey.ac.uk/Personal/R.Bowden/publications/2021/Kaygusuz_IROS2021pp.pdf)
-
+#### 71. [Object slam] 2021-08-30-[DSP-SLAM: Object Oriented SLAM with Deep Shape Priors](https://arxiv.org/pdf/2108.09481.pdf)
+#### 72. [VSLAM] 2021-08-30-[Semi-dense visual-inertial odometry and mapping for computationally constrained platforms](https://link.springer.com/article/10.1007/s10514-021-10002-z)
 
 
 
