@@ -80,7 +80,9 @@
 #### 70. [Deep SLAM] 2021-08-27-[MDN-VO: Estimating Visual Odometry with Confidence](http://personal.ee.surrey.ac.uk/Personal/R.Bowden/publications/2021/Kaygusuz_IROS2021pp.pdf)
 #### 71. [Object slam] 2021-08-30-[DSP-SLAM: Object Oriented SLAM with Deep Shape Priors](https://arxiv.org/pdf/2108.09481.pdf)
 #### 72. [VSLAM] 2021-08-30-[Semi-dense visual-inertial odometry and mapping for computationally constrained platforms](https://link.springer.com/article/10.1007/s10514-021-10002-z)
-
+#### 73. [BA] 2021-09-01-[On Bundle Adjustment for Multiview Point Cloud Registration](https://arxiv.org/pdf/2108.02976.pdf)
+#### 73. [Math] 2021-09-01-[Robust Rank Deficient SLAM](https://assets.amazon.science/3e/7e/cf8b582f40d5bef6ba075e86bea7/robust-rank-deficient-slam.pdf)
+#### 73. [COVINS] 2021-09-01-[COVINS: Visual-Inertial SLAM for Centralized Collaboration](https://arxiv.org/pdf/2108.05756.pdf)
 
 
 
