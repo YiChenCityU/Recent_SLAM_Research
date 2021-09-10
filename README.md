@@ -83,7 +83,13 @@
 #### 73. [BA] 2021-09-01-[On Bundle Adjustment for Multiview Point Cloud Registration](https://arxiv.org/pdf/2108.02976.pdf)
 #### 73. [Math] 2021-09-01-[Robust Rank Deficient SLAM](https://assets.amazon.science/3e/7e/cf8b582f40d5bef6ba075e86bea7/robust-rank-deficient-slam.pdf)
 #### 73. [COVINS] 2021-09-01-[COVINS: Visual-Inertial SLAM for Centralized Collaboration](https://arxiv.org/pdf/2108.05756.pdf)
-
+#### 74. [EKF VIO] 2021-09-10-[An Equivariant Filter for Visual Inertial Odometry](https://arxiv.org/pdf/2104.03532.pdf)
+#### 75. [Event Camera] 2021-09-10-[EventPoint: Self-Supervised Local Descriptor Learning for Event Cameras](https://arxiv.org/pdf/2109.00210.pdf)
+#### 76. [GNSS] 2021-09-10-[GNSS Outlier Mitigation Via Graduated NonConvexity Factor Graph Optimization](https://arxiv.org/pdf/2109.00667.pdf)
+#### 77. [VSLAM] 2021-09-10-[Visual SLAM with Graph-Cut Optimized Multi-Plane Reconstruction](https://arxiv.org/pdf/2108.04281.pdf)
+#### 78. [VIO] 2021-09-10-[Sampson Distance: A New Approach to Improving VisualInertial Odometry’s Accuracy](http://www.people.vcu.edu/~cye/Sampson_IROS_2021.pdf)
+#### 79. [Application] 2021-09-10-[A Wearable Robotic Device for Assistive Navigation and Object Manipulation](http://www.people.vcu.edu/~cye/Wearble_Aid_IROS2021.pdf)
+#### 80. [Reconstruction] 2021-09-10-[Vis2Mesh: Efficient Mesh Reconstruction from Unstructured Point Clouds of Large Scenes with Learned Virtual View Visibility](https://github.com/GDAOSU/vis2mesh)
 
 
 
