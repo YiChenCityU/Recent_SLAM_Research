@@ -90,6 +90,14 @@
 #### 78. [VIO] 2021-09-10-[Sampson Distance: A New Approach to Improving VisualInertial Odometry’s Accuracy](http://www.people.vcu.edu/~cye/Sampson_IROS_2021.pdf)
 #### 79. [Application] 2021-09-10-[A Wearable Robotic Device for Assistive Navigation and Object Manipulation](http://www.people.vcu.edu/~cye/Wearble_Aid_IROS2021.pdf)
 #### 80. [Reconstruction] 2021-09-10-[Vis2Mesh: Efficient Mesh Reconstruction from Unstructured Point Clouds of Large Scenes with Learned Virtual View Visibility](https://github.com/GDAOSU/vis2mesh)
+#### 81. [IMU] 2021-09-13-[Exploring the Accuracy Potential of IMU Preintegration in Factor Graph Optimization](https://arxiv.org/pdf/2109.03010.pdf)
+#### 82. [UWB] 2021-09-13-[MIR-VIO: Mutual Information Residual-based Visual Inertial Odometry with UWB Fusion for Robust Localization](https://arxiv.org/abs/2109.00747)
+#### 83. [SLAM] 2021-09-13-[Predicting Performance of SLAM Algorithms](https://arxiv.org/pdf/2109.02329.pdf)
+#### 84. [DL based] 2021-09-13-[UnDeepLIO: Unsupervised Deep Lidar-Inertial Odometry](https://arxiv.org/pdf/2109.01533.pdf)
+#### 85. [Fusion] 2021-09-13-[Tightly-Coupled Multi-Sensor Fusion for Localization with LiDAR Feature Maps](https://db6b4ecf-a-62cb3a1a-s-sites.googlegroups.com/site/drjizhao/PanL_2021_ICRA.pdf?attachauth=ANoY7co5u5zWmD-XRJl8KUlAXSZarHJynMOXImGGTAoHfLqhwA9xR2lpr6IripVIAt-hz1c1dPYW3TafQD9IUPSz2H3ar3woGUfvBFb7F-KyuCWYsedQVhs1G8_yWlvIXRjt1nHbM8ykss9OLLGzL5FiXuhWy8P8BnnVlenE--uVp4vKzsP5yPnlgY2oho8V2nrFVV5dmdtwvcUdXIvm5HKSsl3mB0Zx8w%3D%3D&attredirects=0)
+#### 86. [BA] 2021-09-13-[Square Root Marginalization for Sliding-Window Bundle Adjustment](https://arxiv.org/pdf/2109.02182.pdf)
+
+
 
 
 
