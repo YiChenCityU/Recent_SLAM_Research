@@ -96,7 +96,13 @@
 #### 84. [DL based] 2021-09-13-[UnDeepLIO: Unsupervised Deep Lidar-Inertial Odometry](https://arxiv.org/pdf/2109.01533.pdf)
 #### 85. [Fusion] 2021-09-13-[Tightly-Coupled Multi-Sensor Fusion for Localization with LiDAR Feature Maps](https://db6b4ecf-a-62cb3a1a-s-sites.googlegroups.com/site/drjizhao/PanL_2021_ICRA.pdf?attachauth=ANoY7co5u5zWmD-XRJl8KUlAXSZarHJynMOXImGGTAoHfLqhwA9xR2lpr6IripVIAt-hz1c1dPYW3TafQD9IUPSz2H3ar3woGUfvBFb7F-KyuCWYsedQVhs1G8_yWlvIXRjt1nHbM8ykss9OLLGzL5FiXuhWy8P8BnnVlenE--uVp4vKzsP5yPnlgY2oho8V2nrFVV5dmdtwvcUdXIvm5HKSsl3mB0Zx8w%3D%3D&attredirects=0)
 #### 86. [BA] 2021-09-13-[Square Root Marginalization for Sliding-Window Bundle Adjustment](https://arxiv.org/pdf/2109.02182.pdf)
-
+#### 87. [VIO] 2021-09-15-[Semi-dense visual-inertial odometry and mapping for computationally constrained platforms](https://link.springer.com/article/10.1007/s10514-021-10002-z)
+#### 87. [DeepLearning BA] 2021-09-15-[PoGO-Net: Pose Graph Optimization with Graph Neural Networks](https://www3.cs.stonybrook.edu/~hling/publication/PoGO-Net-21.pdf)
+#### 88. [DeepLearning MVS] 2021-09-15-[NeuralMVS: Bridging Multi-View Stereo and Novel View Synthesis](https://arxiv.org/pdf/2108.03880.pdf)
+#### 89. [IMU] 2021-09-15-[Exploring the Accuracy Potential of IMU Preintegration in Factor Graph Optimization](https://arxiv.org/pdf/2109.03010.pdf)
+#### 90. [Thesis] 2021-09-15-[Self Exploration and Mapping for Indoor Robotic Applications](https://repositories.lib.utexas.edu/handle/2152/87236)
+#### 91. [Fusion] 2021-09-15-[Tightly-Coupled Multi-Sensor Fusion for Localization with LiDAR Feature Maps](https://db6b4ecf-a-62cb3a1a-s-sites.googlegroups.com/site/drjizhao/PanL_2021_ICRA.pdf?attachauth=ANoY7co5u5zWmD-XRJl8KUlAXSZarHJynMOXImGGTAoHfLqhwA9xR2lpr6IripVIAt-hz1c1dPYW3TafQD9IUPSz2H3ar3woGUfvBFb7F-KyuCWYsedQVhs1G8_yWlvIXRjt1nHbM8ykss9OLLGzL5FiXuhWy8P8BnnVlenE--uVp4vKzsP5yPnlgY2oho8V2nrFVV5dmdtwvcUdXIvm5HKSsl3mB0Zx8w%3D%3D&attredirects=0)
+#### 92. [BA] 2021-09-15-[Square Root Marginalization for Sliding-Window Bundle Adjustment](https://arxiv.org/pdf/2109.02182.pdf)
 
 
 
