@@ -103,7 +103,12 @@
 #### 90. [Thesis] 2021-09-15-[Self Exploration and Mapping for Indoor Robotic Applications](https://repositories.lib.utexas.edu/handle/2152/87236)
 #### 91. [Fusion] 2021-09-15-[Tightly-Coupled Multi-Sensor Fusion for Localization with LiDAR Feature Maps](https://db6b4ecf-a-62cb3a1a-s-sites.googlegroups.com/site/drjizhao/PanL_2021_ICRA.pdf?attachauth=ANoY7co5u5zWmD-XRJl8KUlAXSZarHJynMOXImGGTAoHfLqhwA9xR2lpr6IripVIAt-hz1c1dPYW3TafQD9IUPSz2H3ar3woGUfvBFb7F-KyuCWYsedQVhs1G8_yWlvIXRjt1nHbM8ykss9OLLGzL5FiXuhWy8P8BnnVlenE--uVp4vKzsP5yPnlgY2oho8V2nrFVV5dmdtwvcUdXIvm5HKSsl3mB0Zx8w%3D%3D&attredirects=0)
 #### 92. [BA] 2021-09-15-[Square Root Marginalization for Sliding-Window Bundle Adjustment](https://arxiv.org/pdf/2109.02182.pdf)
-
+#### 93. [semantic] 2021-09-23-[Evaluating the Impact of Semantic Segmentation and Pose Estimation on Dense Semantic SLAM](https://arxiv.org/pdf/2109.07748.pdf)
+#### 94. [mapping] 2021-09-23-[Efficient and Probabilistic Adaptive Voxel Mapping for Accurate Online 3D SLAM](https://arxiv.org/pdf/2109.07082.pdf)
+#### 95. [semantic] 2021-09-23-[S3LAM: Structured Scene SLAM](https://arxiv.org/pdf/2109.07339.pdf)
+#### 96. [fusion] 2021-09-23-[R3LIVE: A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package](https://arxiv.org/pdf/2109.07982.pdf)
+#### 97. [Calibration] 2021-09-23-[Fast and Accurate Extrinsic Calibration for Multiple LiDARs and Cameras](https://arxiv.org/pdf/2109.06550.pdf)
+#### 98. [lidar] 2021-09-23-[Globally Consistent 3D LiDAR Mapping with GPU-accelerated GICP Matching Cost Factors](https://arxiv.org/pdf/2109.07073.pdf)
 
 
 
