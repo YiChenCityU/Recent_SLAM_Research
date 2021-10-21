@@ -109,6 +109,9 @@
 #### 96. [fusion] 2021-09-23-[R3LIVE: A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package](https://arxiv.org/pdf/2109.07982.pdf)
 #### 97. [Calibration] 2021-09-23-[Fast and Accurate Extrinsic Calibration for Multiple LiDARs and Cameras](https://arxiv.org/pdf/2109.06550.pdf)
 #### 98. [lidar] 2021-09-23-[Globally Consistent 3D LiDAR Mapping with GPU-accelerated GICP Matching Cost Factors](https://arxiv.org/pdf/2109.07073.pdf)
+#### 99. [Math] 2021-10-21-[Active SLAM over Continuous Trajectory and Control:A Covariance-Feedback Approach](https://arxiv.org/pdf/2110.07546.pdf)
+#### 100. [radar] 2021-10-21-[Oriented surface points for efficient and accurate radar odometry](https://arxiv.org/pdf/2109.09994.pdf)
+#### 101. [Dataset] 2021-10-21-[DenseMatch: a dataset for real-time 3D reconstruction](https://www.sciencedirect.com/science/article/pii/S2352340921007575)
 
 
 
